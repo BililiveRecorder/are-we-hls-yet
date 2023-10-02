@@ -171,6 +171,13 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 114,
+      "subAreaName": "风暴英雄",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 115,
       "subAreaName": "坦克世界",
       "flvAvailable": false
@@ -439,7 +446,7 @@
       "areaName": "单机游戏",
       "subAreaId": 277,
       "subAreaName": "命运2",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 6,
@@ -591,6 +598,13 @@
     {
       "areaId": 11,
       "areaName": "知识",
+      "subAreaId": 376,
+      "subAreaName": "社科法律心理",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 11,
+      "areaName": "知识",
       "subAreaId": 377,
       "subAreaName": "职场·技能",
       "flvAvailable": true
@@ -705,6 +719,13 @@
       "areaName": "网游",
       "subAreaId": 505,
       "subAreaName": "剑灵",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 507,
+      "subAreaName": "胡闹厨房",
       "flvAvailable": true
     },
     {
@@ -976,6 +997,13 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 675,
+      "subAreaName": "无期迷途",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 687,
       "subAreaName": "光遇",
       "flvAvailable": true
@@ -1062,7 +1090,7 @@
       "areaName": "虚拟主播",
       "subAreaId": 743,
       "subAreaName": "TopStar",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 9,
@@ -1156,6 +1184,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 785,
+      "subAreaName": "Warlander",
+      "flvAvailable": true
+    },
+    {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 787,
@@ -1195,7 +1230,7 @@
       "areaName": "单机游戏",
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -1223,6 +1258,13 @@
       "areaName": "单机游戏",
       "subAreaId": 812,
       "subAreaName": "匹诺曹的谎言",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 813,
+      "subAreaName": "幻世与冒险",
       "flvAvailable": true
     },
     {
@@ -1331,5 +1373,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696260076199"
+  "lastUpdated": "1696264083481"
 }
