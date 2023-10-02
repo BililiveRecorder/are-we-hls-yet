@@ -73,8 +73,10 @@ function writeToFile(flvAvailabilities: FlvAvailability[]) {
 
     // merge existing data with new data
     var map = new Map<string, FlvAvailability>();
-    for (const flvAvailability of data.data) {
-        map.set(flvAvailability.subAreaId, flvAvailability);
+    if (typeof data.data === 'object' && data.data.length > 0) {
+        for (const flvAvailability of data.data) {
+            map.set(flvAvailability.subAreaId, flvAvailability);
+        }
     }
 
     for (const flvAvailability of flvAvailabilities) {

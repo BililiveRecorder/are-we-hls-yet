@@ -1,7 +1,3 @@
-import { fileURLToPath } from 'url';
-import path from 'path';
+import crawl from "./crawl";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-console.log(__dirname);
+crawl();
