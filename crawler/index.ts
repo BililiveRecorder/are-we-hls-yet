@@ -5,7 +5,7 @@ import { log } from './util';
 
 const job = new CronJob(
     // runs every 1 hour at 16 minutes 30 seconds
-    '30 16 * * *',
+    '30 28 * * * *',
     run,
 );
 job.start();
