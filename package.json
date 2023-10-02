@@ -12,7 +12,12 @@
         "crawl": "tsm crawler/index.ts"
     },
     "dependencies": {
-        "astro": "^3.2.0"
+        "@astrojs/mdx": "^1.1.0",
+        "@astrojs/solid-js": "^3.0.1",
+        "@astrojs/tailwind": "^5.0.0",
+        "astro": "^3.2.0",
+        "solid-js": "^1.4.3",
+        "tailwindcss": "^3.0.24"
     },
     "devDependencies": {
         "tsm": "^2.3.0"
