@@ -528,6 +528,13 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 298,
+      "subAreaName": "新游前瞻",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 300,
       "subAreaName": "封印者",
       "flvAvailable": true
@@ -601,6 +608,13 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 331,
+      "subAreaName": "星战前夜：晨曦",
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -1109,6 +1123,13 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 656,
+      "subAreaName": "VRChat",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 658,
       "subAreaName": "星际公民",
       "flvAvailable": false
@@ -1161,6 +1182,20 @@
       "subAreaId": 678,
       "subAreaName": "游戏速通",
       "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 683,
+      "subAreaName": "奇迹MU",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 686,
+      "subAreaName": "彩虹岛",
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -1583,5 +1618,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696274926127"
+  "lastUpdated": "1696278528646"
 }
