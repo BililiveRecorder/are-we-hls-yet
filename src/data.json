@@ -283,6 +283,13 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 212,
+      "subAreaName": "非人学园",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 214,
       "subAreaName": "雀姬",
       "flvAvailable": true
@@ -1499,6 +1506,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 809,
+      "subAreaName": "重生边缘",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 811,
@@ -1632,5 +1646,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696282126333"
+  "lastUpdated": "1696285725309"
 }
