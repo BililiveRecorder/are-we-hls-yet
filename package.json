@@ -19,6 +19,7 @@
         "astro": "^3.2.0",
         "cron": "^3.0.0",
         "node-fetch": "^3.3.2",
+        "simple-git": "^3.20.0",
         "solid-js": "^1.4.3",
         "tailwindcss": "^3.0.24"
     },
