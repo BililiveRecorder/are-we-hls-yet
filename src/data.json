@@ -603,6 +603,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 383,
+      "subAreaName": "战意",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 384,
@@ -981,6 +988,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 11,
+      "areaName": "知识",
+      "subAreaId": 701,
+      "subAreaName": "科学科普",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 707,
@@ -1172,6 +1186,13 @@
     {
       "areaId": 6,
       "areaName": "单机游戏",
+      "subAreaId": 811,
+      "subAreaName": "收获日3",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
       "subAreaId": 812,
       "subAreaName": "匹诺曹的谎言",
       "flvAvailable": true
@@ -1275,5 +1296,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696258654886"
+  "lastUpdated": "1696258689392"
 }
