@@ -187,7 +187,7 @@
       "areaName": "娱乐",
       "subAreaId": 145,
       "subAreaName": "视频聊天",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -290,8 +290,22 @@
     {
       "areaId": 6,
       "areaName": "单机游戏",
+      "subAreaId": 226,
+      "subAreaName": "荒野大镖客2",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
       "subAreaId": 227,
       "subAreaName": "刺客信条",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 228,
+      "subAreaName": "精灵宝可梦",
       "flvAvailable": true
     },
     {
@@ -325,6 +339,13 @@
     {
       "areaId": 6,
       "areaName": "单机游戏",
+      "subAreaId": 244,
+      "subAreaName": "鬼泣5",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
       "subAreaId": 245,
       "subAreaName": "只狼",
       "flvAvailable": true
@@ -341,6 +362,13 @@
       "areaName": "网游",
       "subAreaId": 249,
       "subAreaName": "星际战甲",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 251,
+      "subAreaName": "枪神纪",
       "flvAvailable": true
     },
     {
@@ -439,6 +467,13 @@
       "areaName": "手游",
       "subAreaId": 292,
       "subAreaName": "火影忍者手游",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 293,
+      "subAreaName": "战双帕弥什",
       "flvAvailable": true
     },
     {
@@ -573,6 +608,13 @@
       "subAreaId": 384,
       "subAreaName": "猛兽派对",
       "flvAvailable": false
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 385,
+      "subAreaName": "博德之门3",
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -773,9 +815,23 @@
     {
       "areaId": 6,
       "areaName": "单机游戏",
+      "subAreaId": 592,
+      "subAreaName": "恋爱模拟游戏",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
       "subAreaId": 593,
       "subAreaName": "泰拉瑞亚",
       "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 597,
+      "subAreaName": "战地风云",
+      "flvAvailable": false
     },
     {
       "areaId": 2,
@@ -783,6 +839,13 @@
       "subAreaId": 600,
       "subAreaName": "猎杀对决",
       "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 601,
+      "subAreaName": "综合射击",
+      "flvAvailable": true
     },
     {
       "areaId": 2,
@@ -850,6 +913,13 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 664,
+      "subAreaName": "跑跑卡丁车",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 666,
       "subAreaName": "永劫无间",
       "flvAvailable": true
@@ -883,6 +953,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 690,
+      "subAreaName": "英魂之刃",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 693,
@@ -901,6 +978,20 @@
       "areaName": "网游",
       "subAreaId": 695,
       "subAreaName": "传奇",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 707,
+      "subAreaName": "禁闭求生",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 710,
+      "subAreaName": "梦三国",
       "flvAvailable": true
     },
     {
@@ -1037,6 +1128,13 @@
       "flvAvailable": false
     },
     {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 792,
+      "subAreaName": "桃源深处有人家",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 795,
@@ -1168,7 +1266,14 @@
       "subAreaId": 834,
       "subAreaName": "德州电锯",
       "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 835,
+      "subAreaName": "KARDS",
+      "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696257598915"
+  "lastUpdated": "1696258654886"
 }
