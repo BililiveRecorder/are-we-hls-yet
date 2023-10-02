@@ -128,44 +128,8 @@ async function checkFlvAvailability(room: Room): Promise<FlvAvailability> {
 }
 
 async function fetchRooms(): Promise<Room[]> {
-    const pagesToFetch = 5; // 5 * 2 * 30 = 300 rooms
-
+    const pagesToFetch = 10;
     const rooms: Room[] = [];
-
-    for (let i = 1; i <= pagesToFetch; i++) {
-        log(`Fetching rooms page ${i}...`);
-        const resp = await fetch(`https://api.live.bilibili.com/xlive/web-interface/v1/second/getListByArea?sort=livetime&page=${i}&page_size=30&platform=web`, {
-            "headers": {
-                "accept": "application/json, text/plain, */*",
-                "accept-language": "zh-CN",
-                "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
-                "sec-ch-ua-mobile": "?0",
-                "sec-ch-ua-platform": "\"Windows\"",
-                "sec-fetch-dest": "empty",
-                "sec-fetch-mode": "cors",
-                "sec-fetch-site": "same-site",
-                "Referer": "https://live.bilibili.com/",
-                "Referrer-Policy": "strict-origin-when-cross-origin"
-            },
-            "body": null,
-            "method": "GET"
-        });
-        let obj = await resp.json() as any;
-
-        if (obj.code !== 0) {
-            throw new Error(`Failed to fetch rooms: (${obj.code}) ${obj.message}`);
-        }
-
-        for (const room of obj.data.list) {
-            rooms.push({
-                areaId: room.area_v2_parent_id,
-                areaName: room.area_v2_parent_name,
-                subAreaId: room.area_v2_id,
-                subAreaName: room.area_v2_name,
-                roomId: room.roomid
-            });
-        }
-    }
 
     for (let i = 1; i <= pagesToFetch; i++) {
         log(`Fetching rooms page ${i}...`);
@@ -191,25 +155,61 @@ async function fetchRooms(): Promise<Room[]> {
             throw new Error(`Failed to fetch rooms: (${obj.code}) ${obj.message}`);
         }
 
-        for (const room of obj.data.list) {
-            rooms.push({
-                areaId: room.area_v2_parent_id,
-                areaName: room.area_v2_parent_name,
-                subAreaId: room.area_v2_id,
-                subAreaName: room.area_v2_name,
-                roomId: room.roomid
-            });
+        if (typeof obj.data.list === 'object' && typeof obj.data.list.length === 'number' && obj.data.list.length > 0) {
+            for (const room of obj.data.list) {
+                rooms.push({
+                    areaId: room.area_v2_parent_id,
+                    areaName: room.area_v2_parent_name,
+                    subAreaId: room.area_v2_id,
+                    subAreaName: room.area_v2_name,
+                    roomId: room.roomid
+                });
+            }
+        }
+    }
+
+    for (let i = 1; i <= pagesToFetch; i++) {
+        log(`Fetching rooms page ${i}...`);
+        const resp = await fetch(`https://api.live.bilibili.com/xlive/web-interface/v1/second/getListByArea?sort=livetime&page=${i}&page_size=30&platform=web`, {
+            "headers": {
+                "accept": "application/json, text/plain, */*",
+                "accept-language": "zh-CN",
+                "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
+                "sec-ch-ua-mobile": "?0",
+                "sec-ch-ua-platform": "\"Windows\"",
+                "sec-fetch-dest": "empty",
+                "sec-fetch-mode": "cors",
+                "sec-fetch-site": "same-site",
+                "Referer": "https://live.bilibili.com/",
+                "Referrer-Policy": "strict-origin-when-cross-origin"
+            },
+            "body": null,
+            "method": "GET"
+        });
+        let obj = await resp.json() as any;
+
+        if (obj.code !== 0) {
+            throw new Error(`Failed to fetch rooms: (${obj.code}) ${obj.message}`);
+        }
+        if (typeof obj.data.list === 'object' && typeof obj.data.list.length === 'number' && obj.data.list.length > 0) {
+            for (const room of obj.data.list) {
+                rooms.push({
+                    areaId: room.area_v2_parent_id,
+                    areaName: room.area_v2_parent_name,
+                    subAreaId: room.area_v2_id,
+                    subAreaName: room.area_v2_name,
+                    roomId: room.roomid
+                });
+            }
         }
     }
 
     log(`Fetched ${rooms.length} rooms, cleaning up...`);
 
-    // deduplicate rooms by their subAreaId, keep the first one
+    // deduplicate rooms by their subAreaId, keep the last one
     var areaMap = new Map<string, Room>();
     for (const room of rooms) {
-        if (!areaMap.has(room.subAreaId)) {
-            areaMap.set(room.subAreaId, room);
-        }
+        areaMap.set(room.subAreaId, room);
     }
 
     const deduplicatedRooms: Room[] = Array.from(areaMap.values());

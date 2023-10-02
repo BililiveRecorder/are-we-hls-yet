@@ -75,24 +75,29 @@ const areas: Area[] = Array.from(areaMap.values())
             areas.map((area) => (
                 <div class="my-2">
                     <h3 class="text-3xl py-6">{area.name}</h3>
-                    {area.subareas.map((subarea) => (
-                        <div class="flex items-center justify-center">
-                            <h4 class="text-2xl after:content-['：']">
-                                {subarea.name}
-                            </h4>
-                            <span
-                                class:list={[
-                                    "text-2xl",
-                                    "after:content-['!']",
-                                    subarea.ok
-                                        ? "text-green-500"
-                                        : "text-red-500",
-                                ]}
-                            >
-                                {subarea.ok ? "赢" : "寄"}
-                            </span>
-                        </div>
-                    ))}
+                    <table class="w-full border-collapse border border-slate-500">
+                        <tbody>
+                            {area.subareas.map((subarea) => (
+                                <tr>
+                                    <td class="text-2xl p-2 border border-slate-600">
+                                        {subarea.name}
+                                    </td>
+                                    <td class="text-2xl w-14 p-2 border border-slate-600">
+                                        <span
+                                            class:list={[
+                                                "after:content-['!']",
+                                                subarea.ok
+                                                    ? "text-green-500"
+                                                    : "text-red-500",
+                                            ]}
+                                        >
+                                            {subarea.ok ? "赢" : "寄"}
+                                        </span>
+                                    </td>
+                                </tr>
+                            ))}
+                        </tbody>
+                    </table>
                 </div>
             ))
         }
