@@ -2,6 +2,8 @@
 import Base from "../layouts/Base.astro";
 import data from "../data.json";
 import { Debug } from "astro:components";
+import Ying from "../components/Ying";
+import Row from "../components/Row";
 
 // parse date into UTF+8
 const lastUpdated = new Date(parseInt(data.lastUpdated));
@@ -71,6 +73,7 @@ const areas: Area[] = Array.from(areaMap.values())
                 })
             }
         </p>
+        <Ying client:load />
         {
             areas.map((area) => (
                 <div class="my-2">
@@ -78,14 +81,14 @@ const areas: Area[] = Array.from(areaMap.values())
                         <summary class="text-3xl underline underline-offset-4 hover:cursor-pointer">
                             <h3 class="inline text-3xl">{area.name}</h3>
                         </summary>
-                        <table class="w-full m-4 border-collapse border border-slate-500">
-                            <tbody>
-                                {area.subareas.map((subarea) => (
-                                    <tr>
-                                        <td class="text-2xl p-2 border border-slate-600">
+                        <div class="w-full my-4 border-collapse border border-slate-500">
+                            {area.subareas.map((subarea) => (
+                                <Row ignore={!subarea.ok} client:load>
+                                    <div class="flex">
+                                        <div class="text-2xl p-2 border border-slate-600 flex-1">
                                             {subarea.name}
-                                        </td>
-                                        <td class="text-2xl w-14 p-2 border border-slate-600">
+                                        </div>
+                                        <div class="text-2xl w-14 p-2 border border-slate-600">
                                             <span
                                                 class:list={[
                                                     "after:content-['!']",
@@ -96,11 +99,11 @@ const areas: Area[] = Array.from(areaMap.values())
                                             >
                                                 {subarea.ok ? "赢" : "寄"}
                                             </span>
-                                        </td>
-                                    </tr>
-                                ))}
-                            </tbody>
-                        </table>
+                                        </div>
+                                    </div>
+                                </Row>
+                            ))}
+                        </div>
                     </details>
                 </div>
             ))
