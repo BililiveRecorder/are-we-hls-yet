@@ -1,0 +1,20 @@
+{
+    "name": "are-we-hls-yet",
+    "type": "module",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "dev": "astro dev",
+        "start": "astro dev",
+        "build": "astro build",
+        "preview": "astro preview",
+        "astro": "astro",
+        "crawl": "tsm crawler/index.ts"
+    },
+    "dependencies": {
+        "astro": "^3.2.0"
+    },
+    "devDependencies": {
+        "tsm": "^2.3.0"
+    }
+}
