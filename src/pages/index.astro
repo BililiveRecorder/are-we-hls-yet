@@ -1,0 +1,100 @@
+---
+import Base from "../layouts/Base.astro";
+import data from "../data.json";
+import { Debug } from "astro:components";
+
+// parse date into UTF+8
+const lastUpdated = new Date(parseInt(data.lastUpdated));
+
+type Area = {
+    name: string;
+    subareas: SubArea[];
+};
+
+type SubArea = {
+    name: string;
+    ok: boolean;
+};
+
+// group by their area id
+const areaMap = new Map<
+    number,
+    { id: number; name: string; subAreas: SubArea[] }
+>();
+
+for (const area of data.data) {
+    const { areaId, areaName, subAreaId, subAreaName, flvAvailable } = area;
+    var areaObj = areaMap.get(areaId);
+    if (!areaObj) {
+        areaObj = {
+            id: areaId,
+            name: areaName,
+            subAreas: [],
+        };
+        areaMap.set(areaId, areaObj);
+    }
+    areaObj.subAreas.push({
+        name: subAreaName,
+        ok: flvAvailable,
+    });
+}
+
+// sort by area id ascending
+const areas: Area[] = Array.from(areaMap.values())
+    .sort((a, b) => a.id - b.id)
+    .map((area) => ({
+        name: area.name,
+        subareas: area.subAreas,
+    }));
+---
+
+<Base title="Are we HLS yet?">
+    <div class="mx-auto my-4 p-4 max-w-prose text-center">
+        <h1 class="font-bold text-5xl py-12">
+            Are
+            <ruby>we<rp>(</rp><rt>录播姬</rt><rp>)</rp></ruby>
+             HLS yet?
+        </h1>
+        <p class="font-bold text-4xl text-red-500">NOPE</p>
+    </div>
+    <div class="mx-auto max-w-prose p-4 my-4 text-center">
+        <h2 class="text-4xl">寄了吗？</h2>
+        <p class="text-slate-500 my-2">
+            更新时间：{
+                lastUpdated.toLocaleString("zh-CN", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                    hour: "numeric",
+                    minute: "numeric",
+                    timeZone: "Asia/Shanghai",
+                })
+            }
+        </p>
+        {
+            areas.map((area) => (
+                <div class="my-2">
+                    <h3 class="text-3xl py-6">{area.name}</h3>
+                    {area.subareas.map((subarea) => (
+                        <div class="flex items-center justify-center">
+                            <h4 class="text-2xl after:content-['：']">
+                                {subarea.name}
+                            </h4>
+                            <span
+                                class:list={[
+                                    "text-2xl",
+                                    "after:content-['!']",
+                                    subarea.ok
+                                        ? "text-green-500"
+                                        : "text-red-500",
+                                ]}
+                            >
+                                {subarea.ok ? "噫" : "寄"}
+                            </span>
+                        </div>
+                    ))}
+                </div>
+            ))
+        }
+    </div>
+</Base>
