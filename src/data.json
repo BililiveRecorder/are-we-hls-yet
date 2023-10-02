@@ -283,6 +283,13 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 214,
+      "subAreaName": "雀姬",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 215,
       "subAreaName": "月圆之夜",
       "flvAvailable": true
@@ -360,6 +367,13 @@
     {
       "areaId": 6,
       "areaName": "单机游戏",
+      "subAreaId": 243,
+      "subAreaName": "全境封锁2",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
       "subAreaId": 244,
       "subAreaName": "鬼泣5",
       "flvAvailable": true
@@ -411,6 +425,13 @@
       "areaName": "手游",
       "subAreaId": 256,
       "subAreaName": "和平精英",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 257,
+      "subAreaName": "全面战争",
       "flvAvailable": true
     },
     {
@@ -498,6 +519,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 295,
+      "subAreaName": "方舟",
+      "flvAvailable": true
+    },
+    {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 300,
@@ -551,6 +579,13 @@
       "areaName": "手游",
       "subAreaId": 321,
       "subAreaName": "原神",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 326,
+      "subAreaName": "骑马与砍杀",
       "flvAvailable": true
     },
     {
@@ -920,6 +955,13 @@
     {
       "areaId": 6,
       "areaName": "单机游戏",
+      "subAreaId": 591,
+      "subAreaName": "Dread Hunger",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
       "subAreaId": 592,
       "subAreaName": "恋爱模拟游戏",
       "flvAvailable": true
@@ -1006,6 +1048,13 @@
       "areaName": "网游",
       "subAreaId": 629,
       "subAreaName": "反恐精英Online",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 633,
+      "subAreaName": "FPS沙盒",
       "flvAvailable": true
     },
     {
@@ -1107,6 +1156,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 678,
+      "subAreaName": "游戏速通",
+      "flvAvailable": true
+    },
+    {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 687,
@@ -1170,6 +1226,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 708,
+      "subAreaName": "FIFA23",
+      "flvAvailable": true
+    },
+    {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 710,
@@ -1216,7 +1279,7 @@
       "areaName": "虚拟主播",
       "subAreaId": 743,
       "subAreaName": "TopStar",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 9,
@@ -1373,6 +1436,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 806,
+      "subAreaName": "千年之旅",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 808,
@@ -1471,6 +1541,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 10,
+      "areaName": "生活",
+      "subAreaId": 827,
+      "subAreaName": "沉浸体验",
+      "flvAvailable": true
+    },
+    {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 829,
@@ -1506,5 +1583,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696271328572"
+  "lastUpdated": "1696274926127"
 }
