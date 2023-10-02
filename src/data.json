@@ -624,6 +624,13 @@
       "flvAvailable": false
     },
     {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 330,
+      "subAreaName": "公主连结Re:Dive",
+      "flvAvailable": true
+    },
+    {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 331,
@@ -892,6 +899,13 @@
     {
       "areaId": 6,
       "areaName": "单机游戏",
+      "subAreaId": 535,
+      "subAreaName": "暗黑破坏神",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
       "subAreaId": 548,
       "subAreaName": "帝国时代4",
       "flvAvailable": false
@@ -929,6 +943,13 @@
       "areaName": "赛事",
       "subAreaId": 561,
       "subAreaName": "游戏赛事",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 13,
+      "areaName": "赛事",
+      "subAreaId": 562,
+      "subAreaName": "体育赛事",
       "flvAvailable": false
     },
     {
@@ -1028,6 +1049,13 @@
       "subAreaId": 597,
       "subAreaName": "战地风云",
       "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 599,
+      "subAreaName": "洛奇英雄传",
+      "flvAvailable": true
     },
     {
       "areaId": 2,
@@ -1144,6 +1172,13 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 654,
+      "subAreaName": "诛仙世界",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 656,
       "subAreaName": "VRChat",
       "flvAvailable": false
@@ -1154,6 +1189,13 @@
       "subAreaId": 658,
       "subAreaName": "星际公民",
       "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 663,
+      "subAreaName": "洛奇",
+      "flvAvailable": true
     },
     {
       "areaId": 2,
@@ -1174,6 +1216,13 @@
       "areaName": "网游",
       "subAreaId": 667,
       "subAreaName": "赛尔号",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 668,
+      "subAreaName": "造梦西游",
       "flvAvailable": true
     },
     {
@@ -1209,6 +1258,13 @@
       "areaName": "网游",
       "subAreaId": 683,
       "subAreaName": "奇迹MU",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 684,
+      "subAreaName": "永恒之塔",
       "flvAvailable": true
     },
     {
@@ -1363,6 +1419,13 @@
       "areaName": "单机游戏",
       "subAreaId": 753,
       "subAreaName": "Roblox",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 760,
+      "subAreaName": "蓝色协议",
       "flvAvailable": false
     },
     {
@@ -1646,5 +1709,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696285725309"
+  "lastUpdated": "1696289331572"
 }
