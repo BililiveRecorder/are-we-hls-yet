@@ -1,11 +1,10 @@
 import { CronJob } from 'cron';
+import crawl from './crawl';
 
 const job = new CronJob(
     // runs every 4 hours at 0 minutes 30 seconds
     '30 0 */4 * * *',
-    function () {
-        console.log('You will see this message every second');
-    }
+    crawl,
 );
 job.start();
 
