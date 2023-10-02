@@ -239,6 +239,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 189,
+      "subAreaName": "明日之后",
+      "flvAvailable": true
+    },
+    {
       "areaId": 5,
       "areaName": "电台",
       "subAreaId": 190,
@@ -521,6 +528,13 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 316,
+      "subAreaName": "战争雷霆",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 318,
       "subAreaName": "使命召唤:战区",
       "flvAvailable": false
@@ -659,6 +673,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 387,
+      "subAreaName": "恐鬼症",
+      "flvAvailable": true
+    },
+    {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 395,
@@ -719,6 +740,20 @@
       "areaName": "手游",
       "subAreaId": 474,
       "subAreaName": "哈利波特：魔法觉醒",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 478,
+      "subAreaName": "漫威超级战争",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 499,
+      "subAreaName": "剑网3缘起",
       "flvAvailable": true
     },
     {
@@ -883,6 +918,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 596,
+      "subAreaName": "天涯明月刀",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 597,
@@ -964,6 +1006,13 @@
       "areaName": "生活",
       "subAreaId": 646,
       "subAreaName": "生活分享",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 649,
+      "subAreaName": "街头篮球",
       "flvAvailable": true
     },
     {
@@ -1263,6 +1312,13 @@
     {
       "areaId": 6,
       "areaName": "单机游戏",
+      "subAreaId": 800,
+      "subAreaName": "机战佣兵VI 境界天火",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailable": false
@@ -1408,5 +1464,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696264129831"
+  "lastUpdated": "1696267730957"
 }
