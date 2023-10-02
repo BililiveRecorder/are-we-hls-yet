@@ -66,6 +66,13 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 81,
+      "subAreaName": "三国杀",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 82,
       "subAreaName": "剑网3",
       "flvAvailable": true
@@ -577,6 +584,13 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 343,
+      "subAreaName": "DNF手游",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 352,
       "subAreaName": "三国杀移动版",
       "flvAvailable": true
@@ -587,6 +601,13 @@
       "subAreaId": 354,
       "subAreaName": "综合棋牌",
       "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 357,
+      "subAreaName": "糖豆人",
+      "flvAvailable": false
     },
     {
       "areaId": 10,
@@ -1072,6 +1093,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 670,
+      "subAreaName": "问道",
+      "flvAvailable": true
+    },
+    {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 675,
@@ -1128,6 +1156,13 @@
       "flvAvailable": false
     },
     {
+      "areaId": 11,
+      "areaName": "知识",
+      "subAreaId": 702,
+      "subAreaName": "人文历史",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 707,
@@ -1160,6 +1195,13 @@
       "areaName": "手游",
       "subAreaId": 734,
       "subAreaName": "弹弹堂",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 738,
+      "subAreaName": "长安幻想",
       "flvAvailable": true
     },
     {
@@ -1464,5 +1506,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696267730957"
+  "lastUpdated": "1696271328572"
 }
