@@ -201,7 +201,7 @@
       "areaName": "手游",
       "subAreaId": 154,
       "subAreaName": "QQ飞车手游",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -446,7 +446,7 @@
       "areaName": "单机游戏",
       "subAreaId": 277,
       "subAreaName": "命运2",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 6,
@@ -481,6 +481,13 @@
       "areaName": "手游",
       "subAreaId": 293,
       "subAreaName": "战双帕弥什",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 300,
+      "subAreaName": "封印者",
       "flvAvailable": true
     },
     {
@@ -523,6 +530,13 @@
       "areaName": "手游",
       "subAreaId": 321,
       "subAreaName": "原神",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 328,
+      "subAreaName": "最终幻想",
       "flvAvailable": true
     },
     {
@@ -969,6 +983,20 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 653,
+      "subAreaName": "新天龙八部",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 658,
+      "subAreaName": "星际公民",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 664,
       "subAreaName": "跑跑卡丁车",
       "flvAvailable": true
@@ -1083,6 +1111,13 @@
       "areaName": "手游",
       "subAreaId": 734,
       "subAreaName": "弹弹堂",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 1,
+      "areaName": "娱乐",
+      "subAreaId": 740,
+      "subAreaName": "聊天室",
       "flvAvailable": true
     },
     {
@@ -1373,5 +1408,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696264083481"
+  "lastUpdated": "1696264129831"
 }
