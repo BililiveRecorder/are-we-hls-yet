@@ -568,6 +568,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 313,
+      "subAreaName": "仁王2",
+      "flvAvailable": true
+    },
+    {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 316,
@@ -817,6 +824,13 @@
       "areaName": "手游",
       "subAreaId": 478,
       "subAreaName": "漫威超级战争",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 487,
+      "subAreaName": "逆战",
       "flvAvailable": true
     },
     {
@@ -1618,5 +1632,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696278528646"
+  "lastUpdated": "1696282126333"
 }
