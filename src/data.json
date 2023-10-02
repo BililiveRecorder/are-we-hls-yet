@@ -194,7 +194,7 @@
       "areaName": "手游",
       "subAreaId": 154,
       "subAreaName": "QQ飞车手游",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -537,7 +537,7 @@
       "areaName": "单机游戏",
       "subAreaId": 341,
       "subAreaName": "盗贼之海",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -649,6 +649,13 @@
       "areaName": "单机游戏",
       "subAreaId": 433,
       "subAreaName": "格斗游戏",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 446,
+      "subAreaName": "双人成行",
       "flvAvailable": true
     },
     {
@@ -836,6 +843,13 @@
     {
       "areaId": 6,
       "areaName": "单机游戏",
+      "subAreaId": 594,
+      "subAreaName": "全面战争：战锤3",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
       "subAreaId": 597,
       "subAreaName": "战地风云",
       "flvAvailable": false
@@ -883,10 +897,24 @@
       "flvAvailable": true
     },
     {
+      "areaId": 10,
+      "areaName": "生活",
+      "subAreaId": 628,
+      "subAreaName": "运动",
+      "flvAvailable": true
+    },
+    {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 629,
       "subAreaName": "反恐精英Online",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 634,
+      "subAreaName": "武装突袭",
       "flvAvailable": true
     },
     {
@@ -992,7 +1020,7 @@
       "areaName": "知识",
       "subAreaId": 701,
       "subAreaName": "科学科普",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 6,
@@ -1167,7 +1195,7 @@
       "areaName": "单机游戏",
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -1275,6 +1303,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 830,
+      "subAreaName": "FC24",
+      "flvAvailable": true
+    },
+    {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 832,
@@ -1296,5 +1331,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696258689392"
+  "lastUpdated": "1696260076199"
 }
