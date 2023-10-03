@@ -110,7 +110,7 @@
       "areaName": "网游",
       "subAreaId": 87,
       "subAreaName": "守望先锋",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 2,
@@ -215,7 +215,7 @@
       "areaName": "手游",
       "subAreaId": 154,
       "subAreaName": "QQ飞车手游",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -439,7 +439,7 @@
       "areaName": "网游",
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -1013,7 +1013,7 @@
       "areaName": "单机游戏",
       "subAreaId": 555,
       "subAreaName": "艾尔登法环",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 13,
@@ -1312,6 +1312,13 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 659,
+      "subAreaName": "Squad战术小队",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 663,
       "subAreaName": "洛奇",
       "flvAvailable": true
@@ -1475,7 +1482,7 @@
       "areaName": "知识",
       "subAreaId": 701,
       "subAreaName": "科学科普",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 11,
@@ -1933,5 +1940,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696325331518"
+  "lastUpdated": "1696328931600"
 }
