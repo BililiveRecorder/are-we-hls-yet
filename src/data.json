@@ -110,7 +110,7 @@
       "areaName": "网游",
       "subAreaId": 87,
       "subAreaName": "守望先锋",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 2,
@@ -250,6 +250,13 @@
       "areaName": "网游",
       "subAreaId": 176,
       "subAreaName": "幻想全明星",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 178,
+      "subAreaName": "梦幻模拟战",
       "flvAvailable": true
     },
     {
@@ -691,7 +698,7 @@
       "areaName": "手游",
       "subAreaId": 354,
       "subAreaName": "综合棋牌",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 6,
@@ -880,6 +887,13 @@
       "areaName": "网游",
       "subAreaId": 499,
       "subAreaName": "剑网3缘起",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 500,
+      "subAreaName": "体育游戏",
       "flvAvailable": true
     },
     {
@@ -1296,6 +1310,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 677,
+      "subAreaName": "人间地狱",
+      "flvAvailable": false
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 678,
@@ -1422,6 +1443,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 719,
+      "subAreaName": "欢乐斗地主",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 721,
@@ -1461,7 +1489,7 @@
       "areaName": "虚拟主播",
       "subAreaId": 743,
       "subAreaName": "TopStar",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 9,
@@ -1653,6 +1681,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 807,
+      "subAreaName": "率土之滨",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 808,
@@ -1807,5 +1842,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696303729390"
+  "lastUpdated": "1696307332348"
 }
