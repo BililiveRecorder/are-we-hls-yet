@@ -883,6 +883,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 493,
+      "subAreaName": "宝可梦大集结",
+      "flvAvailable": true
+    },
+    {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 499,
@@ -1191,6 +1198,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 636,
+      "subAreaName": "聚会游戏",
+      "flvAvailable": true
+    },
+    {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 639,
@@ -1272,7 +1286,7 @@
       "areaName": "网游",
       "subAreaId": 666,
       "subAreaName": "永劫无间",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 2,
@@ -1489,7 +1503,7 @@
       "areaName": "虚拟主播",
       "subAreaId": 743,
       "subAreaName": "TopStar",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 9,
@@ -1643,6 +1657,13 @@
       "areaName": "单机游戏",
       "subAreaId": 795,
       "subAreaName": "Dark and Darker",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 796,
+      "subAreaName": "冒险岛手游",
       "flvAvailable": false
     },
     {
@@ -1842,5 +1863,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696307332348"
+  "lastUpdated": "1696310932231"
 }
