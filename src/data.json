@@ -1352,6 +1352,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 691,
+      "subAreaName": "铁甲雄兵",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 693,
@@ -1419,7 +1426,7 @@
       "areaName": "单机游戏",
       "subAreaId": 721,
       "subAreaName": "生化危机",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 2,
@@ -1800,5 +1807,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696300133053"
+  "lastUpdated": "1696303729390"
 }
