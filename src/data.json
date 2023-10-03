@@ -19,7 +19,7 @@
       "areaName": "手游",
       "subAreaId": 36,
       "subAreaName": "阴阳师",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -40,7 +40,7 @@
       "areaName": "手游",
       "subAreaId": 40,
       "subAreaName": "崩坏3",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -131,7 +131,7 @@
       "areaName": "网游",
       "subAreaId": 91,
       "subAreaName": "炉石传说",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 2,
@@ -215,7 +215,7 @@
       "areaName": "手游",
       "subAreaId": 154,
       "subAreaName": "QQ飞车手游",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -481,6 +481,13 @@
       "areaName": "手游",
       "subAreaId": 269,
       "subAreaName": "猫和老鼠手游",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 270,
+      "subAreaName": "人类一败涂地",
       "flvAvailable": true
     },
     {
@@ -887,7 +894,7 @@
       "areaName": "手游",
       "subAreaId": 474,
       "subAreaName": "哈利波特：魔法觉醒",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -1961,5 +1968,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696332532472"
+  "lastUpdated": "1696336132483"
 }
