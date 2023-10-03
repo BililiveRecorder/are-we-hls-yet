@@ -19,7 +19,7 @@
       "areaName": "手游",
       "subAreaId": 36,
       "subAreaName": "阴阳师",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -40,7 +40,7 @@
       "areaName": "手游",
       "subAreaId": 40,
       "subAreaName": "崩坏3",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -215,7 +215,7 @@
       "areaName": "手游",
       "subAreaId": 154,
       "subAreaName": "QQ飞车手游",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -722,6 +722,13 @@
       "flvAvailable": false
     },
     {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 364,
+      "subAreaName": "枪火重生",
+      "flvAvailable": true
+    },
+    {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 367,
@@ -733,7 +740,7 @@
       "areaName": "生活",
       "subAreaId": 368,
       "subAreaName": "户外",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 10,
@@ -1587,7 +1594,7 @@
       "areaName": "虚拟主播",
       "subAreaId": 743,
       "subAreaName": "TopStar",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 9,
@@ -1797,7 +1804,7 @@
       "areaName": "手游",
       "subAreaId": 805,
       "subAreaName": "闪耀！优俊少女",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -1968,5 +1975,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696336132483"
+  "lastUpdated": "1696339729165"
 }
