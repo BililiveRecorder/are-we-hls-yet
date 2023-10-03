@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696364943615",
+  "lastUpdated": "1696368532334",
   "data": [
     {
       "areaId": 1,
@@ -137,6 +137,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -248,7 +249,7 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -577,6 +578,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -852,7 +854,7 @@
         1,
         1,
         1,
-        1,
+        0,
         1,
         0,
         1,
@@ -1093,6 +1095,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -1266,6 +1269,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1348,7 +1352,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1366,6 +1370,7 @@
       "subAreaId": 330,
       "subAreaName": "公主连结Re:Dive",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -1519,6 +1524,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -1663,6 +1669,7 @@
       "subAreaId": 387,
       "subAreaName": "恐鬼症",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2041,6 +2048,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2075,6 +2083,7 @@
       "subAreaId": 562,
       "subAreaName": "体育赛事",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -2658,6 +2667,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2667,6 +2677,8 @@
       "subAreaId": 675,
       "subAreaName": "无期迷途",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -2690,6 +2702,7 @@
       "subAreaId": 678,
       "subAreaName": "游戏速通",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2741,6 +2754,7 @@
       "subAreaId": 687,
       "subAreaName": "光遇",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3025,7 +3039,7 @@
       "flvAvailabilities": [
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -3624,6 +3638,8 @@
       "subAreaId": 822,
       "subAreaName": "元梦之星",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
