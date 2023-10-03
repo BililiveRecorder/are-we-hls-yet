@@ -512,6 +512,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 286,
+      "subAreaName": "百闻牌",
+      "flvAvailable": true
+    },
+    {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 288,
@@ -677,7 +684,7 @@
       "areaName": "手游",
       "subAreaId": 354,
       "subAreaName": "综合棋牌",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 6,
@@ -957,7 +964,7 @@
       "areaName": "赛事",
       "subAreaId": 562,
       "subAreaName": "体育赛事",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 6,
@@ -1056,6 +1063,13 @@
       "subAreaId": 597,
       "subAreaName": "战地风云",
       "flvAvailable": false
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 598,
+      "subAreaName": "深空之眼",
+      "flvAvailable": true
     },
     {
       "areaId": 2,
@@ -1487,6 +1501,13 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 779,
+      "subAreaName": "一拳超人：世界",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 781,
       "subAreaName": "白夜极光",
       "flvAvailable": true
@@ -1681,6 +1702,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 824,
+      "subAreaName": "小冰冰传奇",
+      "flvAvailable": true
+    },
+    {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 825,
@@ -1730,5 +1758,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696292929669"
+  "lastUpdated": "1696296532176"
 }
