@@ -502,7 +502,7 @@
       "areaName": "单机游戏",
       "subAreaId": 276,
       "subAreaName": "恐怖游戏",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 6,
@@ -803,6 +803,13 @@
       "areaName": "单机游戏",
       "subAreaId": 387,
       "subAreaName": "恐鬼症",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 389,
+      "subAreaName": "天涯明月刀手游",
       "flvAvailable": true
     },
     {
@@ -1898,5 +1905,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696318133226"
+  "lastUpdated": "1696321731760"
 }
