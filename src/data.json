@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696346936305",
+  "lastUpdated": "1696350542617",
   "data": [
     {
       "areaId": 1,
@@ -61,6 +61,7 @@
       "subAreaId": 37,
       "subAreaName": "Fate/GO",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -87,6 +88,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -96,6 +98,8 @@
       "subAreaId": 41,
       "subAreaName": "狼人杀",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -113,6 +117,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -122,6 +127,8 @@
       "subAreaId": 78,
       "subAreaName": "DNF",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -167,6 +174,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -183,6 +192,7 @@
         1,
         0,
         1,
+        0,
         0
       ]
     },
@@ -192,6 +202,7 @@
       "subAreaId": 84,
       "subAreaName": "300英雄",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -228,13 +239,13 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
-        1,
         0,
         0,
         0,
         1,
         0,
+        1,
+        1,
         1
       ]
     },
@@ -280,7 +291,9 @@
       "subAreaId": 91,
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -310,6 +323,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -319,6 +333,8 @@
       "subAreaId": 98,
       "subAreaName": "其他手游",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -373,6 +389,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -382,6 +399,7 @@
       "subAreaId": 113,
       "subAreaName": "碧蓝航线",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -443,6 +461,7 @@
       "flvAvailabilities": [
         0,
         1,
+        1,
         1
       ]
     },
@@ -499,6 +518,7 @@
       "subAreaId": 173,
       "subAreaName": "古剑奇谭OL",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -526,6 +546,7 @@
       "subAreaId": 181,
       "subAreaName": "魔兽争霸3",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -655,6 +676,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -676,6 +698,8 @@
       "subAreaId": 219,
       "subAreaName": "以撒",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -712,6 +736,7 @@
       "subAreaId": 228,
       "subAreaName": "精灵宝可梦",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -765,6 +790,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -774,14 +801,14 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
         0,
         1,
         0,
+        1,
+        1,
         1,
         1
       ]
@@ -828,6 +855,8 @@
         0,
         0,
         0,
+        0,
+        0,
         0
       ]
     },
@@ -837,6 +866,7 @@
       "subAreaId": 249,
       "subAreaName": "星际战甲",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -865,6 +895,8 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
+        0,
+        0,
         0,
         0,
         0,
@@ -989,6 +1021,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -1068,6 +1102,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -1077,6 +1113,7 @@
       "subAreaId": 293,
       "subAreaName": "战双帕弥什",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -1227,15 +1264,15 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         1,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1244,6 +1281,7 @@
       "subAreaId": 330,
       "subAreaName": "公主连结Re:Dive",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -1271,6 +1309,7 @@
       "subAreaId": 341,
       "subAreaName": "盗贼之海",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -1318,6 +1357,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1336,6 +1376,7 @@
       "subAreaId": 362,
       "subAreaName": "NBA2K",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0
@@ -1370,6 +1411,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1379,6 +1421,7 @@
       "subAreaId": 369,
       "subAreaName": "萌宠",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -1407,6 +1450,8 @@
       "subAreaId": 372,
       "subAreaName": "校园学习",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -1547,6 +1592,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -1556,6 +1603,7 @@
       "subAreaId": 402,
       "subAreaName": "赛博朋克2077",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1631,6 +1679,7 @@
       "subAreaId": 469,
       "subAreaName": "荒野乱斗",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -1743,6 +1792,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -1778,6 +1829,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1787,6 +1839,7 @@
       "subAreaId": 530,
       "subAreaName": "萌宅领域",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1844,6 +1897,7 @@
       "subAreaId": 550,
       "subAreaName": "幻塔",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -1863,6 +1917,7 @@
       "subAreaId": 555,
       "subAreaName": "艾尔登法环",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -1897,6 +1952,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -1915,6 +1972,8 @@
       "subAreaId": 571,
       "subAreaName": "蛋仔派对",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -1990,6 +2049,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -2029,6 +2090,7 @@
       "subAreaId": 594,
       "subAreaName": "全面战争：战锤3",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2038,6 +2100,8 @@
       "subAreaId": 596,
       "subAreaName": "天涯明月刀",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1
       ]
@@ -2084,6 +2148,8 @@
       "flvAvailabilities": [
         0,
         0,
+        0,
+        0,
         0
       ]
     },
@@ -2093,6 +2159,7 @@
       "subAreaId": 601,
       "subAreaName": "综合射击",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2102,6 +2169,7 @@
       "subAreaId": 607,
       "subAreaName": "激战2",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -2250,6 +2318,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -2278,6 +2348,7 @@
       "subAreaId": 652,
       "subAreaName": "大话西游",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2287,6 +2358,7 @@
       "subAreaId": 653,
       "subAreaName": "新天龙八部",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2663,6 +2735,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2701,6 +2774,7 @@
       "subAreaId": 740,
       "subAreaName": "聊天室",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2750,12 +2824,12 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         1,
         0,
         0,
+        0,
+        1,
         0,
         1,
         0
@@ -2787,6 +2861,7 @@
       "flvAvailabilities": [
         0,
         0,
+        0,
         0
       ]
     },
@@ -2811,6 +2886,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2820,6 +2896,8 @@
       "subAreaId": 771,
       "subAreaName": "逆水寒手游",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -2913,6 +2991,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2922,6 +3001,8 @@
       "subAreaId": 783,
       "subAreaName": "高能英雄",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -3014,6 +3095,7 @@
       "subAreaName": "Dark and Darker",
       "flvAvailabilities": [
         0,
+        0,
         0
       ]
     },
@@ -3065,6 +3147,8 @@
         0,
         0,
         0,
+        0,
+        0,
         0
       ]
     },
@@ -3075,6 +3159,8 @@
       "subAreaName": "闪耀！优俊少女",
       "flvAvailabilities": [
         0,
+        1,
+        1,
         1,
         1,
         1,
@@ -3117,6 +3203,7 @@
       "subAreaId": 809,
       "subAreaName": "重生边缘",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -3145,6 +3232,7 @@
       "subAreaId": 813,
       "subAreaName": "幻世与冒险",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -3197,6 +3285,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -3206,6 +3296,7 @@
       "subAreaId": 817,
       "subAreaName": "甜宠电台",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3262,6 +3353,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3272,6 +3364,7 @@
       "subAreaName": "山海镜花",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -3281,6 +3374,8 @@
       "subAreaId": 822,
       "subAreaName": "元梦之星",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1
@@ -3301,6 +3396,7 @@
       "subAreaId": 825,
       "subAreaName": "聊天交友",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -3350,6 +3446,7 @@
       "subAreaId": 834,
       "subAreaName": "德州电锯",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
