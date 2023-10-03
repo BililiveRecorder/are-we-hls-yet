@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696372136410",
+  "lastUpdated": "1696375742564",
   "data": [
     {
       "areaId": 1,
@@ -195,10 +195,10 @@
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
         1,
-        1,
-        1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -439,6 +439,7 @@
       "subAreaName": "坦克世界",
       "flvAvailabilities": [
         0,
+        0,
         0
       ]
     },
@@ -537,6 +538,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -575,6 +577,7 @@
       "subAreaId": 181,
       "subAreaName": "魔兽争霸3",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -665,6 +668,8 @@
       "subAreaId": 212,
       "subAreaName": "非人学园",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1
       ]
@@ -768,6 +773,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -854,14 +860,14 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         1,
-        1,
-        1,
         0,
         1,
         0,
         1,
         0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -938,6 +944,7 @@
       "subAreaId": 251,
       "subAreaName": "枪神纪",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1104,6 +1111,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -1210,6 +1218,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1281,6 +1290,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1300,6 +1310,8 @@
       "subAreaId": 316,
       "subAreaName": "战争雷霆",
       "flvAvailabilities": [
+        0,
+        0,
         0,
         0,
         0,
@@ -1403,6 +1415,7 @@
       "subAreaName": "CF手游",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -1444,6 +1457,7 @@
       "subAreaId": 352,
       "subAreaName": "三国杀移动版",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1539,6 +1553,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -1597,6 +1613,7 @@
       "flvAvailabilities": [
         0,
         1,
+        1,
         1
       ]
     },
@@ -1606,6 +1623,8 @@
       "subAreaId": 377,
       "subAreaName": "职场·技能",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -1670,6 +1689,8 @@
       "subAreaId": 386,
       "subAreaName": "使命召唤手游",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -1752,6 +1773,7 @@
       "subAreaId": 407,
       "subAreaName": "游戏王：决斗链接",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -1873,6 +1895,16 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 492,
+      "subAreaName": "暗黑破坏神：不朽",
+      "flvAvailabilities": [
         1
       ]
     },
@@ -2070,6 +2102,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2108,6 +2141,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -2135,6 +2170,7 @@
       "subAreaId": 570,
       "subAreaName": "策略游戏",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2181,6 +2217,7 @@
       "subAreaName": "生死狙击2",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -2200,6 +2237,15 @@
         0,
         0,
         0
+      ]
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 579,
+      "subAreaName": "战神",
+      "flvAvailabilities": [
+        1
       ]
     },
     {
@@ -2297,6 +2343,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2380,6 +2427,7 @@
       "subAreaId": 610,
       "subAreaName": "QQ飞车",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2567,6 +2615,7 @@
       "subAreaName": "新天龙八部",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -2661,6 +2710,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2691,6 +2741,8 @@
       "subAreaId": 670,
       "subAreaName": "问道",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -2738,6 +2790,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -2756,6 +2810,7 @@
       "subAreaId": 683,
       "subAreaName": "奇迹MU",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -2945,6 +3000,7 @@
       "subAreaName": "梦三国",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -3020,6 +3076,7 @@
       "subAreaId": 740,
       "subAreaName": "聊天室",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3316,6 +3373,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3460,6 +3518,7 @@
       "subAreaId": 806,
       "subAreaName": "千年之旅",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -3496,6 +3555,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3514,6 +3574,7 @@
       "subAreaId": 812,
       "subAreaName": "匹诺曹的谎言",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -3599,6 +3660,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3669,6 +3731,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3678,6 +3741,7 @@
       "subAreaId": 822,
       "subAreaName": "元梦之星",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3719,6 +3783,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -3747,6 +3813,7 @@
       "subAreaId": 832,
       "subAreaName": "少女前线2：追放",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
