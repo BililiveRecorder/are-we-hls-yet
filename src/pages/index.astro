@@ -2,7 +2,7 @@
 import Base from "../layouts/Base.astro";
 import data from "../data.json";
 import { Debug } from "astro:components";
-import Ying from "../components/Ying";
+import Toggle from "../components/Toggle";
 import Row from "../components/Row";
 
 // parse date into UTF+8
@@ -59,7 +59,7 @@ const areas: Area[] = Array.from(areaMap.values())
         </h1>
         <p class="font-bold text-4xl text-red-500">NOPE</p>
     </div>
-    <div class="mx-auto max-w-prose p-4 my-4 text-center">
+    <div class="mx-auto max-w-prose p-4 my-6 text-center">
         <h2 class="text-4xl">寄了吗？</h2>
         <p class="text-slate-500 my-2">
             更新时间：{
@@ -73,7 +73,7 @@ const areas: Area[] = Array.from(areaMap.values())
                 })
             }
         </p>
-        <Ying client:load />
+        <Toggle client:load />
         {
             areas.map((area) => (
                 <div class="my-2">
@@ -81,7 +81,7 @@ const areas: Area[] = Array.from(areaMap.values())
                         <summary class="text-3xl underline underline-offset-4 hover:cursor-pointer">
                             <h3 class="inline text-3xl">{area.name}</h3>
                         </summary>
-                        <div class="w-full my-4 border-collapse border border-slate-500">
+                        <div class="w-full my-4 border-collapse">
                             {area.subareas.map((subarea) => (
                                 <Row ignore={!subarea.ok} client:load>
                                     <div class="flex">
@@ -97,7 +97,7 @@ const areas: Area[] = Array.from(areaMap.values())
                                                         : "text-red-500",
                                                 ]}
                                             >
-                                                {subarea.ok ? "赢" : "寄"}
+                                                {subarea.ok ? "苟" : "寄"}
                                             </span>
                                         </div>
                                     </div>
