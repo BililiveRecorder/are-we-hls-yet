@@ -131,7 +131,7 @@
       "areaName": "网游",
       "subAreaId": 91,
       "subAreaName": "炉石传说",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 2,
@@ -698,7 +698,7 @@
       "areaName": "手游",
       "subAreaId": 354,
       "subAreaName": "综合棋牌",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 6,
@@ -719,7 +719,7 @@
       "areaName": "生活",
       "subAreaId": 368,
       "subAreaName": "户外",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 10,
@@ -1016,6 +1016,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 13,
+      "areaName": "赛事",
+      "subAreaId": 563,
+      "subAreaName": "赛事综合",
+      "flvAvailable": true
+    },
+    {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 570,
@@ -1153,6 +1160,13 @@
       "areaName": "网游",
       "subAreaId": 610,
       "subAreaName": "QQ飞车",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 10,
+      "areaName": "生活",
+      "subAreaId": 623,
+      "subAreaName": "情感",
       "flvAvailable": true
     },
     {
@@ -1345,6 +1359,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 679,
+      "subAreaName": "休闲小游戏",
+      "flvAvailable": true
+    },
+    {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 683,
@@ -1510,7 +1531,7 @@
       "areaName": "虚拟主播",
       "subAreaId": 743,
       "subAreaName": "TopStar",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 9,
@@ -1657,6 +1678,13 @@
       "areaName": "手游",
       "subAreaId": 792,
       "subAreaName": "桃源深处有人家",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 793,
+      "subAreaName": "银河境界线",
       "flvAvailable": true
     },
     {
@@ -1870,5 +1898,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696314530000"
+  "lastUpdated": "1696318133226"
 }
