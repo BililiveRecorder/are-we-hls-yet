@@ -215,7 +215,7 @@
       "areaName": "手游",
       "subAreaId": 154,
       "subAreaName": "QQ飞车手游",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -502,7 +502,7 @@
       "areaName": "单机游戏",
       "subAreaId": 276,
       "subAreaName": "恐怖游戏",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 6,
@@ -682,6 +682,13 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 342,
+      "subAreaName": "梦幻西游手游",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 343,
       "subAreaName": "DNF手游",
       "flvAvailable": true
@@ -698,7 +705,7 @@
       "areaName": "手游",
       "subAreaId": 354,
       "subAreaName": "综合棋牌",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 6,
@@ -1240,6 +1247,13 @@
       "flvAvailable": false
     },
     {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 642,
+      "subAreaName": "装甲战争",
+      "flvAvailable": true
+    },
+    {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 646,
@@ -1538,7 +1552,7 @@
       "areaName": "虚拟主播",
       "subAreaId": 743,
       "subAreaName": "TopStar",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 9,
@@ -1587,6 +1601,13 @@
       "areaName": "手游",
       "subAreaId": 771,
       "subAreaName": "逆水寒手游",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 773,
+      "subAreaName": "Wayfinder寻路者",
       "flvAvailable": true
     },
     {
@@ -1707,6 +1728,13 @@
       "subAreaId": 796,
       "subAreaName": "冒险岛手游",
       "flvAvailable": false
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 797,
+      "subAreaName": "斯露德",
+      "flvAvailable": true
     },
     {
       "areaId": 6,
@@ -1905,5 +1933,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696321731760"
+  "lastUpdated": "1696325331518"
 }
