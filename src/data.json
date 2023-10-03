@@ -31,6 +31,13 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 39,
+      "subAreaName": "少女前线",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 40,
       "subAreaName": "崩坏3",
       "flvAvailable": true
@@ -731,6 +738,13 @@
     {
       "areaId": 11,
       "areaName": "知识",
+      "subAreaId": 375,
+      "subAreaName": "科技",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 11,
+      "areaName": "知识",
       "subAreaId": 376,
       "subAreaName": "社科法律心理",
       "flvAvailable": true
@@ -873,6 +887,13 @@
       "areaName": "手游",
       "subAreaId": 502,
       "subAreaName": "暗区突围",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 504,
+      "subAreaName": "航海王热血航线",
       "flvAvailable": true
     },
     {
@@ -1312,6 +1333,13 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 688,
+      "subAreaName": "300大作战",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 689,
       "subAreaName": "香肠派对",
       "flvAvailable": true
@@ -1391,7 +1419,7 @@
       "areaName": "单机游戏",
       "subAreaId": 721,
       "subAreaName": "生化危机",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 2,
@@ -1426,7 +1454,7 @@
       "areaName": "虚拟主播",
       "subAreaId": 743,
       "subAreaName": "TopStar",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 9,
@@ -1506,6 +1534,13 @@
       "flvAvailable": true
     },
     {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 780,
+      "subAreaName": "暗黑破坏神Ⅳ",
+      "flvAvailable": false
+    },
+    {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 781,
@@ -1553,6 +1588,13 @@
       "subAreaId": 789,
       "subAreaName": "虚拟APEX",
       "flvAvailable": false
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 791,
+      "subAreaName": "太空行动",
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -1758,5 +1800,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696296532176"
+  "lastUpdated": "1696300133053"
 }
