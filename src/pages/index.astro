@@ -15,7 +15,8 @@ type Area = {
 
 type SubArea = {
     name: string;
-    ok: boolean;
+    okCount: number;
+    totalCount: number;
 };
 
 // group by their area id
@@ -25,7 +26,8 @@ const areaMap = new Map<
 >();
 
 for (const area of data.data) {
-    const { areaId, areaName, subAreaId, subAreaName, flvAvailable } = area;
+    const { areaId, areaName, subAreaId, subAreaName, flvAvailabilities } =
+        area;
     var areaObj = areaMap.get(areaId);
     if (!areaObj) {
         areaObj = {
@@ -37,7 +39,8 @@ for (const area of data.data) {
     }
     areaObj.subAreas.push({
         name: subAreaName,
-        ok: flvAvailable,
+        okCount: flvAvailabilities.filter((a) => a).length,
+        totalCount: flvAvailabilities.length,
     });
 }
 
@@ -48,19 +51,41 @@ const areas: Area[] = Array.from(areaMap.values())
         name: area.name,
         subareas: area.subAreas,
     }));
+
+const threshold = 0.6;
+
+function getChar(area: SubArea): string {
+    const { okCount, totalCount } = area;
+    if (okCount === totalCount) return "苟！";
+    if (okCount / totalCount >= threshold) return "苟？";
+    return "寄！";
+}
+
+function getColor(area: SubArea): string {
+    const { okCount, totalCount } = area;
+    if (okCount === totalCount) return "text-green-500";
+    if (okCount / totalCount >= threshold) return "text-orange-500";
+    return "text-red-500";
+}
+
+function getTitle(area: SubArea): string {
+    return `本分区最近 ${area.totalCount} 次检测中，有 ${area.okCount} 次检测到提供了 FLV 流。`;
+}
 ---
 
 <Base title="Are we HLS yet?">
     <div class="mx-auto my-4 p-4 max-w-prose text-center">
-        <h1 class="font-bold text-5xl py-12">
+        <h1 class="font-bold text-5xl py-12" title="录播姬支持 HLS 了吗？">
             Are
             <ruby>we<rp>(</rp><rt>录播姬</rt><rp>)</rp></ruby>
              HLS yet?
         </h1>
-        <p class="font-bold text-4xl text-red-500">NOPE</p>
+        <p class="font-bold text-4xl text-red-500" title="没有">NOPE</p>
     </div>
     <div class="mx-auto max-w-prose p-4 my-6 text-center">
-        <h2 class="text-4xl">寄了吗？</h2>
+        <h2 class="text-4xl" title="哪些分区被划入只提供 HLS 的列表了？">
+            寄了吗？
+        </h2>
         <p class="text-slate-500 my-2">
             更新时间：{
                 lastUpdated.toLocaleString("zh-CN", {
@@ -83,21 +108,33 @@ const areas: Area[] = Array.from(areaMap.values())
                         </summary>
                         <div class="w-full my-4 border-collapse">
                             {area.subareas.map((subarea) => (
-                                <Row ignore={!subarea.ok} client:load>
+                                <Row
+                                    ignore={
+                                        subarea.okCount !== subarea.totalCount
+                                    }
+                                    client:load
+                                >
                                     <div class="flex">
                                         <div class="text-2xl p-2 border border-slate-600 flex-1">
-                                            {subarea.name}
+                                            <span class="align-middle">
+                                                {subarea.name}
+                                            </span>
                                         </div>
-                                        <div class="text-2xl w-14 p-2 border border-slate-600">
+                                        <div
+                                            class="text-2xl w-20 p-2 border border-slate-600"
+                                            title={getTitle(subarea)}
+                                        >
                                             <span
                                                 class:list={[
-                                                    "after:content-['!']",
-                                                    subarea.ok
-                                                        ? "text-green-500"
-                                                        : "text-red-500",
+                                                    getColor(subarea),
+                                                    "block",
                                                 ]}
                                             >
-                                                {subarea.ok ? "苟" : "寄"}
+                                                {getChar(subarea)}
+                                            </span>
+                                            <span class="text-xs block">
+                                                {subarea.okCount} /
+                                                {subarea.totalCount}
                                             </span>
                                         </div>
                                     </div>

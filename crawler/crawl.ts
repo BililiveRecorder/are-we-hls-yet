@@ -19,7 +19,9 @@ export default async function crawl() {
     for (let i = 0; i < rooms.length; i++) {
         const room = rooms[i];
         const flvAvailability = await checkFlvAvailability(room);
-        flvAvailabilities.push(flvAvailability);
+        if (flvAvailability) {
+            flvAvailabilities.push(flvAvailability);
+        }
         log(`Progress: ${i + 1}/${rooms.length} (${Math.round((i + 1) / rooms.length * 100)}%)`);
     }
 
@@ -40,7 +42,15 @@ type DataStore = {
     /**
      * Flv availability data, sorted by subAreaId
      */
-    data: FlvAvailability[];
+    data: FlvData[];
+}
+
+type FlvData = {
+    areaId: string;
+    areaName: string;
+    subAreaId: string;
+    subAreaName: string;
+    flvAvailabilities: (1 | 0)[];
 }
 
 type Room = {
@@ -63,35 +73,55 @@ function writeToFile(flvAvailabilities: FlvAvailability[]) {
     const dataPath = path.join(__dirname, '../src/data.json');
 
     // read existing data from file with fs
-    let data: DataStore = {
+    let store: DataStore = {
         lastUpdated: '',
         data: [],
     };
     if (fs.existsSync(dataPath)) {
-        data = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+        store = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
     }
 
     // merge existing data with new data
-    var map = new Map<string, FlvAvailability>();
-    if (typeof data.data === 'object' && data.data.length > 0) {
-        for (const flvAvailability of data.data) {
+    var map = new Map<string, FlvData>();
+    if (typeof store.data === 'object' && store.data.length > 0) {
+        for (const flvAvailability of store.data) {
             map.set(flvAvailability.subAreaId, flvAvailability);
         }
     }
 
     for (const flvAvailability of flvAvailabilities) {
-        map.set(flvAvailability.subAreaId, flvAvailability);
+        if (map.has(flvAvailability.subAreaId)) {
+            let data: FlvData = map.get(flvAvailability.subAreaId)!;
+            data.flvAvailabilities.push(flvAvailability.flvAvailable ? 1 : 0);
+            map.set(flvAvailability.subAreaId, {
+                areaId: flvAvailability.areaId,
+                areaName: flvAvailability.areaName,
+                subAreaId: flvAvailability.subAreaId,
+                subAreaName: flvAvailability.subAreaName,
+                flvAvailabilities: data.flvAvailabilities.slice(-10),
+            });
+        } else {
+            map.set(flvAvailability.subAreaId, {
+                areaId: flvAvailability.areaId,
+                areaName: flvAvailability.areaName,
+                subAreaId: flvAvailability.subAreaId,
+                subAreaName: flvAvailability.subAreaName,
+                flvAvailabilities: [flvAvailability.flvAvailable ? 1 : 0],
+            });
+        }
     }
 
     // sort by subAreaId as number ascending
-    data.data = Array.from(map.values()).sort((a, b) => parseInt(a.subAreaId) - parseInt(b.subAreaId));
-    data.lastUpdated = new Date().getTime().toString();
+    store = {
+        lastUpdated: new Date().getTime().toString(),
+        data: Array.from(map.values()).sort((a, b) => parseInt(a.subAreaId) - parseInt(b.subAreaId)),
+    }
 
     // write data to file with fs
-    fs.writeFileSync(dataPath, JSON.stringify(data, null, 2));
+    fs.writeFileSync(dataPath, JSON.stringify(store, null, 2));
 }
 
-async function checkFlvAvailability(room: Room): Promise<FlvAvailability> {
+async function checkFlvAvailability(room: Room): Promise<FlvAvailability | false> {
     const resp = await fetch(`https://live.bilibili.com/${room.roomId}`, {
         "headers": {
             "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
@@ -115,6 +145,14 @@ async function checkFlvAvailability(room: Room): Promise<FlvAvailability> {
 
     const html = await resp.text();
 
+    // make sure the html contains `.m3u8?` otherwise it's not a valid sample
+    const validSample = html.includes('.m3u8?');
+
+    if (!validSample) {
+        log(`Invalid sample for room ${room.roomId}, skipping...`);
+        return false;
+    }
+
     // check if the html contains `.flv?`
     const flvAvailable = html.includes('.flv?');
 
@@ -129,7 +167,8 @@ async function checkFlvAvailability(room: Room): Promise<FlvAvailability> {
 
 async function fetchRooms(): Promise<Room[]> {
     const pagesToFetch = 10;
-    const rooms: Room[] = [];
+    const roomsByOnline: Room[] = [];
+    const roomsByLiveTime: Room[] = [];
 
     for (let i = 1; i <= pagesToFetch; i++) {
         log(`Fetching rooms page ${i}...`);
@@ -157,7 +196,7 @@ async function fetchRooms(): Promise<Room[]> {
 
         if (typeof obj.data.list === 'object' && typeof obj.data.list.length === 'number' && obj.data.list.length > 0) {
             for (const room of obj.data.list) {
-                rooms.push({
+                roomsByOnline.push({
                     areaId: room.area_v2_parent_id,
                     areaName: room.area_v2_parent_name,
                     subAreaId: room.area_v2_id,
@@ -193,7 +232,7 @@ async function fetchRooms(): Promise<Room[]> {
         }
         if (typeof obj.data.list === 'object' && typeof obj.data.list.length === 'number' && obj.data.list.length > 0) {
             for (const room of obj.data.list) {
-                rooms.push({
+                roomsByLiveTime.push({
                     areaId: room.area_v2_parent_id,
                     areaName: room.area_v2_parent_name,
                     subAreaId: room.area_v2_id,
@@ -204,15 +243,37 @@ async function fetchRooms(): Promise<Room[]> {
         }
     }
 
+    const rooms: Room[] = [];
+
+    // merge rooms from both lists by alternating between them
+    while (roomsByOnline.length > 0 && roomsByLiveTime.length > 0) {
+        let room = roomsByOnline.shift();
+        if (room) {
+            rooms.push(room);
+        }
+        room = roomsByLiveTime.shift();
+        if (room) {
+            rooms.push(room);
+        }
+    }
+
     log(`Fetched ${rooms.length} rooms, cleaning up...`);
 
     // deduplicate rooms by their subAreaId, keep the last one
-    var areaMap = new Map<string, Room>();
+    var areaMap = new Map<string, Room[]>();
     for (const room of rooms) {
-        areaMap.set(room.subAreaId, room);
+        if (areaMap.has(room.subAreaId)) {
+            const arr = areaMap.get(room.subAreaId);
+            // store up to 2 rooms per subAreaId
+            if (arr && arr.length < 2) {
+                arr.push(room);
+            }
+        } else {
+            areaMap.set(room.subAreaId, [room]);
+        }
     }
 
-    const deduplicatedRooms: Room[] = Array.from(areaMap.values());
+    const deduplicatedRooms: Room[] = Array.from(areaMap.values()).flat();
     log(`Deduplicated to ${deduplicatedRooms.length} rooms.`);
 
     return deduplicatedRooms;

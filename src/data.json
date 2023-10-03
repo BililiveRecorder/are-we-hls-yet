@@ -1,1979 +1,2720 @@
 {
+  "lastUpdated": "1696341205505",
   "data": [
     {
       "areaId": 1,
       "areaName": "娱乐",
       "subAreaId": 21,
       "subAreaName": "视频唱见",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 35,
       "subAreaName": "王者荣耀",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 36,
       "subAreaName": "阴阳师",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 37,
       "subAreaName": "Fate/GO",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 39,
       "subAreaName": "少女前线",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 40,
       "subAreaName": "崩坏3",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 41,
       "subAreaName": "狼人杀",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 50,
       "subAreaName": "部落冲突:皇室战争",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 78,
       "subAreaName": "DNF",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 80,
       "subAreaName": "吃鸡行动",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 81,
       "subAreaName": "三国杀",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 82,
       "subAreaName": "剑网3",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 84,
       "subAreaName": "300英雄",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 86,
       "subAreaName": "英雄联盟",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 87,
       "subAreaName": "守望先锋",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 88,
       "subAreaName": "穿越火线",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 89,
       "subAreaName": "CS:GO",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 91,
       "subAreaName": "炉石传说",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 92,
       "subAreaName": "DOTA2",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 93,
       "subAreaName": "星际争霸2",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 98,
       "subAreaName": "其他手游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 102,
       "subAreaName": "最终幻想14",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 107,
       "subAreaName": "其他网游",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 112,
       "subAreaName": "龙之谷",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 113,
       "subAreaName": "碧蓝航线",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 114,
       "subAreaName": "风暴英雄",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 115,
       "subAreaName": "坦克世界",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 140,
       "subAreaName": "决战！平安京",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 1,
       "areaName": "娱乐",
       "subAreaId": 145,
       "subAreaName": "视频聊天",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 154,
       "subAreaName": "QQ飞车手游",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 156,
       "subAreaName": "影之诗",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 163,
       "subAreaName": "第五人格",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 164,
       "subAreaName": "堡垒之夜",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 173,
       "subAreaName": "古剑奇谭OL",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 176,
       "subAreaName": "幻想全明星",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 178,
       "subAreaName": "梦幻模拟战",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 181,
       "subAreaName": "魔兽争霸3",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 189,
       "subAreaName": "明日之后",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 5,
       "areaName": "电台",
       "subAreaId": 190,
       "subAreaName": "唱见电台",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 5,
       "areaName": "电台",
       "subAreaId": 192,
       "subAreaName": "聊天电台",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 203,
       "subAreaName": "忍者必须死3",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 1,
       "areaName": "娱乐",
       "subAreaId": 207,
       "subAreaName": "舞见",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 212,
       "subAreaName": "非人学园",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 214,
       "subAreaName": "雀姬",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 215,
       "subAreaName": "月圆之夜",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 216,
       "subAreaName": "我的世界",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 218,
       "subAreaName": "饥荒",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 219,
       "subAreaName": "以撒",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 226,
       "subAreaName": "荒野大镖客2",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 227,
       "subAreaName": "刺客信条",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 228,
       "subAreaName": "精灵宝可梦",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 235,
       "subAreaName": "其他单机",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 236,
       "subAreaName": "主机游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 237,
       "subAreaName": "怀旧游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 243,
       "subAreaName": "全境封锁2",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 244,
       "subAreaName": "鬼泣5",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 245,
       "subAreaName": "只狼",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 248,
       "subAreaName": "战舰世界",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 249,
       "subAreaName": "星际战甲",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 251,
       "subAreaName": "枪神纪",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 255,
       "subAreaName": "明日方舟",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 256,
       "subAreaName": "和平精英",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 257,
       "subAreaName": "全面战争",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 258,
       "subAreaName": "BanG Dream",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 265,
       "subAreaName": "跑跑卡丁车手游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 269,
       "subAreaName": "猫和老鼠手游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 270,
       "subAreaName": "人类一败涂地",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 273,
       "subAreaName": "无主之地3",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 274,
       "subAreaName": "新游评测",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 276,
       "subAreaName": "恐怖游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 277,
       "subAreaName": "命运2",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 282,
       "subAreaName": "使命召唤19",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 283,
       "subAreaName": "独立游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 286,
       "subAreaName": "百闻牌",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 288,
       "subAreaName": "怀旧网游",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 292,
       "subAreaName": "火影忍者手游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 293,
       "subAreaName": "战双帕弥什",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 295,
       "subAreaName": "方舟",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 298,
       "subAreaName": "新游前瞻",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 300,
       "subAreaName": "封印者",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 302,
       "subAreaName": "FORZA 极限竞速",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 303,
       "subAreaName": "游戏王",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 308,
       "subAreaName": "塞尔达传说",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 309,
       "subAreaName": "植物大战僵尸",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 313,
       "subAreaName": "仁王2",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 316,
       "subAreaName": "战争雷霆",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 318,
       "subAreaName": "使命召唤:战区",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 321,
       "subAreaName": "原神",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 326,
       "subAreaName": "骑马与砍杀",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 328,
       "subAreaName": "最终幻想",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 329,
       "subAreaName": "无畏契约",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 330,
       "subAreaName": "公主连结Re:Dive",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 331,
       "subAreaName": "星战前夜：晨曦",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 333,
       "subAreaName": "CF手游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 341,
       "subAreaName": "盗贼之海",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 342,
       "subAreaName": "梦幻西游手游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 343,
       "subAreaName": "DNF手游",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 352,
       "subAreaName": "三国杀移动版",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 354,
       "subAreaName": "综合棋牌",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 357,
       "subAreaName": "糖豆人",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 364,
       "subAreaName": "枪火重生",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 367,
       "subAreaName": "美食",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 368,
       "subAreaName": "户外",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 369,
       "subAreaName": "萌宠",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 9,
       "areaName": "虚拟主播",
       "subAreaId": 371,
       "subAreaName": "虚拟日常",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 11,
       "areaName": "知识",
       "subAreaId": 372,
       "subAreaName": "校园学习",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 11,
       "areaName": "知识",
       "subAreaId": 375,
       "subAreaName": "科技",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 11,
       "areaName": "知识",
       "subAreaId": 376,
       "subAreaName": "社科法律心理",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 11,
       "areaName": "知识",
       "subAreaId": 377,
       "subAreaName": "职场·技能",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 378,
       "subAreaName": "时尚",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 383,
       "subAreaName": "战意",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 384,
       "subAreaName": "猛兽派对",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 385,
       "subAreaName": "博德之门3",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 386,
       "subAreaName": "使命召唤手游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 387,
       "subAreaName": "恐鬼症",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 389,
       "subAreaName": "天涯明月刀手游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 395,
       "subAreaName": "LOL手游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 402,
       "subAreaName": "赛博朋克2077",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 407,
       "subAreaName": "游戏王：决斗链接",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 433,
       "subAreaName": "格斗游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 446,
       "subAreaName": "双人成行",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 459,
       "subAreaName": "永恒轮回",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 464,
       "subAreaName": "摩尔庄园手游",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 469,
       "subAreaName": "荒野乱斗",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 472,
       "subAreaName": "CFHD",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 474,
       "subAreaName": "哈利波特：魔法觉醒",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 478,
       "subAreaName": "漫威超级战争",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 479,
       "subAreaName": "黎明觉醒：生机",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 487,
       "subAreaName": "逆战",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 493,
       "subAreaName": "宝可梦大集结",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 499,
       "subAreaName": "剑网3缘起",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 500,
       "subAreaName": "体育游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 502,
       "subAreaName": "暗区突围",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 504,
       "subAreaName": "航海王热血航线",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 505,
       "subAreaName": "剑灵",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 507,
       "subAreaName": "胡闹厨房",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 511,
       "subAreaName": "漫威对决",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 514,
       "subAreaName": "金铲铲之战",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 1,
       "areaName": "娱乐",
       "subAreaId": 530,
       "subAreaName": "萌宅领域",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 535,
       "subAreaName": "暗黑破坏神",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 548,
       "subAreaName": "帝国时代4",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 549,
       "subAreaName": "崩坏：星穹铁道",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 550,
       "subAreaName": "幻塔",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 551,
       "subAreaName": "流放之路",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 555,
       "subAreaName": "艾尔登法环",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 13,
       "areaName": "赛事",
       "subAreaId": 561,
       "subAreaName": "游戏赛事",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 13,
       "areaName": "赛事",
       "subAreaId": 562,
       "subAreaName": "体育赛事",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 13,
       "areaName": "赛事",
       "subAreaId": 563,
       "subAreaName": "赛事综合",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 570,
       "subAreaName": "策略游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 571,
       "subAreaName": "蛋仔派对",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 574,
       "subAreaName": "冒险岛",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 575,
       "subAreaName": "生死狙击2",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 578,
       "subAreaName": "怪物猎人",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 583,
       "subAreaName": "文字游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 586,
       "subAreaName": "消逝的光芒2",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 590,
       "subAreaName": "命运方舟",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 591,
       "subAreaName": "Dread Hunger",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 592,
       "subAreaName": "恋爱模拟游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 593,
       "subAreaName": "泰拉瑞亚",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 594,
       "subAreaName": "全面战争：战锤3",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 596,
       "subAreaName": "天涯明月刀",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 597,
       "subAreaName": "战地风云",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 598,
       "subAreaName": "深空之眼",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 599,
       "subAreaName": "洛奇英雄传",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 600,
       "subAreaName": "猎杀对决",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 601,
       "subAreaName": "综合射击",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 607,
       "subAreaName": "激战2",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 610,
       "subAreaName": "QQ飞车",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 623,
       "subAreaName": "情感",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 624,
       "subAreaName": "电子榨菜",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 627,
       "subAreaName": "手工绘画",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 628,
       "subAreaName": "运动",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 629,
       "subAreaName": "反恐精英Online",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 632,
       "subAreaName": "黑色沙漠",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 633,
       "subAreaName": "FPS沙盒",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 634,
       "subAreaName": "武装突袭",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 636,
       "subAreaName": "聚会游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 639,
       "subAreaName": "阿尔比恩",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 642,
       "subAreaName": "装甲战争",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 646,
       "subAreaName": "生活分享",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 649,
       "subAreaName": "街头篮球",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 651,
       "subAreaName": "艾尔之光",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 652,
       "subAreaName": "大话西游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 653,
       "subAreaName": "新天龙八部",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 654,
       "subAreaName": "诛仙世界",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 656,
       "subAreaName": "VRChat",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 658,
       "subAreaName": "星际公民",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 659,
       "subAreaName": "Squad战术小队",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 663,
       "subAreaName": "洛奇",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 664,
       "subAreaName": "跑跑卡丁车",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 666,
       "subAreaName": "永劫无间",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 667,
       "subAreaName": "赛尔号",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 668,
       "subAreaName": "造梦西游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 669,
       "subAreaName": "洛克王国",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 670,
       "subAreaName": "问道",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 675,
       "subAreaName": "无期迷途",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 677,
       "subAreaName": "人间地狱",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 678,
       "subAreaName": "游戏速通",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 679,
       "subAreaName": "休闲小游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 683,
       "subAreaName": "奇迹MU",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 684,
       "subAreaName": "永恒之塔",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 686,
       "subAreaName": "彩虹岛",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 687,
       "subAreaName": "光遇",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 688,
       "subAreaName": "300大作战",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 689,
       "subAreaName": "香肠派对",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 690,
       "subAreaName": "英魂之刃",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 691,
       "subAreaName": "铁甲雄兵",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 693,
       "subAreaName": "红色警戒2",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 694,
       "subAreaName": "斯普拉遁3",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 695,
       "subAreaName": "传奇",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 700,
       "subAreaName": "卧龙：苍天陨落",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        1
+      ]
     },
     {
       "areaId": 11,
       "areaName": "知识",
       "subAreaId": 701,
       "subAreaName": "科学科普",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 11,
       "areaName": "知识",
       "subAreaId": 702,
       "subAreaName": "人文历史",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 705,
       "subAreaName": "创世战车",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 707,
       "subAreaName": "禁闭求生",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 708,
       "subAreaName": "FIFA23",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 710,
       "subAreaName": "梦三国",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 719,
       "subAreaName": "欢乐斗地主",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 720,
       "subAreaName": "宝可梦集换式卡牌游戏",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 721,
       "subAreaName": "生化危机",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 729,
       "subAreaName": "战争与抉择",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 734,
       "subAreaName": "弹弹堂",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 738,
       "subAreaName": "长安幻想",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 1,
       "areaName": "娱乐",
       "subAreaId": 740,
       "subAreaName": "聊天室",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 9,
       "areaName": "虚拟主播",
       "subAreaId": 743,
       "subAreaName": "TopStar",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        1,
+        1
+      ]
     },
     {
       "areaId": 9,
       "areaName": "虚拟主播",
       "subAreaId": 744,
       "subAreaName": "虚拟Singer",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 9,
       "areaName": "虚拟主播",
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "areaId": 9,
       "areaName": "虚拟主播",
       "subAreaId": 746,
       "subAreaName": "虚拟声优",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 753,
       "subAreaName": "Roblox",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 760,
       "subAreaName": "蓝色协议",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 761,
       "subAreaName": "重返未来：1999",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 771,
       "subAreaName": "逆水寒手游",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 773,
       "subAreaName": "Wayfinder寻路者",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 9,
       "areaName": "虚拟主播",
       "subAreaId": 775,
       "subAreaName": "虚拟PK",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 777,
       "subAreaName": "晶核",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 778,
       "subAreaName": "尘白禁区",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 779,
       "subAreaName": "一拳超人：世界",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 780,
       "subAreaName": "暗黑破坏神Ⅳ",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 781,
       "subAreaName": "白夜极光",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 782,
       "subAreaName": "卡拉彼丘",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 783,
       "subAreaName": "高能英雄",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 784,
       "subAreaName": "第七史诗",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 785,
       "subAreaName": "Warlander",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 787,
       "subAreaName": "蔚蓝档案",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 9,
       "areaName": "虚拟主播",
       "subAreaId": 789,
       "subAreaName": "虚拟APEX",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 791,
       "subAreaName": "太空行动",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 792,
       "subAreaName": "桃源深处有人家",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 793,
       "subAreaName": "银河境界线",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 795,
       "subAreaName": "Dark and Darker",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 796,
       "subAreaName": "冒险岛手游",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 797,
       "subAreaName": "斯露德",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 798,
       "subAreaName": "苍翼：混沌效应",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 800,
       "subAreaName": "机战佣兵VI 境界天火",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        0
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 805,
       "subAreaName": "闪耀！优俊少女",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 806,
       "subAreaName": "千年之旅",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 807,
       "subAreaName": "率土之滨",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 808,
       "subAreaName": "星空",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 809,
       "subAreaName": "重生边缘",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 811,
       "subAreaName": "收获日3",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 812,
       "subAreaName": "匹诺曹的谎言",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 813,
       "subAreaName": "幻世与冒险",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 15,
       "areaName": "互动玩法",
       "subAreaId": 814,
       "subAreaName": "兵临城下",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 15,
       "areaName": "互动玩法",
       "subAreaId": 815,
       "subAreaName": "竞技玩法",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 15,
       "areaName": "互动玩法",
       "subAreaId": 816,
       "subAreaName": "休闲玩法",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 5,
       "areaName": "电台",
       "subAreaId": 817,
       "subAreaName": "甜宠电台",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 14,
       "areaName": "聊天室",
       "subAreaId": 818,
       "subAreaName": "交友",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 14,
       "areaName": "聊天室",
       "subAreaId": 819,
       "subAreaName": "点唱",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 14,
       "areaName": "聊天室",
       "subAreaId": 820,
       "subAreaName": "兴趣",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 821,
       "subAreaName": "山海镜花",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 822,
       "subAreaName": "元梦之星",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 824,
       "subAreaName": "小冰冰传奇",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 825,
       "subAreaName": "聊天交友",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 10,
       "areaName": "生活",
       "subAreaId": 827,
       "subAreaName": "沉浸体验",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 2,
       "areaName": "网游",
       "subAreaId": 829,
       "subAreaName": "从军",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 830,
       "subAreaName": "FC24",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1
+      ]
     },
     {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 832,
       "subAreaName": "少女前线2：追放",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 834,
       "subAreaName": "德州电锯",
-      "flvAvailable": true
+      "flvAvailabilities": [
+        1,
+        1
+      ]
     },
     {
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 835,
       "subAreaName": "KARDS",
-      "flvAvailable": false
+      "flvAvailabilities": [
+        0,
+        0
+      ]
     }
-  ],
-  "lastUpdated": "1696339729165"
+  ]
 }
