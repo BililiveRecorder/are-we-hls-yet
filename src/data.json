@@ -241,6 +241,13 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 176,
+      "subAreaName": "幻想全明星",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 181,
       "subAreaName": "魔兽争霸3",
       "flvAvailable": true
@@ -1116,6 +1123,13 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 632,
+      "subAreaName": "黑色沙漠",
+      "flvAvailable": false
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 633,
       "subAreaName": "FPS沙盒",
       "flvAvailable": true
@@ -1314,6 +1328,13 @@
       "areaName": "网游",
       "subAreaId": 695,
       "subAreaName": "传奇",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 700,
+      "subAreaName": "卧龙：苍天陨落",
       "flvAvailable": true
     },
     {
@@ -1709,5 +1730,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696289331572"
+  "lastUpdated": "1696292929669"
 }
