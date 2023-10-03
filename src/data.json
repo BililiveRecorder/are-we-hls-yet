@@ -110,7 +110,7 @@
       "areaName": "网游",
       "subAreaId": 87,
       "subAreaName": "守望先锋",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 2,
@@ -215,7 +215,7 @@
       "areaName": "手游",
       "subAreaId": 154,
       "subAreaName": "QQ飞车手游",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -439,7 +439,7 @@
       "areaName": "网游",
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -691,7 +691,7 @@
       "areaName": "手游",
       "subAreaId": 343,
       "subAreaName": "DNF手游",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 3,
@@ -894,6 +894,13 @@
       "areaName": "手游",
       "subAreaId": 478,
       "subAreaName": "漫威超级战争",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 479,
+      "subAreaName": "黎明觉醒：生机",
       "flvAvailable": true
     },
     {
@@ -1475,7 +1482,7 @@
       "areaName": "单机游戏",
       "subAreaId": 700,
       "subAreaName": "卧龙：苍天陨落",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 11,
@@ -1489,6 +1496,13 @@
       "areaName": "知识",
       "subAreaId": 702,
       "subAreaName": "人文历史",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 705,
+      "subAreaName": "创世战车",
       "flvAvailable": true
     },
     {
@@ -1517,6 +1531,13 @@
       "areaName": "手游",
       "subAreaId": 719,
       "subAreaName": "欢乐斗地主",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 720,
+      "subAreaName": "宝可梦集换式卡牌游戏",
       "flvAvailable": true
     },
     {
@@ -1762,7 +1783,7 @@
       "areaName": "单机游戏",
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 3,
@@ -1940,5 +1961,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696328931600"
+  "lastUpdated": "1696332532472"
 }
