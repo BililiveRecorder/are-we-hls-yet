@@ -110,7 +110,7 @@
       "areaName": "网游",
       "subAreaId": 87,
       "subAreaName": "守望先锋",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 2,
@@ -131,7 +131,7 @@
       "areaName": "网游",
       "subAreaId": 91,
       "subAreaName": "炉石传说",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 2,
@@ -754,7 +754,7 @@
       "areaName": "知识",
       "subAreaId": 376,
       "subAreaName": "社科法律心理",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 11,
@@ -817,6 +817,13 @@
       "areaName": "单机游戏",
       "subAreaId": 402,
       "subAreaName": "赛博朋克2077",
+      "flvAvailable": true
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 407,
+      "subAreaName": "游戏王：决斗链接",
       "flvAvailable": true
     },
     {
@@ -992,7 +999,7 @@
       "areaName": "单机游戏",
       "subAreaId": 555,
       "subAreaName": "艾尔登法环",
-      "flvAvailable": true
+      "flvAvailable": false
     },
     {
       "areaId": 13,
@@ -1286,7 +1293,7 @@
       "areaName": "网游",
       "subAreaId": 666,
       "subAreaName": "永劫无间",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 2,
@@ -1503,7 +1510,7 @@
       "areaName": "虚拟主播",
       "subAreaId": 743,
       "subAreaName": "TopStar",
-      "flvAvailable": false
+      "flvAvailable": true
     },
     {
       "areaId": 9,
@@ -1863,5 +1870,5 @@
       "flvAvailable": false
     }
   ],
-  "lastUpdated": "1696310932231"
+  "lastUpdated": "1696314530000"
 }
