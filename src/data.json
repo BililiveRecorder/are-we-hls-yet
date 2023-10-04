@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696458541695",
+  "lastUpdated": "1696462141276",
   "data": [
     {
       "areaId": 1,
@@ -141,6 +141,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -276,9 +277,9 @@
       "flvAvailabilities": [
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -472,6 +473,7 @@
       "subAreaId": 114,
       "subAreaName": "风暴英雄",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -981,8 +983,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         0,
@@ -990,7 +990,9 @@
         1,
         0,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1665,6 +1667,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1829,6 +1832,7 @@
       "subAreaId": 375,
       "subAreaName": "科技",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2128,6 +2132,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2197,6 +2202,7 @@
       "subAreaId": 492,
       "subAreaName": "暗黑破坏神：不朽",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2572,6 +2578,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2903,6 +2910,7 @@
       "subAreaId": 628,
       "subAreaName": "运动",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3310,6 +3318,7 @@
       "subAreaName": "永恒之塔",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -3319,6 +3328,7 @@
       "subAreaId": 686,
       "subAreaName": "彩虹岛",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3548,6 +3558,8 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -3670,11 +3682,11 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -3867,6 +3879,7 @@
       "subAreaId": 781,
       "subAreaName": "白夜极光",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
