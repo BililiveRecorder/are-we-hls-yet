@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696422541591",
+  "lastUpdated": "1696426145375",
   "data": [
     {
       "areaId": 1,
@@ -187,6 +187,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -268,14 +269,14 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         0,
         1,
         1,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -618,6 +619,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -705,6 +707,7 @@
       "subAreaId": 203,
       "subAreaName": "忍者必须死3",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -838,6 +841,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -864,6 +868,8 @@
       "subAreaId": 227,
       "subAreaName": "刺客信条",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -961,10 +967,10 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
         0,
         1,
         0,
+        1,
         1,
         1,
         1,
@@ -1361,6 +1367,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1452,6 +1459,7 @@
       "subAreaId": 313,
       "subAreaName": "仁王2",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1602,6 +1610,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1692,6 +1701,8 @@
       "subAreaId": 364,
       "subAreaName": "枪火重生",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1
       ]
@@ -1800,6 +1811,7 @@
       "subAreaName": "社科法律心理",
       "flvAvailabilities": [
         0,
+        1,
         1,
         1,
         1,
@@ -2117,6 +2129,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2300,6 +2313,15 @@
         1,
         1,
         1,
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 538,
+      "subAreaName": "东方归言录",
+      "flvAvailabilities": [
         1
       ]
     },
@@ -2552,6 +2574,7 @@
       "subAreaId": 583,
       "subAreaName": "文字游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2816,6 +2839,7 @@
       "subAreaId": 628,
       "subAreaName": "运动",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2860,6 +2884,7 @@
       "subAreaId": 634,
       "subAreaName": "武装突袭",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2869,6 +2894,7 @@
       "subAreaId": 636,
       "subAreaName": "聚会游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2926,6 +2952,7 @@
       "subAreaId": 649,
       "subAreaName": "街头篮球",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2947,6 +2974,7 @@
         0,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2956,6 +2984,7 @@
       "subAreaId": 652,
       "subAreaName": "大话西游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3182,6 +3211,7 @@
       "subAreaId": 679,
       "subAreaName": "休闲小游戏",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -3245,6 +3275,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3266,6 +3297,7 @@
       "subAreaId": 690,
       "subAreaName": "英魂之刃",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3557,12 +3589,12 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         1,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -3740,6 +3772,7 @@
       "subAreaId": 781,
       "subAreaName": "白夜极光",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -3944,10 +3977,10 @@
         0,
         0,
         0,
+        1,
         0,
         0,
         1,
-        0,
         0
       ]
     },
