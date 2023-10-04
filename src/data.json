@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696433338958",
+  "lastUpdated": "1696436939238",
   "data": [
     {
       "areaId": 1,
@@ -271,8 +271,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         0,
         0,
@@ -280,7 +278,9 @@
         0,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -607,6 +607,7 @@
       "subAreaId": 173,
       "subAreaName": "古剑奇谭OL",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -977,7 +978,7 @@
         1,
         1,
         1,
-        1,
+        0,
         1,
         0,
         1,
@@ -1251,8 +1252,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0
       ]
@@ -1441,6 +1442,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1563,9 +1565,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -1642,6 +1644,7 @@
       "subAreaName": "DNF手游",
       "flvAvailabilities": [
         0,
+        1,
         1,
         1
       ]
@@ -2158,6 +2161,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2536,6 +2540,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2581,6 +2586,7 @@
       "subAreaId": 581,
       "subAreaName": "NBA2KOL2",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2661,6 +2667,7 @@
       "subAreaId": 593,
       "subAreaName": "泰拉瑞亚",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2796,6 +2803,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2805,6 +2813,7 @@
       "subAreaId": 623,
       "subAreaName": "情感",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3018,6 +3027,7 @@
       "subAreaId": 653,
       "subAreaName": "新天龙八部",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3470,6 +3480,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3616,14 +3627,14 @@
       "flvAvailabilities": [
         1,
         0,
-        1,
         0,
         0,
         0,
         0,
         0,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -4010,15 +4021,15 @@
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         1,
         0,
         1,
         0,
         1,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -4333,6 +4344,7 @@
       "subAreaId": 827,
       "subAreaName": "沉浸体验",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
