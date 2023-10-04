@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696447740158",
+  "lastUpdated": "1696451338275",
   "data": [
     {
       "areaId": 1,
@@ -277,10 +277,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -979,13 +979,13 @@
       "flvAvailabilities": [
         0,
         1,
-        0,
-        1,
         1,
         0,
         0,
         0,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -1000,6 +1000,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1009,6 +1010,7 @@
       "subAreaId": 244,
       "subAreaName": "鬼泣5",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -1223,6 +1225,7 @@
       "subAreaId": 274,
       "subAreaName": "新游评测",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -1481,6 +1484,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1564,9 +1568,9 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1650,6 +1654,7 @@
       "subAreaName": "DNF手游",
       "flvAvailabilities": [
         0,
+        1,
         1,
         1,
         1
@@ -2169,6 +2174,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -2349,6 +2356,7 @@
       "subAreaId": 538,
       "subAreaName": "东方归言录",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2549,6 +2557,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2660,6 +2669,7 @@
       "subAreaId": 592,
       "subAreaName": "恋爱模拟游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3647,10 +3657,10 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -4041,7 +4051,6 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        0,
         1,
         1,
         1,
@@ -4050,7 +4059,8 @@
         1,
         0,
         1,
-        0
+        0,
+        1
       ]
     },
     {
