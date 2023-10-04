@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696404540382",
+  "lastUpdated": "1696408144447",
   "data": [
     {
       "areaId": 1,
@@ -260,11 +260,11 @@
         0,
         1,
         0,
-        1,
-        0,
         0,
         0,
         1,
+        1,
+        0,
         1,
         0
       ]
@@ -311,7 +311,8 @@
       "subAreaId": 91,
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
-        1,
+        0,
+        0,
         0,
         0,
         0,
@@ -721,6 +722,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -863,6 +865,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -937,15 +940,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         1,
         1,
         0,
         1,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -975,6 +978,7 @@
       "subAreaId": 245,
       "subAreaName": "只狼",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1206,7 +1210,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1318,6 +1322,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1360,6 +1365,7 @@
       "subAreaId": 303,
       "subAreaName": "游戏王",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1437,6 +1443,7 @@
       "subAreaId": 318,
       "subAreaName": "使命召唤:战区",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -1531,6 +1538,7 @@
       "subAreaId": 333,
       "subAreaName": "CF手游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1802,10 +1810,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -1817,6 +1825,7 @@
       "subAreaId": 385,
       "subAreaName": "博德之门3",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1923,6 +1932,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -1942,6 +1952,7 @@
       "subAreaId": 433,
       "subAreaName": "格斗游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2024,6 +2035,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2098,6 +2110,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -2152,6 +2165,7 @@
       "subAreaId": 507,
       "subAreaName": "胡闹厨房",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2366,6 +2380,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -2528,6 +2543,7 @@
       "subAreaId": 593,
       "subAreaName": "泰拉瑞亚",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2772,6 +2788,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2906,6 +2923,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2962,6 +2980,7 @@
       "subAreaId": 668,
       "subAreaName": "造梦西游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3146,6 +3165,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3165,6 +3185,7 @@
       "subAreaId": 693,
       "subAreaName": "红色警戒2",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3232,6 +3253,7 @@
       "subAreaName": "科学科普",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -3241,6 +3263,7 @@
       "subAreaId": 702,
       "subAreaName": "人文历史",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3431,7 +3454,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -3465,6 +3488,15 @@
         0,
         0,
         0
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 756,
+      "subAreaName": "三国志战棋版",
+      "flvAvailabilities": [
+        1
       ]
     },
     {
@@ -3564,6 +3596,7 @@
       "subAreaId": 778,
       "subAreaName": "尘白禁区",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -3915,6 +3948,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4101,6 +4135,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4137,6 +4172,7 @@
       "subAreaId": 830,
       "subAreaName": "FC24",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
