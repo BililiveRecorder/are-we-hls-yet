@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696426145375",
+  "lastUpdated": "1696429738574",
   "data": [
     {
       "areaId": 1,
@@ -271,10 +271,10 @@
       "flvAvailabilities": [
         0,
         1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -662,6 +662,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -735,6 +736,7 @@
       "subAreaId": 212,
       "subAreaName": "非人学园",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -876,6 +878,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -969,13 +972,13 @@
       "flvAvailabilities": [
         0,
         1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
         1
       ]
     },
@@ -1138,6 +1141,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1147,6 +1151,7 @@
       "subAreaId": 258,
       "subAreaName": "BanG Dream",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1244,8 +1249,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0
       ]
     },
@@ -1432,6 +1437,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1459,6 +1465,7 @@
       "subAreaId": 313,
       "subAreaName": "仁王2",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1816,6 +1823,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1920,6 +1928,7 @@
       "subAreaId": 387,
       "subAreaName": "恐鬼症",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2337,6 +2346,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -2635,6 +2645,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2902,6 +2913,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3048,6 +3060,7 @@
       "subAreaId": 663,
       "subAreaName": "洛奇",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3444,6 +3457,7 @@
       "subAreaName": "FIFA23",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -3587,13 +3601,13 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -3694,6 +3708,15 @@
       "areaName": "网游",
       "subAreaId": 773,
       "subAreaName": "Wayfinder寻路者",
+      "flvAvailabilities": [
+        1
+      ]
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
+      "subAreaId": 774,
+      "subAreaName": "幕后高手",
       "flvAvailabilities": [
         1
       ]
@@ -3878,6 +3901,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -3975,10 +3999,10 @@
         0,
         0,
         0,
+        1,
         0,
         0,
         1,
-        0,
         0,
         1,
         0
@@ -4302,6 +4326,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4338,6 +4363,7 @@
       "subAreaId": 832,
       "subAreaName": "少女前线2：追放",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
