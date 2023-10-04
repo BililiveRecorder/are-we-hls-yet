@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696454939113",
+  "lastUpdated": "1696458541695",
   "data": [
     {
       "areaId": 1,
@@ -277,9 +277,9 @@
         0,
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -670,6 +670,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -716,6 +717,7 @@
       "subAreaName": "忍者必须死3",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -760,6 +762,7 @@
       "subAreaId": 214,
       "subAreaName": "雀姬",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -978,8 +981,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         0,
         1,
@@ -987,7 +988,9 @@
         0,
         1,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -996,6 +999,7 @@
       "subAreaId": 243,
       "subAreaName": "全境封锁2",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1552,6 +1556,7 @@
       "subAreaName": "骑马与砍杀",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -1740,6 +1745,7 @@
       "subAreaId": 367,
       "subAreaName": "美食",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -2289,6 +2295,7 @@
       "subAreaId": 511,
       "subAreaName": "漫威对决",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2362,6 +2369,7 @@
       "subAreaId": 538,
       "subAreaName": "东方归言录",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -2895,6 +2903,7 @@
       "subAreaId": 628,
       "subAreaName": "运动",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3538,6 +3547,7 @@
       "subAreaName": "欢乐斗地主",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -3662,10 +3672,10 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -4020,6 +4030,7 @@
       "subAreaId": 796,
       "subAreaName": "冒险岛手游",
       "flvAvailabilities": [
+        0,
         0,
         0
       ]
@@ -4415,6 +4426,7 @@
       "subAreaId": 830,
       "subAreaName": "FC24",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
