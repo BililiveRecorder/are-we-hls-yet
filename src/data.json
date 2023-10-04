@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696451338275",
+  "lastUpdated": "1696454939113",
   "data": [
     {
       "areaId": 1,
@@ -186,6 +186,7 @@
       "subAreaId": 81,
       "subAreaName": "三国杀",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -977,8 +978,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         0,
@@ -986,7 +985,9 @@
         1,
         1,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1257,8 +1258,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1394,6 +1395,8 @@
       "subAreaId": 298,
       "subAreaName": "新游前瞻",
       "flvAvailabilities": [
+        0,
+        0,
         0
       ]
     },
@@ -1568,7 +1571,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1826,6 +1829,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1869,6 +1873,7 @@
       "subAreaId": 378,
       "subAreaName": "时尚",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2168,6 +2173,7 @@
       "subAreaId": 487,
       "subAreaName": "逆战",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2972,6 +2978,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -3656,10 +3663,10 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0
@@ -4053,14 +4060,14 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
         0,
         1,
         1,
         0,
         1,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -4393,6 +4400,7 @@
       "subAreaId": 829,
       "subAreaName": "从军",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
