@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696440531368",
+  "lastUpdated": "1696444131432",
   "data": [
     {
       "areaId": 1,
@@ -610,6 +610,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -974,8 +975,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
         0,
@@ -983,6 +982,8 @@
         0,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1141,6 +1142,7 @@
       "subAreaId": 257,
       "subAreaName": "全面战争",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1561,9 +1563,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -2658,6 +2660,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2695,6 +2698,7 @@
       "subAreaId": 596,
       "subAreaName": "天涯明月刀",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2900,6 +2904,7 @@
       "subAreaId": 633,
       "subAreaName": "FPS沙盒",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3691,6 +3696,7 @@
       "subAreaName": "蓝色协议",
       "flvAvailabilities": [
         0,
+        0,
         0
       ]
     },
@@ -4027,12 +4033,12 @@
         1,
         0,
         1,
+        1,
+        1,
         0,
         1,
         1,
-        1,
-        0,
-        1
+        0
       ]
     },
     {
