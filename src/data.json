@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696444131432",
+  "lastUpdated": "1696447740158",
   "data": [
     {
       "areaId": 1,
@@ -125,6 +125,7 @@
       "subAreaId": 42,
       "subAreaName": "解密游戏",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -185,6 +186,7 @@
       "subAreaId": 81,
       "subAreaName": "三国杀",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -277,10 +279,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -979,12 +981,12 @@
         1,
         0,
         1,
-        0,
-        1,
         1,
         0,
         0,
-        0
+        0,
+        1,
+        1
       ]
     },
     {
@@ -1307,6 +1309,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1397,6 +1400,7 @@
       "subAreaId": 300,
       "subAreaName": "封印者",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -1562,8 +1566,8 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -2052,6 +2056,7 @@
       "subAreaName": "双人成行",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -2259,6 +2264,7 @@
       "subAreaId": 507,
       "subAreaName": "胡闹厨房",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -2661,6 +2667,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2783,6 +2790,7 @@
       "subAreaId": 607,
       "subAreaName": "激战2",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2947,6 +2955,7 @@
       "subAreaId": 639,
       "subAreaName": "阿尔比恩",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3427,6 +3436,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3638,11 +3648,11 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1,
         0,
-        1
+        0
       ]
     },
     {
@@ -3819,6 +3829,8 @@
       "subAreaName": "暗黑破坏神Ⅳ",
       "flvAvailabilities": [
         0,
+        0,
+        1,
         0
       ]
     },
@@ -4031,12 +4043,12 @@
       "flvAvailabilities": [
         0,
         1,
+        1,
+        1,
         0,
         1,
         1,
-        1,
         0,
-        1,
         1,
         0
       ]
@@ -4398,6 +4410,7 @@
       "subAreaId": 832,
       "subAreaName": "少女前线2：追放",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
