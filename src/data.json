@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696429738574",
+  "lastUpdated": "1696433338958",
   "data": [
     {
       "areaId": 1,
@@ -61,6 +61,8 @@
       "subAreaId": 37,
       "subAreaName": "Fate/GO",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -269,10 +271,10 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -861,6 +863,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -970,13 +973,13 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
         1,
         0,
         1
@@ -1562,7 +1565,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1808,6 +1811,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1999,6 +2003,7 @@
       "subAreaId": 407,
       "subAreaName": "游戏王：决斗链接",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2286,6 +2291,7 @@
       "subAreaId": 519,
       "subAreaName": "超激斗梦境",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2851,6 +2857,8 @@
       "subAreaName": "运动",
       "flvAvailabilities": [
         1,
+        1,
+        1,
         1
       ]
     },
@@ -2923,6 +2931,7 @@
       "subAreaId": 639,
       "subAreaName": "阿尔比恩",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3021,6 +3030,7 @@
       "subAreaId": 654,
       "subAreaName": "诛仙世界",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -3060,6 +3070,7 @@
       "subAreaId": 663,
       "subAreaName": "洛奇",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3318,6 +3329,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3469,6 +3481,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3605,7 +3618,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -3997,15 +4010,15 @@
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         0,
         1,
         0,
         1,
-        0
+        0,
+        1,
+        1
       ]
     },
     {
@@ -4327,6 +4340,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4363,6 +4377,7 @@
       "subAreaId": 832,
       "subAreaName": "少女前线2：追放",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
