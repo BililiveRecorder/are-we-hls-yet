@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696408144447",
+  "lastUpdated": "1696411745877",
   "data": [
     {
       "areaId": 1,
@@ -119,9 +119,19 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 42,
+      "subAreaName": "解密游戏",
+      "flvAvailabilities": [
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 50,
       "subAreaName": "部落冲突:皇室战争",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -258,15 +268,15 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         0,
         1,
         1,
         0,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -594,6 +604,7 @@
       "subAreaName": "古剑奇谭OL",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -615,6 +626,7 @@
       "subAreaId": 178,
       "subAreaName": "梦幻模拟战",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -821,6 +833,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -939,14 +952,14 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         0,
         1,
         0,
         1,
+        1,
+        0,
         1,
         0
       ]
@@ -1106,6 +1119,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -1256,6 +1270,8 @@
       "subAreaName": "百闻牌",
       "flvAvailabilities": [
         1,
+        1,
+        1,
         1
       ]
     },
@@ -1301,6 +1317,7 @@
       "subAreaId": 293,
       "subAreaName": "战双帕弥什",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1450,6 +1467,8 @@
         0,
         0,
         0,
+        0,
+        0,
         0
       ]
     },
@@ -1538,6 +1557,8 @@
       "subAreaId": 333,
       "subAreaName": "CF手游",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -1808,10 +1829,10 @@
       "subAreaName": "猛兽派对",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1983,6 +2004,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2031,6 +2053,7 @@
       "subAreaName": "哈利波特：魔法觉醒",
       "flvAvailabilities": [
         0,
+        1,
         1,
         1,
         1,
@@ -2381,6 +2404,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2658,6 +2682,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -2743,6 +2769,7 @@
       "subAreaName": "反恐精英Online",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -2789,6 +2816,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2798,6 +2826,7 @@
       "subAreaId": 639,
       "subAreaName": "阿尔比恩",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -2919,6 +2948,8 @@
       "subAreaId": 663,
       "subAreaName": "洛奇",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -3452,7 +3483,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1
       ]
@@ -3481,6 +3512,7 @@
       "subAreaId": 753,
       "subAreaName": "Roblox",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3931,6 +3963,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -4129,6 +4163,7 @@
       "subAreaId": 825,
       "subAreaName": "聊天交友",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
