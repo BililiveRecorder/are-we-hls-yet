@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696487345228",
+  "lastUpdated": "1696490940599",
   "data": [
     {
       "areaId": 1,
@@ -125,6 +125,7 @@
       "subAreaId": 42,
       "subAreaName": "解密游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -279,8 +280,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         1,
@@ -288,6 +287,8 @@
         1,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -644,6 +645,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -989,13 +991,13 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         1,
         0,
         0,
         0,
+        0,
+        1,
         0,
         1
       ]
@@ -1185,6 +1187,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1274,11 +1277,11 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -1513,6 +1516,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1599,8 +1603,6 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
@@ -1608,7 +1610,9 @@
         0,
         0,
         1,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1677,6 +1681,7 @@
       "subAreaId": 342,
       "subAreaName": "梦幻西游手游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -1776,6 +1781,7 @@
       "subAreaId": 367,
       "subAreaName": "美食",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2114,6 +2120,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -2264,6 +2271,7 @@
       "subAreaId": 499,
       "subAreaName": "剑网3缘起",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2431,6 +2439,7 @@
       "subAreaId": 548,
       "subAreaName": "帝国时代4",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -2833,6 +2842,7 @@
       "subAreaId": 599,
       "subAreaName": "洛奇英雄传",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3403,6 +3413,15 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 685,
+      "subAreaName": "QQ三国",
+      "flvAvailabilities": [
+        1
+      ]
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 686,
       "subAreaName": "彩虹岛",
       "flvAvailabilities": [
@@ -3554,6 +3573,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3605,6 +3625,7 @@
       "subAreaId": 707,
       "subAreaName": "禁闭求生",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3771,9 +3792,9 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -4181,10 +4202,18 @@
     {
       "areaId": 6,
       "areaName": "单机游戏",
+      "subAreaId": 801,
+      "subAreaName": "绝世好武功",
+      "flvAvailabilities": [
+        1
+      ]
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        0,
         1,
         0,
         0,
@@ -4193,6 +4222,7 @@
         0,
         0,
         1,
+        0,
         0
       ]
     },
@@ -4276,6 +4306,7 @@
       "subAreaId": 811,
       "subAreaName": "收获日3",
       "flvAvailabilities": [
+        0,
         0,
         0
       ]
@@ -4584,8 +4615,8 @@
         1,
         1,
         1,
-        1,
         0,
+        1,
         1
       ]
     },
