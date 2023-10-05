@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696519737361",
+  "lastUpdated": "1696523343927",
   "data": [
     {
       "areaId": 1,
@@ -233,9 +233,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -284,7 +284,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -620,6 +620,7 @@
       "subAreaId": 173,
       "subAreaName": "古剑奇谭OL",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -999,15 +1000,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         1,
+        1,
+        1,
+        1,
+        1,
         0,
         1,
         1,
-        1,
-        1,
-        1,
         0,
-        1,
-        1
+        0
       ]
     },
     {
@@ -1257,6 +1258,7 @@
       "subAreaId": 274,
       "subAreaName": "新游评测",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -1626,9 +1628,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -1971,13 +1973,13 @@
       "subAreaName": "猛兽派对",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -2322,6 +2324,7 @@
       "subAreaId": 500,
       "subAreaName": "体育游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2752,6 +2755,7 @@
       "subAreaId": 586,
       "subAreaName": "消逝的光芒2",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3296,6 +3300,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3445,6 +3450,7 @@
       "subAreaId": 679,
       "subAreaName": "休闲小游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3748,6 +3754,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3866,12 +3873,12 @@
         0,
         0,
         0,
+        1,
         0,
         0,
         1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -4062,6 +4069,7 @@
         0,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -4273,6 +4281,7 @@
       "subAreaId": 800,
       "subAreaName": "机战佣兵VI 境界天火",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -4293,11 +4302,11 @@
       "flvAvailabilities": [
         0,
         0,
+        1,
+        1,
+        1,
         0,
         0,
-        1,
-        1,
-        1,
         0,
         0,
         0
@@ -4639,6 +4648,7 @@
       "subAreaId": 828,
       "subAreaName": "星球重启",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -4716,6 +4726,7 @@
       "subAreaId": 835,
       "subAreaName": "KARDS",
       "flvAvailabilities": [
+        0,
         0,
         0
       ]
