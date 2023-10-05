@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696498143942",
+  "lastUpdated": "1696501742727",
   "data": [
     {
       "areaId": 1,
@@ -281,8 +281,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         1,
         0,
@@ -290,6 +288,8 @@
         0,
         1,
         0,
+        1,
+        1,
         1
       ]
     },
@@ -683,6 +683,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -996,13 +998,13 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
         1,
+        1,
+        0,
         1,
         0
       ]
@@ -1251,6 +1253,7 @@
       "subAreaId": 274,
       "subAreaName": "新游评测",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -1610,14 +1613,14 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         1,
         0,
         0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -1753,6 +1756,7 @@
       "subAreaId": 357,
       "subAreaName": "糖豆人",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0
@@ -1956,7 +1960,7 @@
       "subAreaName": "猛兽派对",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -2132,6 +2136,15 @@
         1,
         1,
         1,
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 448,
+      "subAreaName": "天地劫：幽城再临",
+      "flvAvailabilities": [
         1
       ]
     },
@@ -2353,6 +2366,7 @@
       "subAreaId": 507,
       "subAreaName": "胡闹厨房",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2593,6 +2607,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2705,6 +2720,7 @@
       "subAreaId": 583,
       "subAreaName": "文字游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2862,6 +2878,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3007,6 +3024,7 @@
       "subAreaId": 629,
       "subAreaName": "反恐精英Online",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -3213,6 +3231,7 @@
       "subAreaId": 658,
       "subAreaName": "星际公民",
       "flvAvailabilities": [
+        0,
         0,
         0
       ]
@@ -3650,6 +3669,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3698,6 +3718,7 @@
       "subAreaId": 720,
       "subAreaName": "宝可梦集换式卡牌游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -4192,6 +4213,7 @@
       "flvAvailabilities": [
         0,
         0,
+        0,
         0
       ]
     },
@@ -4240,8 +4262,8 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4274,6 +4296,7 @@
       "subAreaId": 806,
       "subAreaName": "千年之旅",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -4539,6 +4562,7 @@
       "subAreaId": 824,
       "subAreaName": "小冰冰传奇",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -4636,8 +4660,8 @@
         1,
         1,
         1,
-        1,
         0,
+        1,
         1,
         1,
         1,
