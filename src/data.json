@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696534135799",
+  "lastUpdated": "1696537742572",
   "data": [
     {
       "areaId": 1,
@@ -284,9 +284,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -337,13 +337,13 @@
       "flvAvailabilities": [
         0,
         0,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
         0,
-        1,
-        1,
-        1,
-        1,
-        1,
         0
       ]
     },
@@ -1000,14 +1000,14 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         0,
         1,
         0,
         0,
         1,
+        1,
+        0,
         1,
         0
       ]
@@ -1259,6 +1259,7 @@
       "subAreaId": 274,
       "subAreaName": "新游评测",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1983,7 +1984,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -2154,6 +2155,8 @@
       "subAreaId": 446,
       "subAreaName": "双人成行",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -3514,6 +3517,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -3882,11 +3886,11 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -3975,6 +3979,15 @@
       "areaName": "单机游戏",
       "subAreaId": 763,
       "subAreaName": "边境",
+      "flvAvailabilities": [
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 765,
+      "subAreaName": "战火勋章",
       "flvAvailabilities": [
         1
       ]
@@ -4306,6 +4319,7 @@
       "subAreaId": 801,
       "subAreaName": "绝世好武功",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -4316,7 +4330,7 @@
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
         1,
-        1,
+        0,
         0,
         0,
         0,
