@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696537742572",
+  "lastUpdated": "1696541338050",
   "data": [
     {
       "areaId": 1,
@@ -230,9 +230,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -282,9 +282,9 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -479,6 +479,7 @@
       "subAreaId": 114,
       "subAreaName": "风暴英雄",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1000,12 +1001,12 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         0,
         1,
+        1,
+        0,
         1,
         0,
         1,
@@ -1290,13 +1291,13 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        1,
         0,
         0,
         0,
         0,
         0,
         1,
+        0,
         0,
         0,
         0
@@ -1982,7 +1983,7 @@
       "flvAvailabilities": [
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -2124,6 +2125,7 @@
       "subAreaId": 426,
       "subAreaName": "重生细胞",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2851,6 +2853,7 @@
       "subAreaId": 594,
       "subAreaName": "全面战争：战锤3",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -3801,6 +3804,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3886,10 +3890,10 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
+        0,
         1,
         0,
         0,
-        1,
         0,
         0,
         0,
@@ -4083,6 +4087,7 @@
       "subAreaId": 779,
       "subAreaName": "一拳超人：世界",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -4329,7 +4334,7 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -4705,6 +4710,7 @@
       "subAreaId": 830,
       "subAreaName": "FC24",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
