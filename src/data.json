@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696480145306",
+  "lastUpdated": "1696483741463",
   "data": [
     {
       "areaId": 1,
@@ -282,11 +282,11 @@
         0,
         0,
         0,
-        0,
         1,
         1,
         1,
         0,
+        1,
         1
       ]
     },
@@ -992,10 +992,10 @@
         0,
         1,
         0,
+        0,
         1,
         0,
         0,
-        1,
         0
       ]
     },
@@ -1274,11 +1274,11 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         0,
         1,
+        0,
         0
       ]
     },
@@ -1600,11 +1600,11 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1656,6 +1656,7 @@
       "subAreaId": 341,
       "subAreaName": "盗贼之海",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1936,11 +1937,11 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1986,6 +1987,7 @@
       "subAreaId": 387,
       "subAreaName": "恐鬼症",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2074,6 +2076,7 @@
       "subAreaId": 426,
       "subAreaName": "重生细胞",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -2720,6 +2723,7 @@
       "flvAvailabilities": [
         0,
         0,
+        0,
         0
       ]
     },
@@ -2812,6 +2816,7 @@
       "subAreaName": "深空之眼",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -2821,6 +2826,7 @@
       "subAreaId": 599,
       "subAreaName": "洛奇英雄传",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2951,6 +2957,7 @@
       "subAreaId": 628,
       "subAreaName": "运动",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3754,9 +3761,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -3832,6 +3839,15 @@
         1,
         1,
         1,
+        1
+      ]
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 763,
+      "subAreaName": "边境",
+      "flvAvailabilities": [
         1
       ]
     },
@@ -4154,12 +4170,12 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
