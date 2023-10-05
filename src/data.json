@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696476540303",
+  "lastUpdated": "1696480145306",
   "data": [
     {
       "areaId": 1,
@@ -135,6 +135,7 @@
       "subAreaId": 50,
       "subAreaName": "部落冲突:皇室战争",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -282,10 +283,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -757,6 +758,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -985,7 +987,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
         0,
         1,
         0,
@@ -994,7 +995,8 @@
         1,
         0,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1220,6 +1222,7 @@
       "subAreaName": "人类一败涂地",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -1272,11 +1275,11 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1433,6 +1436,7 @@
       "subAreaId": 302,
       "subAreaName": "FORZA 极限竞速",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1598,7 +1602,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1,
         0
@@ -1730,6 +1734,7 @@
       "subAreaName": "糖豆人",
       "flvAvailabilities": [
         0,
+        0,
         0
       ]
     },
@@ -1764,6 +1769,7 @@
       "subAreaId": 367,
       "subAreaName": "美食",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1932,10 +1938,10 @@
         0,
         0,
         0,
-        0,
         1,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -2112,6 +2118,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2185,6 +2192,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -2236,6 +2244,7 @@
       "subAreaId": 493,
       "subAreaName": "宝可梦大集结",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -2419,6 +2428,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -2551,6 +2561,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2674,6 +2685,7 @@
       "subAreaId": 586,
       "subAreaName": "消逝的光芒2",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3127,6 +3139,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3195,6 +3208,7 @@
       "subAreaId": 664,
       "subAreaName": "跑跑卡丁车",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -3742,8 +3756,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0
       ]
     },
@@ -4187,6 +4201,7 @@
       "subAreaId": 807,
       "subAreaName": "率土之滨",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
