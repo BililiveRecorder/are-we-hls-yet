@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696505342458",
+  "lastUpdated": "1696508941690",
   "data": [
     {
       "areaId": 1,
@@ -282,12 +282,12 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         1,
+        1,
+        0,
         1,
         0,
         1
@@ -341,8 +341,8 @@
         0,
         0,
         0,
-        0,
-        0,
+        1,
+        1,
         1,
         1
       ]
@@ -999,14 +999,14 @@
       "flvAvailabilities": [
         0,
         1,
-        0,
-        1,
         1,
         0,
         1,
         0,
         1,
-        0
+        0,
+        1,
+        1
       ]
     },
     {
@@ -1244,6 +1244,7 @@
       "subAreaName": "无主之地3",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -1282,7 +1283,6 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        1,
         0,
         0,
         1,
@@ -1291,7 +1291,8 @@
         0,
         0,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1336,6 +1337,7 @@
       "subAreaId": 286,
       "subAreaName": "百闻牌",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1594,6 +1596,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1613,10 +1616,10 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
+        0,
         1,
         0,
         0,
-        1,
         0,
         0,
         0,
@@ -1951,6 +1954,7 @@
       "subAreaId": 383,
       "subAreaName": "战意",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -1969,7 +1973,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -3041,6 +3045,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -3275,6 +3280,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3424,6 +3430,7 @@
       "subAreaId": 679,
       "subAreaName": "休闲小游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -4263,15 +4270,15 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         1
       ]
     },
@@ -4671,8 +4678,8 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
         0,
+        1,
         1,
         1,
         1,
