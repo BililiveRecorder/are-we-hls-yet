@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696469341040",
+  "lastUpdated": "1696472943880",
   "data": [
     {
       "areaId": 1,
@@ -277,7 +277,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
         1,
         1,
         0,
@@ -286,7 +285,8 @@
         0,
         0,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -985,10 +985,10 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
+        1,
+        0,
         1,
         0,
         1,
@@ -1003,6 +1003,8 @@
       "subAreaId": 243,
       "subAreaName": "全境封锁2",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -1162,6 +1164,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1264,7 +1267,6 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        1,
         0,
         0,
         0,
@@ -1273,7 +1275,8 @@
         0,
         1,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -1435,6 +1438,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1563,6 +1567,7 @@
       "subAreaId": 326,
       "subAreaName": "骑马与砍杀",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1849,6 +1854,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1927,7 +1933,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1998,6 +2004,7 @@
       "subAreaId": 389,
       "subAreaName": "天涯明月刀手游",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2043,6 +2050,8 @@
       "subAreaId": 407,
       "subAreaName": "游戏王：决斗链接",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -2389,6 +2398,7 @@
       "subAreaId": 538,
       "subAreaName": "东方归言录",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -2933,6 +2943,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3009,6 +3020,7 @@
       "subAreaId": 639,
       "subAreaName": "阿尔比恩",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3397,6 +3409,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3724,7 +3737,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ]
     },
@@ -4119,13 +4132,13 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        0,
         1,
         1,
         0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0
@@ -4462,6 +4475,7 @@
       "subAreaId": 829,
       "subAreaName": "从军",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
