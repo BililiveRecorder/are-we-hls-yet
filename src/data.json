@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696462141276",
+  "lastUpdated": "1696465742637",
   "data": [
     {
       "areaId": 1,
@@ -194,6 +194,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -276,9 +277,9 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -983,14 +984,14 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
         1,
         0,
         0,
         1,
+        1,
+        0,
         1,
         0
       ]
@@ -1262,14 +1263,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1424,6 +1425,7 @@
       "subAreaId": 302,
       "subAreaName": "FORZA 极限竞速",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1856,6 +1858,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1883,6 +1886,7 @@
       "subAreaId": 378,
       "subAreaName": "时尚",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2133,6 +2137,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2171,6 +2176,7 @@
       "subAreaId": 479,
       "subAreaName": "黎明觉醒：生机",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2231,6 +2237,7 @@
       "subAreaId": 500,
       "subAreaName": "体育游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2865,6 +2872,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2915,6 +2923,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2935,6 +2944,7 @@
       "subAreaId": 632,
       "subAreaName": "黑色沙漠",
       "flvAvailabilities": [
+        0,
         0,
         0
       ]
@@ -2997,6 +3007,15 @@
         0,
         0,
         0
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 641,
+      "subAreaName": "FIFA足球世界",
+      "flvAvailabilities": [
+        1
       ]
     },
     {
@@ -3077,6 +3096,7 @@
       "subAreaId": 653,
       "subAreaName": "新天龙八部",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3219,6 +3239,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3264,6 +3285,7 @@
       "subAreaId": 677,
       "subAreaName": "人间地狱",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3682,9 +3704,9 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -3718,6 +3740,7 @@
       "subAreaId": 753,
       "subAreaName": "Roblox",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3980,6 +4003,7 @@
       "subAreaId": 789,
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -4478,7 +4502,7 @@
         1,
         1,
         1,
-        1
+        0
       ]
     },
     {
