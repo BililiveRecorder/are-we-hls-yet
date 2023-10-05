@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696490940599",
+  "lastUpdated": "1696494543498",
   "data": [
     {
       "areaId": 1,
@@ -145,6 +145,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -281,14 +282,14 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
-        1,
-        1,
         0,
         1,
         1,
         1,
         0,
         0,
+        0,
+        1,
         0
       ]
     },
@@ -478,6 +479,8 @@
       "subAreaId": 114,
       "subAreaName": "风暴英雄",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -724,6 +727,7 @@
       "subAreaId": 203,
       "subAreaName": "忍者必须死3",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -990,12 +994,12 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         0,
         0,
+        0,
+        1,
         0,
         1,
         0,
@@ -1276,11 +1280,11 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0
@@ -1517,6 +1521,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1605,14 +1610,14 @@
       "flvAvailabilities": [
         1,
         0,
+        0,
+        0,
+        1,
+        1,
         1,
         0,
         0,
-        0,
-        1,
-        1,
-        1,
-        0
+        1
       ]
     },
     {
@@ -1945,11 +1950,11 @@
       "subAreaId": 384,
       "subAreaName": "猛兽派对",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -2218,6 +2223,7 @@
       "subAreaId": 479,
       "subAreaName": "黎明觉醒：生机",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2682,6 +2688,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3136,6 +3143,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3383,6 +3391,7 @@
       "subAreaId": 679,
       "subAreaName": "休闲小游戏",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -3791,8 +3800,8 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -3853,6 +3862,7 @@
       "subAreaId": 760,
       "subAreaName": "蓝色协议",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0
@@ -3989,6 +3999,7 @@
         0,
         0,
         1,
+        0,
         0
       ]
     },
@@ -4214,14 +4225,14 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        1,
         0,
         0
       ]
@@ -4614,8 +4625,8 @@
         1,
         1,
         1,
-        1,
         0,
+        1,
         1,
         1
       ]
