@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696530536249",
+  "lastUpdated": "1696534135799",
   "data": [
     {
       "areaId": 1,
@@ -286,9 +286,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -339,12 +339,12 @@
         0,
         0,
         0,
-        0,
         1,
         1,
         1,
         1,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1001,15 +1001,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         1,
-        0,
-        1,
         1,
         0,
         0,
         1,
         0,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1289,7 +1289,6 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        0,
         1,
         0,
         0,
@@ -1297,6 +1296,7 @@
         0,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -1445,6 +1445,7 @@
       "subAreaId": 300,
       "subAreaName": "封印者",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1628,7 +1629,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -2105,6 +2106,7 @@
       "subAreaId": 407,
       "subAreaName": "游戏王：决斗链接",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4262,6 +4264,7 @@
       "subAreaId": 796,
       "subAreaName": "冒险岛手游",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
