@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696544928180",
+  "lastUpdated": "1696548540067",
   "data": [
     {
       "areaId": 1,
@@ -228,9 +228,9 @@
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -281,7 +281,7 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -336,12 +336,12 @@
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
         0,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
-        1,
         0,
         0,
         0
@@ -1001,8 +1001,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
@@ -1010,6 +1008,8 @@
         1,
         0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1294,9 +1294,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1453,6 +1453,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1498,6 +1499,7 @@
       "subAreaId": 308,
       "subAreaName": "塞尔达传说",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1637,7 +1639,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1,
         0
@@ -1815,6 +1817,7 @@
       "subAreaId": 367,
       "subAreaName": "美食",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2125,6 +2128,7 @@
       "subAreaId": 426,
       "subAreaName": "重生细胞",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2809,6 +2813,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -3243,6 +3248,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3497,6 +3503,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3562,6 +3569,7 @@
       "subAreaId": 689,
       "subAreaName": "香肠派对",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3706,6 +3714,7 @@
       "subAreaId": 705,
       "subAreaName": "创世战车",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -3891,8 +3900,8 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -3954,6 +3963,7 @@
       "subAreaId": 760,
       "subAreaName": "蓝色协议",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -4079,6 +4089,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4102,6 +4113,7 @@
         0,
         0,
         1,
+        0,
         0,
         0,
         0
