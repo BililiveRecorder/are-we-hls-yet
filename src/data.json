@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696465742637",
+  "lastUpdated": "1696469341040",
   "data": [
     {
       "areaId": 1,
@@ -187,6 +187,7 @@
       "subAreaId": 81,
       "subAreaName": "三国杀",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -984,12 +985,12 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         0,
         1,
+        1,
+        0,
         1,
         0,
         1,
@@ -1160,6 +1161,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1214,6 +1216,7 @@
       "subAreaId": 270,
       "subAreaName": "人类一败涂地",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -1261,8 +1264,6 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         0,
@@ -1270,7 +1271,9 @@
         0,
         0,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1402,6 +1405,7 @@
       "subAreaId": 298,
       "subAreaName": "新游前瞻",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0
@@ -1561,6 +1565,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -1612,6 +1617,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -1639,6 +1645,7 @@
       "subAreaId": 341,
       "subAreaName": "盗贼之海",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2632,6 +2639,7 @@
       "subAreaName": "NBA2KOL2",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -2924,6 +2932,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2946,6 +2955,7 @@
       "flvAvailabilities": [
         0,
         0,
+        0,
         0
       ]
     },
@@ -2955,6 +2965,7 @@
       "subAreaId": 633,
       "subAreaName": "FPS沙盒",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3132,6 +3143,7 @@
       "subAreaId": 658,
       "subAreaName": "星际公民",
       "flvAvailabilities": [
+        0,
         0
       ]
     },
@@ -3705,7 +3717,7 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -4011,6 +4023,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -4106,8 +4119,6 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
         1,
@@ -4115,6 +4126,8 @@
         1,
         0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -4166,6 +4179,7 @@
       "subAreaId": 808,
       "subAreaName": "星空",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4448,6 +4462,7 @@
       "subAreaId": 829,
       "subAreaName": "从军",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
