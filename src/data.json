@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696588143293",
+  "lastUpdated": "1696591744610",
   "data": [
     {
       "areaId": 1,
@@ -281,8 +281,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         0,
@@ -290,7 +288,9 @@
         1,
         0,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -336,8 +336,8 @@
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
         1,
-        1,
-        1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1011,12 +1011,12 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
         0,
         0,
+        1,
+        1,
         1
       ]
     },
@@ -1654,8 +1654,6 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         0,
@@ -1663,7 +1661,9 @@
         0,
         1,
         1,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1806,6 +1806,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -1815,6 +1816,7 @@
       "subAreaId": 362,
       "subAreaName": "NBA2K",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -2005,6 +2007,7 @@
       "subAreaId": 383,
       "subAreaName": "战意",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -3008,9 +3011,9 @@
         0,
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0
@@ -3022,6 +3025,7 @@
       "subAreaId": 601,
       "subAreaName": "综合射击",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -3140,6 +3144,7 @@
       "subAreaId": 629,
       "subAreaName": "反恐精英Online",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3573,6 +3578,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3847,6 +3853,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3856,6 +3863,7 @@
       "subAreaId": 719,
       "subAreaName": "欢乐斗地主",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4047,6 +4055,7 @@
       "subAreaId": 755,
       "subAreaName": "以闪亮之名",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -4187,6 +4196,7 @@
       "subAreaId": 778,
       "subAreaName": "尘白禁区",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
