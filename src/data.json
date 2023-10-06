@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696573740017",
+  "lastUpdated": "1696577344949",
   "data": [
     {
       "areaId": 1,
@@ -281,8 +281,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
@@ -290,7 +288,9 @@
         1,
         0,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -653,6 +653,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1003,14 +1004,14 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
+        1,
+        0,
         1,
         0,
         0,
-        0,
-        0,
-        1,
-        0,
-        1,
         0,
         0
       ]
@@ -1126,9 +1127,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1645,8 +1646,6 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         0,
@@ -1654,7 +1653,9 @@
         0,
         0,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1663,6 +1664,7 @@
       "subAreaId": 330,
       "subAreaName": "公主连结Re:Dive",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1831,6 +1833,7 @@
       "subAreaId": 367,
       "subAreaName": "美食",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2136,6 +2139,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2179,6 +2183,7 @@
       "subAreaId": 442,
       "subAreaName": "坎公骑冠剑",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2341,6 +2346,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -2374,6 +2380,7 @@
       "subAreaId": 500,
       "subAreaName": "体育游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2478,6 +2485,15 @@
       "subAreaName": "超激斗梦境",
       "flvAvailabilities": [
         1,
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 525,
+      "subAreaName": "少女前线：云图计划",
+      "flvAvailabilities": [
         1
       ]
     },
@@ -2898,6 +2914,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -2979,7 +2996,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -3111,6 +3128,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3120,6 +3138,7 @@
       "subAreaId": 632,
       "subAreaName": "黑色沙漠",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3613,6 +3632,7 @@
       "subAreaId": 689,
       "subAreaName": "香肠派对",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4309,6 +4329,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4471,6 +4492,7 @@
       "subAreaId": 808,
       "subAreaName": "星空",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
