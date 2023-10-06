@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696624139285",
+  "lastUpdated": "1696627739335",
   "data": [
     {
       "areaId": 1,
@@ -227,7 +227,7 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -283,10 +283,10 @@
       "flvAvailabilities": [
         0,
         1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -1012,7 +1012,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
         1,
         1,
         1,
@@ -1020,6 +1019,7 @@
         0,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -1284,6 +1284,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1316,8 +1317,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0
@@ -1679,6 +1680,7 @@
       "subAreaId": 330,
       "subAreaName": "公主连结Re:Dive",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3034,7 +3036,7 @@
       "subAreaName": "猎杀对决",
       "flvAvailabilities": [
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -4039,14 +4041,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         0,
         0,
         0,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -4232,6 +4234,7 @@
       "subAreaId": 778,
       "subAreaName": "尘白禁区",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
