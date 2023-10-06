@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696627739335",
+  "lastUpdated": "1696631336827",
   "data": [
     {
       "areaId": 1,
@@ -281,10 +281,10 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -1013,12 +1013,12 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         1,
-        1,
-        1,
         0,
         0,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -1315,9 +1315,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -2963,6 +2963,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3035,7 +3036,7 @@
       "subAreaId": 600,
       "subAreaName": "猎杀对决",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -3890,6 +3891,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4039,14 +4041,14 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         0,
         0,
         0,
         0,
+        0,
+        1,
         0,
         1
       ]
