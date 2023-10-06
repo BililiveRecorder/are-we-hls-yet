@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696584543994",
+  "lastUpdated": "1696588143293",
   "data": [
     {
       "areaId": 1,
@@ -283,14 +283,14 @@
       "flvAvailabilities": [
         1,
         0,
-        1,
-        0,
         0,
         1,
         0,
         1,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -742,6 +742,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1008,15 +1009,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         0,
         0,
         0,
         1,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1043,6 +1044,7 @@
       "subAreaId": 244,
       "subAreaName": "鬼泣5",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1652,15 +1654,15 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
+        0,
+        0,
         1,
         0,
         0,
         0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
+        1,
         1
       ]
     },
@@ -1754,6 +1756,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1812,6 +1815,7 @@
       "subAreaId": 362,
       "subAreaName": "NBA2K",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -2795,6 +2799,7 @@
       "subAreaName": "战神",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -2804,6 +2809,7 @@
       "subAreaId": 581,
       "subAreaName": "NBA2KOL2",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3003,10 +3009,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -3762,6 +3768,7 @@
       "subAreaId": 701,
       "subAreaName": "科学科普",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4754,6 +4761,7 @@
       "subAreaId": 824,
       "subAreaName": "小冰冰传奇",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
