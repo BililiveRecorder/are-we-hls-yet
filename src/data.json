@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696595338721",
+  "lastUpdated": "1696598944360",
   "data": [
     {
       "areaId": 1,
@@ -281,14 +281,14 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         0,
         1,
         0,
         0,
+        0,
+        1,
         0,
         1
       ]
@@ -344,7 +344,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1008,11 +1008,11 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         0,
+        1,
+        1,
         1,
         1,
         1,
@@ -1044,6 +1044,7 @@
       "subAreaId": 244,
       "subAreaName": "鬼泣5",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1655,15 +1656,15 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         1,
         1,
         0,
         0,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1736,6 +1737,7 @@
       "subAreaId": 342,
       "subAreaName": "梦幻西游手游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2461,6 +2463,7 @@
       "subAreaId": 507,
       "subAreaName": "胡闹厨房",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3321,6 +3324,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3373,6 +3377,7 @@
       "flvAvailabilities": [
         0,
         0,
+        0,
         0
       ]
     },
@@ -3409,6 +3414,7 @@
       "subAreaId": 664,
       "subAreaName": "跑跑卡丁车",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4015,7 +4021,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -4201,6 +4207,7 @@
       "subAreaId": 778,
       "subAreaName": "尘白禁区",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4421,6 +4428,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -4478,7 +4486,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -4566,6 +4574,7 @@
       "subAreaId": 811,
       "subAreaName": "收获日3",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -4778,6 +4787,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -4903,6 +4913,7 @@
       "subAreaId": 835,
       "subAreaName": "KARDS",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0
