@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696591744610",
+  "lastUpdated": "1696595338721",
   "data": [
     {
       "areaId": 1,
@@ -283,14 +283,14 @@
       "flvAvailabilities": [
         0,
         1,
-        0,
-        1,
         1,
         0,
         0,
         1,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -335,7 +335,7 @@
       "subAreaId": 91,
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1009,12 +1009,12 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         1,
         0,
         0,
+        1,
+        1,
         1,
         1,
         1
@@ -1130,7 +1130,7 @@
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1654,8 +1654,6 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         0,
         0,
@@ -1663,7 +1661,9 @@
         1,
         1,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -2009,6 +2009,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -2090,6 +2091,7 @@
       "subAreaId": 388,
       "subAreaName": "FIFA ONLINE 4",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2313,6 +2315,7 @@
       "subAreaId": 478,
       "subAreaName": "漫威超级战争",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3279,6 +3282,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3312,6 +3316,7 @@
       "subAreaId": 652,
       "subAreaName": "大话西游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3756,7 +3761,7 @@
       "subAreaId": 700,
       "subAreaName": "卧龙：苍天陨落",
       "flvAvailabilities": [
-        0,
+        1,
         1,
         1,
         1,
