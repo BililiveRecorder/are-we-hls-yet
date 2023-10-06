@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696631336827",
+  "lastUpdated": "1696634936365",
   "data": [
     {
       "areaId": 1,
@@ -339,10 +339,10 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -623,6 +623,7 @@
       "subAreaId": 173,
       "subAreaName": "古剑奇谭OL",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1012,11 +1013,11 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
+        0,
+        0,
         1,
         0,
         0,
-        0,
-        1,
         0,
         0,
         0,
@@ -1687,6 +1688,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1746,6 +1748,7 @@
       "subAreaId": 342,
       "subAreaName": "梦幻西游手游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2844,6 +2847,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3402,6 +3406,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -3651,6 +3656,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -3809,6 +3815,7 @@
       "subAreaId": 701,
       "subAreaName": "科学科普",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4355,6 +4362,7 @@
       "subAreaId": 786,
       "subAreaName": "环行旅舍",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
