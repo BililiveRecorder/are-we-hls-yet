@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696548540067",
+  "lastUpdated": "1696552142303",
   "data": [
     {
       "areaId": 1,
@@ -228,7 +228,7 @@
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -335,12 +335,12 @@
       "subAreaId": 91,
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -1007,7 +1007,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0
@@ -1037,6 +1037,7 @@
       "subAreaId": 244,
       "subAreaName": "鬼泣5",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -1129,7 +1130,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1638,10 +1639,10 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
+        0,
         0
       ]
     },
@@ -2749,6 +2750,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2758,6 +2760,7 @@
       "subAreaId": 583,
       "subAreaName": "文字游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2917,6 +2920,7 @@
       "subAreaId": 599,
       "subAreaName": "洛奇英雄传",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3241,6 +3245,7 @@
       "subAreaId": 653,
       "subAreaName": "新天龙八部",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3900,7 +3905,7 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -4245,6 +4250,7 @@
       "subAreaId": 791,
       "subAreaName": "太空行动",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
