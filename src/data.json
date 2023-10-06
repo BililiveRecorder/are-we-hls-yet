@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696577344949",
+  "lastUpdated": "1696580942813",
   "data": [
     {
       "areaId": 1,
@@ -282,13 +282,13 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
-        0,
-        1,
         1,
         1,
         0,
         1,
         0,
+        0,
+        1,
         0,
         1
       ]
@@ -628,6 +628,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -637,6 +638,8 @@
       "subAreaId": 176,
       "subAreaName": "幻想全明星",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -1005,15 +1008,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1125,9 +1128,9 @@
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1242,6 +1245,7 @@
       "subAreaId": 270,
       "subAreaName": "人类一败涂地",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -1647,13 +1651,13 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         1,
-        1,
         0,
         1,
         0,
         0,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -1821,6 +1825,7 @@
       "subAreaId": 364,
       "subAreaName": "枪火重生",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2995,7 +3000,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1
       ]
     },
@@ -3798,6 +3803,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3884,6 +3890,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3893,6 +3900,7 @@
       "subAreaId": 734,
       "subAreaName": "弹弹堂",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4483,6 +4491,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4843,7 +4852,6 @@
       "subAreaId": 834,
       "subAreaName": "德州电锯",
       "flvAvailabilities": [
-        0,
         1,
         1,
         1,
@@ -4852,7 +4860,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ]
     },
     {
