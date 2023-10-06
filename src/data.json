@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696580942813",
+  "lastUpdated": "1696584543994",
   "data": [
     {
       "areaId": 1,
@@ -282,15 +282,15 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
-        1,
-        1,
         0,
         1,
         0,
         0,
         1,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1010,13 +1010,13 @@
         0,
         1,
         0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1257,6 +1257,7 @@
       "subAreaId": 273,
       "subAreaName": "无主之地3",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -1522,6 +1523,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1652,14 +1654,14 @@
       "flvAvailabilities": [
         1,
         0,
+        0,
+        0,
         1,
         0,
         0,
         0,
-        1,
         0,
-        0,
-        0
+        1
       ]
     },
     {
@@ -2090,6 +2092,7 @@
       "subAreaId": 389,
       "subAreaName": "天涯明月刀手游",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -2791,6 +2794,7 @@
       "subAreaId": 579,
       "subAreaName": "战神",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2866,6 +2870,8 @@
       "subAreaId": 591,
       "subAreaName": "Dread Hunger",
       "flvAvailabilities": [
+        0,
+        0,
         0,
         0,
         0,
@@ -2999,9 +3005,9 @@
         0,
         0,
         0,
-        0,
         1,
-        1
+        1,
+        0
       ]
     },
     {
@@ -3128,6 +3134,8 @@
       "subAreaId": 629,
       "subAreaName": "反恐精英Online",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -3385,6 +3393,7 @@
       "subAreaId": 664,
       "subAreaName": "跑跑卡丁车",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4385,6 +4394,7 @@
       "subAreaId": 796,
       "subAreaName": "冒险岛手游",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
