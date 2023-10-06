@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696570141959",
+  "lastUpdated": "1696573740017",
   "data": [
     {
       "areaId": 1,
@@ -282,13 +282,13 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         1,
         0,
         1,
         1,
+        1,
+        0,
         1,
         0
       ]
@@ -1003,8 +1003,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         0,
@@ -1012,7 +1010,9 @@
         0,
         1,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1128,8 +1128,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0
@@ -1263,6 +1263,7 @@
       "subAreaId": 274,
       "subAreaName": "新游评测",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1462,6 +1463,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1645,14 +1647,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         1,
         0,
         1,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1789,6 +1791,7 @@
       "subAreaId": 357,
       "subAreaName": "糖豆人",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -2167,6 +2170,15 @@
         1,
         1,
         1,
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 442,
+      "subAreaName": "坎公骑冠剑",
+      "flvAvailabilities": [
         1
       ]
     },
@@ -3223,6 +3235,7 @@
       "subAreaName": "街头篮球",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -3982,6 +3995,15 @@
         0,
         0,
         0
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 755,
+      "subAreaName": "以闪亮之名",
+      "flvAvailabilities": [
+        1
       ]
     },
     {
