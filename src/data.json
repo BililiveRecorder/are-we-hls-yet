@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696634936365",
+  "lastUpdated": "1696638542222",
   "data": [
     {
       "areaId": 1,
@@ -283,7 +283,7 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -337,11 +337,11 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -1013,9 +1013,9 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1314,9 +1314,9 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1654,6 +1654,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -1672,7 +1673,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -3201,6 +3202,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -4048,7 +4050,6 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
         0,
         0,
         0,
@@ -4057,7 +4058,8 @@
         0,
         1,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -4497,6 +4499,7 @@
       "subAreaName": "机战佣兵VI 境界天火",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -4521,8 +4524,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0
@@ -4552,6 +4555,7 @@
       "subAreaId": 806,
       "subAreaName": "千年之旅",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
