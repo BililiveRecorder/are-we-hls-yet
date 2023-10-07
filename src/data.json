@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696638542222",
+  "lastUpdated": "1696642140950",
   "data": [
     {
       "areaId": 1,
@@ -282,7 +282,7 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -1013,7 +1013,7 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1671,7 +1671,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1
       ]
@@ -1764,7 +1764,7 @@
       "subAreaId": 343,
       "subAreaName": "DNF手游",
       "flvAvailabilities": [
-        0,
+        1,
         1,
         1,
         1,
@@ -3736,6 +3736,7 @@
       "subAreaName": "铁甲雄兵",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -3817,6 +3818,7 @@
       "subAreaId": 701,
       "subAreaName": "科学科普",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4054,11 +4056,11 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -4523,8 +4525,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4959,6 +4961,7 @@
       "subAreaId": 835,
       "subAreaName": "KARDS",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
