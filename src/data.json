@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696674539913",
+  "lastUpdated": "1696678142831",
   "data": [
     {
       "areaId": 1,
@@ -229,12 +229,12 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         1,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -284,13 +284,13 @@
         1,
         1,
         1,
-        1,
-        1,
         0,
         1,
         0,
         1,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -344,7 +344,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1018,10 +1018,10 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
         0,
         1,
         0,
+        1,
         1,
         1,
         1,
@@ -1142,10 +1142,10 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -1668,13 +1668,13 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
         0,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -1860,6 +1860,7 @@
       "subAreaId": 364,
       "subAreaName": "枪火重生",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2330,6 +2331,7 @@
       "subAreaId": 473,
       "subAreaName": "小动物之星",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2830,6 +2832,7 @@
       "subAreaId": 576,
       "subAreaName": "恋爱养成游戏",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -3054,6 +3057,7 @@
       "subAreaId": 599,
       "subAreaName": "洛奇英雄传",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3379,6 +3383,7 @@
       "subAreaId": 652,
       "subAreaName": "大话西游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3775,6 +3780,7 @@
       "subAreaId": 691,
       "subAreaName": "铁甲雄兵",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -4591,7 +4597,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -5009,8 +5015,8 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
         0,
+        1,
         1,
         1,
         1,
