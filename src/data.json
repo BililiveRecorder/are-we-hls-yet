@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696703336941",
+  "lastUpdated": "1696706936953",
   "data": [
     {
       "areaId": 1,
@@ -1021,8 +1021,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
@@ -1030,6 +1028,8 @@
         1,
         0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1331,8 +1331,8 @@
         0,
         0,
         0,
-        0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -3017,6 +3017,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3073,6 +3074,7 @@
       "subAreaId": 599,
       "subAreaName": "洛奇英雄传",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4142,9 +4144,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -4621,10 +4623,10 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -4722,6 +4724,7 @@
       "subAreaId": 811,
       "subAreaName": "收获日3",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
