@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696660138722",
+  "lastUpdated": "1696663743269",
   "data": [
     {
       "areaId": 1,
@@ -234,9 +234,9 @@
         0,
         0,
         0,
-        0,
         1,
-        0
+        0,
+        1
       ]
     },
     {
@@ -282,11 +282,11 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         0,
+        1,
+        1,
         1,
         1,
         1,
@@ -336,7 +336,7 @@
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1017,15 +1017,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
         1,
         1,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1668,14 +1668,14 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
         1,
         0
       ]
@@ -2117,6 +2117,7 @@
       "subAreaName": "FIFA ONLINE 4",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -2280,7 +2281,8 @@
       "subAreaId": 464,
       "subAreaName": "摩尔庄园手游",
       "flvAvailabilities": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -2366,6 +2368,7 @@
       "subAreaId": 479,
       "subAreaName": "黎明觉醒：生机",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3441,6 +3444,7 @@
       "subAreaId": 659,
       "subAreaName": "Squad战术小队",
       "flvAvailabilities": [
+        0,
         0
       ]
     },
@@ -3715,6 +3719,7 @@
       "subAreaId": 688,
       "subAreaName": "300大作战",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3998,6 +4003,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4007,6 +4013,7 @@
       "subAreaId": 734,
       "subAreaName": "弹弹堂",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4085,8 +4092,8 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4400,6 +4407,7 @@
       "subAreaName": "Warlander",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -4566,8 +4574,8 @@
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4996,8 +5004,8 @@
         1,
         1,
         1,
-        1,
         0,
+        1,
         1,
         1
       ]
