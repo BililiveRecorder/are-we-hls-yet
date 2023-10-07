@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696699742279",
+  "lastUpdated": "1696703336941",
   "data": [
     {
       "areaId": 1,
@@ -229,7 +229,6 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        0,
         1,
         1,
         0,
@@ -238,7 +237,8 @@
         0,
         0,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1023,8 +1023,8 @@
       "flvAvailabilities": [
         0,
         1,
-        0,
         1,
+        0,
         1,
         0,
         1,
@@ -1144,10 +1144,10 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -3467,6 +3467,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -4143,7 +4144,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -4620,11 +4621,11 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        1,
         0,
         1,
         1,
         1,
+        0,
         0,
         0,
         0,
@@ -4721,6 +4722,7 @@
       "subAreaId": 811,
       "subAreaName": "收获日3",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -4925,6 +4927,15 @@
         1,
         1,
         1,
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 823,
+      "subAreaName": "七人传奇",
+      "flvAvailabilities": [
         1
       ]
     },
