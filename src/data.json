@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696688942186",
+  "lastUpdated": "1696692534969",
   "data": [
     {
       "areaId": 1,
@@ -79,6 +79,7 @@
       "subAreaId": 39,
       "subAreaName": "少女前线",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -228,8 +229,6 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         0,
         0,
@@ -237,6 +236,8 @@
         0,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -283,11 +284,11 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
-        1,
-        1,
         0,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1023,12 +1024,12 @@
         1,
         1,
         1,
-        1,
-        1,
         0,
         1,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1232,6 +1233,7 @@
       "subAreaId": 265,
       "subAreaName": "跑跑卡丁车手游",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -2129,6 +2131,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -2138,6 +2141,7 @@
       "subAreaId": 389,
       "subAreaName": "天涯明月刀手游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -4611,12 +4615,12 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         1,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
