@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696678142831",
+  "lastUpdated": "1696681743041",
   "data": [
     {
       "areaId": 1,
@@ -128,6 +128,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -227,13 +228,13 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -282,15 +283,15 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
-        1,
-        1,
         0,
         1,
         0,
         1,
         1,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -343,7 +344,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1
       ]
     },
@@ -886,6 +887,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1016,11 +1018,11 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
         0,
+        1,
+        1,
         1,
         1,
         1,
@@ -1141,10 +1143,10 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0
@@ -1466,6 +1468,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -1670,9 +1673,9 @@
       "flvAvailabilities": [
         0,
         1,
+        1,
         0,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -2258,6 +2261,7 @@
       "subAreaId": 448,
       "subAreaName": "天地劫：幽城再临",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2373,6 +2377,7 @@
       "subAreaId": 479,
       "subAreaName": "黎明觉醒：生机",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2832,6 +2837,7 @@
       "subAreaId": 576,
       "subAreaName": "恋爱养成游戏",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -3390,6 +3396,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3454,6 +3461,7 @@
       "subAreaId": 659,
       "subAreaName": "Squad战术小队",
       "flvAvailabilities": [
+        0,
         0,
         0
       ]
@@ -4596,8 +4604,8 @@
         0,
         0,
         0,
-        0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -5014,8 +5022,8 @@
       "subAreaName": "德州电锯",
       "flvAvailabilities": [
         1,
-        1,
         0,
+        1,
         1,
         1,
         1,
