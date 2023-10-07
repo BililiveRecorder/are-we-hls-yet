@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696642140950",
+  "lastUpdated": "1696645738801",
   "data": [
     {
       "areaId": 1,
@@ -281,7 +281,7 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -336,10 +336,10 @@
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
         0,
-        0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1314,7 +1314,7 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1669,7 +1669,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1,
         0,
@@ -1682,6 +1682,7 @@
       "subAreaId": 330,
       "subAreaName": "公主连结Re:Dive",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2192,6 +2193,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2482,6 +2484,7 @@
       "subAreaId": 507,
       "subAreaName": "胡闹厨房",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3608,6 +3611,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3919,6 +3923,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4055,10 +4060,10 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0
