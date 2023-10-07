@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696649341692",
+  "lastUpdated": "1696652938882",
   "data": [
     {
       "areaId": 1,
@@ -288,9 +288,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -338,7 +338,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -745,6 +745,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1020,9 +1021,9 @@
         0,
         0,
         0,
-        0,
         1,
-        0
+        0,
+        1
       ]
     },
     {
@@ -1144,7 +1145,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1665,12 +1666,12 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
+        1,
+        1,
         1,
         1,
         1
@@ -1700,6 +1701,7 @@
       "subAreaId": 331,
       "subAreaName": "星战前夜：晨曦",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1750,6 +1752,7 @@
       "subAreaId": 342,
       "subAreaName": "梦幻西游手游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2458,6 +2461,7 @@
       "subAreaName": "航海王热血航线",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -2586,6 +2590,7 @@
       "subAreaId": 538,
       "subAreaName": "东方归言录",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3207,6 +3212,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -3614,6 +3620,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3648,6 +3655,7 @@
       "subAreaId": 685,
       "subAreaName": "QQ三国",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -3909,6 +3917,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3967,6 +3976,7 @@
       "subAreaId": 729,
       "subAreaName": "战争与抉择",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4059,10 +4069,10 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -4518,6 +4528,7 @@
       "subAreaId": 801,
       "subAreaName": "绝世好武功",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
