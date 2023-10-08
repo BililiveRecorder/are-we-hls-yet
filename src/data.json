@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696796941461",
+  "lastUpdated": "1696800537400",
   "data": [
     {
       "areaId": 1,
@@ -236,9 +236,9 @@
         0,
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0
@@ -1036,9 +1036,9 @@
         1,
         0,
         1,
+        1,
+        1,
         0,
-        1,
-        1,
         1,
         0,
         1,
@@ -1159,8 +1159,8 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1698,10 +1698,10 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
+        0,
         1,
         0,
         0,
-        1,
         0,
         0,
         0,
@@ -2375,6 +2375,7 @@
       "subAreaId": 473,
       "subAreaName": "小动物之星",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -3781,6 +3782,7 @@
       "subAreaId": 685,
       "subAreaName": "QQ三国",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
