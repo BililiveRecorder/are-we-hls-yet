@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696728541758",
+  "lastUpdated": "1696732142743",
   "data": [
     {
       "areaId": 1,
@@ -229,7 +229,7 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -292,7 +292,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -340,11 +340,11 @@
         0,
         0,
         0,
-        0,
         1,
         1,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -1024,7 +1024,6 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        1,
         0,
         0,
         0,
@@ -1032,7 +1031,8 @@
         0,
         0,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -2351,6 +2351,7 @@
       "subAreaName": "小动物之星",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -3448,6 +3449,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -4152,8 +4154,8 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -5061,6 +5063,7 @@
       "subAreaId": 832,
       "subAreaName": "少女前线2：追放",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
