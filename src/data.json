@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696739342657",
+  "lastUpdated": "1696742940222",
   "data": [
     {
       "areaId": 1,
@@ -287,12 +287,12 @@
         0,
         0,
         0,
+        1,
         0,
         0,
         1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -337,11 +337,11 @@
       "subAreaId": 91,
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -658,6 +658,7 @@
       "subAreaId": 178,
       "subAreaName": "梦幻模拟战",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1027,12 +1028,12 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1155,7 +1156,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1327,7 +1328,7 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -2278,6 +2279,7 @@
       "subAreaId": 448,
       "subAreaName": "天地劫：幽城再临",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -4161,7 +4163,7 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -4628,6 +4630,7 @@
       "subAreaId": 800,
       "subAreaName": "机战佣兵VI 境界天火",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
