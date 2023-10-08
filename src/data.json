@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696804139737",
+  "lastUpdated": "1696807740901",
   "data": [
     {
       "areaId": 1,
@@ -233,10 +233,10 @@
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -286,7 +286,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
         1,
         0,
         0,
@@ -294,6 +293,7 @@
         0,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -1034,14 +1034,14 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         1,
-        1,
-        1,
         0,
         1,
         0,
         1,
         0,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -3436,7 +3436,7 @@
       "subAreaId": 651,
       "subAreaName": "艾尔之光",
       "flvAvailabilities": [
-        0,
+        1,
         1,
         1,
         1,
@@ -4239,8 +4239,8 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
-        1,
+        0,
+        0,
         0,
         0,
         0,
@@ -4469,6 +4469,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -4479,8 +4480,8 @@
       "subAreaName": "暗黑破坏神Ⅳ",
       "flvAvailabilities": [
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4573,6 +4574,7 @@
       "subAreaId": 786,
       "subAreaName": "环行旅舍",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
