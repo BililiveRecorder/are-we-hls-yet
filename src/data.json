@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696724940292",
+  "lastUpdated": "1696728541758",
   "data": [
     {
       "areaId": 1,
@@ -229,9 +229,9 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1023,10 +1023,10 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
+        0,
         1,
         0,
         0,
-        1,
         0,
         0,
         0,
@@ -1146,7 +1146,7 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1469,6 +1469,7 @@
       "subAreaId": 298,
       "subAreaName": "新游前瞻",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -3702,6 +3703,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4151,9 +4153,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -4478,6 +4480,7 @@
       "subAreaId": 786,
       "subAreaName": "环行旅舍",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
