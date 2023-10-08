@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696800537400",
+  "lastUpdated": "1696804139737",
   "data": [
     {
       "areaId": 1,
@@ -235,9 +235,9 @@
         0,
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -343,13 +343,13 @@
         0,
         0,
         0,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
-        0,
-        1,
-        1,
-        1,
-        1,
-        1
+        0
       ]
     },
     {
@@ -1034,15 +1034,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         1,
-        0,
         1,
-        1,
-        1,
-        0,
         1,
         0,
         1,
-        0
+        0,
+        1,
+        0,
+        1,
+        1
       ]
     },
     {
@@ -1159,7 +1159,7 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1345,13 +1345,13 @@
         0,
         0,
         0,
-        0,
         1,
         1,
         0,
         1,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1699,7 +1699,7 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -2283,6 +2283,7 @@
       "subAreaId": 446,
       "subAreaName": "双人成行",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4238,10 +4239,10 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -4733,13 +4734,13 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        1,
         0,
         1,
         1,
         0,
         1,
         1,
+        0,
         0,
         0,
         0
@@ -5174,7 +5175,6 @@
       "subAreaId": 834,
       "subAreaName": "德州电锯",
       "flvAvailabilities": [
-        0,
         1,
         1,
         1,
@@ -5183,7 +5183,8 @@
         1,
         1,
         1,
-        1
+        1,
+        0
       ]
     },
     {
