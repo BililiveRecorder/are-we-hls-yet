@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696750143516",
+  "lastUpdated": "1696753741603",
   "data": [
     {
       "areaId": 1,
@@ -234,11 +234,11 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -284,15 +284,15 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         1,
         0,
         0,
         0,
         1,
-        0
+        0,
+        1,
+        1
       ]
     },
     {
@@ -1024,8 +1024,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
@@ -1033,7 +1031,9 @@
         0,
         0,
         1,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1154,8 +1154,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0
       ]
     },
@@ -2585,6 +2585,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3028,6 +3029,7 @@
       "subAreaId": 594,
       "subAreaName": "全面战争：战锤3",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3703,6 +3705,15 @@
     {
       "areaId": 2,
       "areaName": "网游",
+      "subAreaId": 680,
+      "subAreaName": "超击突破",
+      "flvAvailabilities": [
+        1
+      ]
+    },
+    {
+      "areaId": 2,
+      "areaName": "网游",
       "subAreaId": 683,
       "subAreaName": "奇迹MU",
       "flvAvailabilities": [
@@ -3737,6 +3748,7 @@
       "subAreaId": 685,
       "subAreaName": "QQ三国",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -3800,6 +3812,7 @@
       "subAreaId": 689,
       "subAreaName": "香肠派对",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3993,6 +4006,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4181,9 +4195,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -5113,8 +5127,8 @@
         1,
         1,
         1,
-        1,
         0,
+        1,
         1,
         1
       ]
