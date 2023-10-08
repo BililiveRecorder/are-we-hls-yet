@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696764540768",
+  "lastUpdated": "1696768141607",
   "data": [
     {
       "areaId": 1,
@@ -231,12 +231,12 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         1,
         0,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -283,7 +283,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
         0,
         1,
         1,
@@ -292,6 +291,7 @@
         0,
         1,
         0,
+        1,
         1
       ]
     },
@@ -344,8 +344,8 @@
         0,
         0,
         0,
-        0,
-        0,
+        1,
+        1,
         1
       ]
     },
@@ -1026,14 +1026,14 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         0,
         1,
         0,
         1,
         0,
+        1,
+        1,
         1,
         1
       ]
@@ -2749,7 +2749,8 @@
       "subAreaId": 561,
       "subAreaName": "游戏赛事",
       "flvAvailabilities": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -4036,6 +4037,16 @@
       ]
     },
     {
+      "areaId": 11,
+      "areaName": "知识",
+      "subAreaId": 715,
+      "subAreaName": "时政",
+      "flvAvailabilities": [
+        1,
+        1
+      ]
+    },
+    {
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 719,
@@ -4199,12 +4210,12 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         0,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -4567,7 +4578,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1
       ]
     },
@@ -4700,7 +4711,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -5134,8 +5145,8 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
         0,
+        1,
         1,
         1,
         1,
