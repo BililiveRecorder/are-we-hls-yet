@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696847343209",
+  "lastUpdated": "1696850942592",
   "data": [
     {
       "areaId": 1,
@@ -79,6 +79,7 @@
       "subAreaId": 39,
       "subAreaName": "少女前线",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -292,9 +293,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -342,14 +343,14 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
-        1,
         0,
         0,
         0,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1038,14 +1039,14 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        1,
         1
       ]
     },
@@ -1694,6 +1695,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1704,13 +1706,13 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         1,
         0,
         0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -2474,6 +2476,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2497,6 +2500,7 @@
       "subAreaId": 499,
       "subAreaName": "剑网3缘起",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2794,6 +2798,7 @@
       "subAreaName": "游戏赛事",
       "flvAvailabilities": [
         0,
+        1,
         1,
         1
       ]
@@ -3569,6 +3574,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -4280,7 +4286,7 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -4792,7 +4798,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -5224,6 +5230,7 @@
       "subAreaId": 833,
       "subAreaName": "功夫狂飙",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
