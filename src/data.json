@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696883338511",
+  "lastUpdated": "1696886939168",
   "data": [
     {
       "areaId": 1,
@@ -288,13 +288,13 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        0,
         1,
         0,
         1,
         0,
         1,
         1,
+        0,
         0,
         0
       ]
@@ -347,10 +347,10 @@
         0,
         0,
         0,
-        0,
         1,
         1,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1047,7 +1047,7 @@
         1,
         1,
         1,
-        1,
+        0,
         1,
         0
       ]
@@ -1174,7 +1174,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ]
     },
@@ -4190,6 +4190,7 @@
       "subAreaId": 724,
       "subAreaName": "JJ斗地主",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -4299,7 +4300,6 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
         0,
         0,
         0,
@@ -4308,7 +4308,8 @@
         0,
         0,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -4805,9 +4806,9 @@
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -4840,6 +4841,7 @@
       "subAreaId": 806,
       "subAreaName": "千年之旅",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
