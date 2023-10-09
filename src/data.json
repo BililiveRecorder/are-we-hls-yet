@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696829340156",
+  "lastUpdated": "1696832939878",
   "data": [
     {
       "areaId": 1,
@@ -1036,7 +1036,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
         0,
         1,
         0,
@@ -1045,7 +1044,8 @@
         0,
         0,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -1350,7 +1350,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1708,10 +1708,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -2076,6 +2076,7 @@
       "subAreaId": 383,
       "subAreaName": "战意",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3715,6 +3716,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -4262,14 +4264,14 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         1,
         0,
         0,
         0,
+        0,
+        1,
         0,
         1
       ]
@@ -4761,8 +4763,8 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        1,
-        1,
+        0,
+        0,
         0,
         0,
         0,
@@ -5193,6 +5195,15 @@
         1,
         1,
         1,
+        1
+      ]
+    },
+    {
+      "areaId": 15,
+      "areaName": "互动玩法",
+      "subAreaId": 833,
+      "subAreaName": "功夫狂飙",
+      "flvAvailabilities": [
         1
       ]
     },
