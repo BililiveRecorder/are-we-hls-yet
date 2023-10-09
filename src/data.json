@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696840144605",
+  "lastUpdated": "1696843746089",
   "data": [
     {
       "areaId": 1,
@@ -901,6 +901,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -1039,9 +1040,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1347,7 +1348,7 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1702,8 +1703,6 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         0,
@@ -1711,7 +1710,9 @@
         0,
         1,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -2076,6 +2077,7 @@
       "subAreaId": 383,
       "subAreaName": "战意",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4274,11 +4276,11 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -4611,6 +4613,7 @@
       "subAreaId": 786,
       "subAreaName": "环行旅舍",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
