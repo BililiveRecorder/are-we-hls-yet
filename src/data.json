@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696836541925",
+  "lastUpdated": "1696840144605",
   "data": [
     {
       "areaId": 1,
@@ -1041,9 +1041,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -1346,9 +1346,9 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1704,14 +1704,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         1,
         0,
         0,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -2178,6 +2178,7 @@
       "subAreaId": 389,
       "subAreaName": "天涯明月刀手游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -2687,6 +2688,8 @@
         1,
         1,
         1,
+        1,
+        1,
         1
       ]
     },
@@ -3180,6 +3183,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3446,6 +3450,7 @@
       "subAreaId": 650,
       "subAreaName": "骑士精神2",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -4268,14 +4273,14 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
+        1,
+        0,
         1,
         0,
         0,
-        0,
-        0,
-        1,
-        0,
-        1,
         0,
         0
       ]
@@ -4637,12 +4642,12 @@
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
         0,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
-        1,
         0,
         0,
         0
@@ -5211,6 +5216,7 @@
       "subAreaId": 833,
       "subAreaName": "功夫狂飙",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
