@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696825743296",
+  "lastUpdated": "1696829340156",
   "data": [
     {
       "areaId": 1,
@@ -287,7 +287,7 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -340,12 +340,12 @@
       "subAreaId": 91,
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -1036,11 +1036,11 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1346,13 +1346,13 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -1710,8 +1710,8 @@
         0,
         0,
         0,
-        0,
-        0
+        1,
+        1
       ]
     },
     {
@@ -3127,6 +3127,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3532,6 +3533,7 @@
       "subAreaId": 658,
       "subAreaName": "星际公民",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -4168,6 +4170,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4261,14 +4264,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         1,
         1,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -4627,12 +4630,12 @@
       "flvAvailabilities": [
         0,
         0,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
-        1,
         0,
         0
       ]
@@ -4759,9 +4762,9 @@
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
         1,
+        1,
         0,
-        1,
-        1,
+        0,
         0,
         0,
         0,
