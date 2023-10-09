@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696876137201",
+  "lastUpdated": "1696879736418",
   "data": [
     {
       "areaId": 1,
@@ -288,15 +288,15 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        1,
         0,
-        0,
-        0,
-        1,
         0,
         1,
         0,
-        1
+        1,
+        0,
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1042,7 +1042,7 @@
       "flvAvailabilities": [
         0,
         1,
-        0,
+        1,
         1,
         1,
         1,
@@ -4299,11 +4299,11 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -4806,10 +4806,10 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
