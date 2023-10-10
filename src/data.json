@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696901341127",
+  "lastUpdated": "1696904939824",
   "data": [
     {
       "areaId": 1,
@@ -289,9 +289,9 @@
       "flvAvailabilities": [
         0,
         1,
+        1,
         0,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -341,10 +341,10 @@
       "subAreaId": 91,
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -1040,8 +1040,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         1,
@@ -1049,7 +1047,9 @@
         1,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1357,10 +1357,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1709,7 +1709,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
+        1,
         0,
         1,
         0,
@@ -2173,6 +2173,8 @@
       "subAreaId": 388,
       "subAreaName": "FIFA ONLINE 4",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -4398,6 +4400,7 @@
         0,
         0,
         0,
+        0,
         0
       ]
     },
@@ -5256,6 +5259,8 @@
       "subAreaId": 833,
       "subAreaName": "功夫狂飙",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
