@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696897740268",
+  "lastUpdated": "1696901341127",
   "data": [
     {
       "areaId": 1,
@@ -287,12 +287,12 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
         0,
         1,
         0,
         1,
         1,
+        0,
         0,
         0,
         0,
@@ -342,11 +342,11 @@
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
         0,
+        1,
+        1,
+        1,
         0,
         0,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -1042,13 +1042,13 @@
       "flvAvailabilities": [
         1,
         0,
-        1,
-        0,
         0,
         1,
         1,
         0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1169,13 +1169,13 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1711,7 +1711,7 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
+        1,
         0,
         1,
         0,
@@ -3155,6 +3155,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4305,9 +4306,9 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -4674,7 +4675,7 @@
       "subAreaId": 789,
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -4811,9 +4812,9 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
+        1,
         0,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -4847,6 +4848,7 @@
       "subAreaId": 806,
       "subAreaName": "千年之旅",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -5254,6 +5256,8 @@
       "subAreaId": 833,
       "subAreaName": "功夫狂飙",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
