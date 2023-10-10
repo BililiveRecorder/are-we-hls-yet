@@ -2,6 +2,8 @@
 import Base from "../layouts/Base.astro";
 import data from "../data.json";
 import { Debug } from "astro:components";
+import { Image } from "astro:assets";
+import warningImage from "../assets/warning.png";
 import Toggle from "../components/Toggle";
 import Row from "../components/Row";
 
@@ -81,6 +83,16 @@ function getTitle(area: SubArea): string {
              HLS yet?
         </h1>
         <p class="font-bold text-4xl text-red-500" title="没有">NOPE</p>
+    </div>
+    <div class="mx-auto my-4 p-4 max-w-prose text-center">
+        <h2 class="text-4xl py-2">✋停一下，旁友</h2>
+        <p>今天是马化腾和陈睿结婚5周年纪念日</p>
+        <p>把这条消息转发给5个群，再看你哔哩哔哩私信</p>
+        <Image
+            class="my-2 shadow-md border"
+            src={warningImage}
+            alt="腾讯安全网站检测结果：危险-该网站含有未经证实的信息"
+        />
     </div>
     <div class="mx-auto max-w-prose p-4 my-6 text-center">
         <h2 class="text-4xl" title="哪些分区被划入只提供 HLS 的列表了？">
