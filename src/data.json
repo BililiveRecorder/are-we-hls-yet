@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696969744738",
+  "lastUpdated": "1696973337311",
   "data": [
     {
       "areaId": 1,
@@ -293,9 +293,9 @@
         1,
         0,
         1,
+        1,
         0,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -345,11 +345,11 @@
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
         0,
-        0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1045,8 +1045,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         0,
@@ -1054,7 +1052,9 @@
         1,
         1,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1172,11 +1172,11 @@
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
         1,
-        1,
         0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1716,7 +1716,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -3573,6 +3573,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4231,6 +4232,7 @@
       "subAreaName": "JJ斗地主",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -4341,11 +4343,11 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -4501,6 +4503,7 @@
       "subAreaId": 773,
       "subAreaName": "Wayfinder寻路者",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4857,14 +4860,14 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        0,
         1,
-        1,
-        1,
-        0,
         1,
         0,
         1,
+        0,
+        1,
+        0,
+        0,
         0,
         0
       ]
