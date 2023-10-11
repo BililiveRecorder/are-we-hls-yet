@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697030941533",
+  "lastUpdated": "1697034537154",
   "data": [
     {
       "areaId": 1,
@@ -240,9 +240,9 @@
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -293,7 +293,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
         0,
         1,
         1,
@@ -302,7 +301,8 @@
         1,
         0,
         1,
-        0
+        0,
+        1
       ]
     },
     {
@@ -334,7 +334,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1,
         0,
@@ -353,7 +353,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         1,
         1
@@ -1048,7 +1048,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
         1,
         0,
         1,
@@ -1057,6 +1056,7 @@
         0,
         1,
         0,
+        1,
         1
       ]
     },
@@ -1174,7 +1174,6 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        0,
         1,
         1,
         1,
@@ -1183,7 +1182,8 @@
         1,
         1,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -1719,10 +1719,10 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -2500,6 +2500,7 @@
       "subAreaId": 492,
       "subAreaName": "暗黑破坏神：不朽",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4361,8 +4362,6 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         0,
@@ -4370,7 +4369,9 @@
         0,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -4888,9 +4889,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        1,
+        0,
         1,
         0,
         1
