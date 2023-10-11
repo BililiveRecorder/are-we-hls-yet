@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697063337860",
+  "lastUpdated": "1697066942772",
   "data": [
     {
       "areaId": 1,
@@ -1050,7 +1050,7 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1364,9 +1364,9 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -4131,6 +4131,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4222,6 +4223,7 @@
       "subAreaId": 720,
       "subAreaName": "宝可梦集换式卡牌游戏",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4368,13 +4370,13 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
         0,
+        0,
+        1,
         0,
         1
       ]
@@ -4890,12 +4892,12 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        1,
         0,
         1,
         0,
         1,
         1,
+        0,
         0,
         0,
         0,
@@ -4944,6 +4946,7 @@
       "subAreaId": 807,
       "subAreaName": "率土之滨",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
