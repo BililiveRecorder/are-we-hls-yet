@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696994934059",
+  "lastUpdated": "1696998539443",
   "data": [
     {
       "areaId": 1,
@@ -237,7 +237,7 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -299,7 +299,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ]
     },
@@ -327,10 +327,10 @@
       "subAreaId": 89,
       "subAreaName": "CS:GO",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -345,8 +345,8 @@
       "subAreaId": 91,
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1054,8 +1054,8 @@
         0,
         0,
         0,
-        0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1724,9 +1724,9 @@
         0,
         0,
         0,
-        0,
-        0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -3885,6 +3885,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4869,8 +4870,8 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
