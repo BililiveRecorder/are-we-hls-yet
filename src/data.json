@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697052537911",
+  "lastUpdated": "1697056138253",
   "data": [
     {
       "areaId": 1,
@@ -294,11 +294,11 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
         0,
         0,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -330,7 +330,7 @@
       "subAreaId": 89,
       "subAreaName": "CS:GO",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -851,7 +851,7 @@
       "subAreaId": 216,
       "subAreaName": "我的世界",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1053,10 +1053,10 @@
         0,
         1,
         0,
+        0,
         1,
         0,
         0,
-        1,
         0,
         0
       ]
@@ -1175,11 +1175,11 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -4371,9 +4371,9 @@
         0,
         1,
         0,
+        0,
+        0,
         1,
-        0,
-        0,
         0,
         1
       ]
@@ -4889,14 +4889,14 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
         0,
         1,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -5384,6 +5384,7 @@
       "subAreaId": 836,
       "subAreaName": "the front",
       "flvAvailabilities": [
+        1,
         1
       ]
     }
