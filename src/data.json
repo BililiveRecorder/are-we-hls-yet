@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1696984141467",
+  "lastUpdated": "1696987741199",
   "data": [
     {
       "areaId": 1,
@@ -331,10 +331,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1046,7 +1046,7 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1171,7 +1171,6 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        0,
         1,
         0,
         0,
@@ -1180,6 +1179,7 @@
         0,
         0,
         1,
+        0,
         0
       ]
     },
@@ -4347,9 +4347,9 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
+        1,
         0,
-        1,
-        1,
+        0,
         0,
         0,
         0,
