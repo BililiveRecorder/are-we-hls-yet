@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697120941917",
+  "lastUpdated": "1697124532747",
   "data": [
     {
       "areaId": 1,
@@ -240,7 +240,6 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        0,
         1,
         0,
         0,
@@ -248,6 +247,7 @@
         0,
         0,
         0,
+        1,
         1,
         1
       ]
@@ -294,16 +294,16 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -332,14 +332,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1051,14 +1051,14 @@
       "flvAvailabilities": [
         1,
         0,
-        1,
         0,
         0,
         0,
         0,
         0,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -1723,8 +1723,8 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4922,13 +4922,13 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         0,
         0,
         0,
         1,
+        0,
         0
       ]
     },
