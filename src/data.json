@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697099340957",
+  "lastUpdated": "1697102938755",
   "data": [
     {
       "areaId": 1,
@@ -245,11 +245,11 @@
         0,
         0,
         0,
-        0,
         1,
         1,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -294,7 +294,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
         1,
         1,
         1,
@@ -303,7 +302,8 @@
         0,
         1,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -1050,14 +1050,14 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
         1,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -1179,7 +1179,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1,
         0,
@@ -1299,6 +1299,7 @@
       "subAreaId": 270,
       "subAreaName": "人类一败涂地",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1723,13 +1724,13 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
-        0,
         1,
         0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -2601,6 +2602,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2692,6 +2694,7 @@
       "subAreaId": 525,
       "subAreaName": "少女前线：云图计划",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -4375,7 +4378,7 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -4766,7 +4769,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -4899,13 +4902,13 @@
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
         1,
-        1,
         0,
         0,
         0,
         0,
         0,
         1,
+        0,
         0,
         0
       ]
