@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697124532747",
+  "lastUpdated": "1697128142012",
   "data": [
     {
       "areaId": 1,
@@ -240,8 +240,6 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         0,
         0,
@@ -249,7 +247,9 @@
         0,
         1,
         1,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -299,11 +299,11 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -331,13 +331,13 @@
       "subAreaName": "CS:GO",
       "flvAvailabilities": [
         0,
-        0,
         1,
         0,
         0,
         0,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -351,13 +351,13 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1049,16 +1049,16 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1370,8 +1370,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0
@@ -1723,7 +1723,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1885,6 +1885,7 @@
       "subAreaId": 357,
       "subAreaName": "糖豆人",
       "flvAvailabilities": [
+        0,
         0,
         0,
         0,
@@ -2315,6 +2316,7 @@
       "subAreaId": 442,
       "subAreaName": "坎公骑冠剑",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3515,6 +3517,7 @@
       "subAreaId": 649,
       "subAreaName": "街头篮球",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4782,8 +4785,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0
       ]
     },
@@ -4888,6 +4891,7 @@
       "subAreaId": 800,
       "subAreaName": "机战佣兵VI 境界天火",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
