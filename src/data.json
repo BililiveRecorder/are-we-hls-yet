@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697077740766",
+  "lastUpdated": "1697081334770",
   "data": [
     {
       "areaId": 1,
@@ -301,9 +301,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -335,9 +335,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -2187,6 +2187,7 @@
       "subAreaId": 388,
       "subAreaName": "FIFA ONLINE 4",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4372,7 +4373,6 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
         1,
         0,
         1,
@@ -4380,6 +4380,7 @@
         1,
         0,
         1,
+        0,
         0,
         0
       ]
