@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697156935467",
+  "lastUpdated": "1697160536632",
   "data": [
     {
       "areaId": 1,
@@ -240,8 +240,8 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -332,8 +332,8 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4404,9 +4404,9 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         1,
-        1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -4665,9 +4665,9 @@
       "flvAvailabilities": [
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -4944,12 +4944,12 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         0,
         0,
         1,
+        0,
         0,
         0
       ]
