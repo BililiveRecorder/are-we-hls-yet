@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697164138916",
+  "lastUpdated": "1697167741038",
   "data": [
     {
       "areaId": 1,
@@ -303,7 +303,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -330,7 +330,7 @@
       "subAreaId": 89,
       "subAreaName": "CS:GO",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1175,7 +1175,7 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -4403,8 +4403,8 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4799,8 +4799,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4943,11 +4943,11 @@
       "subAreaId": 803,
       "subAreaName": "雀魂麻将",
       "flvAvailabilities": [
-        1,
         0,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -5267,6 +5267,7 @@
       "subAreaId": 823,
       "subAreaName": "七人传奇",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
