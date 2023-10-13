@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697167741038",
+  "lastUpdated": "1697171344826",
   "data": [
     {
       "areaId": 1,
@@ -301,9 +301,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -348,12 +348,12 @@
       "subAreaId": 91,
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
-        0,
         1,
         0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1058,7 +1058,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -4403,7 +4403,7 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -5268,6 +5268,7 @@
       "subAreaName": "七人传奇",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -5442,6 +5443,7 @@
       "subAreaId": 836,
       "subAreaName": "the front",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
