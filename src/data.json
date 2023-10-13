@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697221734938",
+  "lastUpdated": "1697225336336",
   "data": [
     {
       "areaId": 1,
@@ -1049,13 +1049,13 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -1175,8 +1175,6 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         1,
@@ -1184,6 +1182,8 @@
         1,
         0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1318,6 +1318,7 @@
       "subAreaId": 273,
       "subAreaName": "无主之地3",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4421,9 +4422,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -5076,7 +5077,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -5467,6 +5468,7 @@
       "subAreaId": 836,
       "subAreaName": "the front",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
