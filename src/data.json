@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697232543580",
+  "lastUpdated": "1697236140115",
   "data": [
     {
       "areaId": 1,
@@ -1049,7 +1049,7 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1175,9 +1175,9 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -3117,7 +3117,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -4419,15 +4419,15 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         1,
         0,
         1,
         1,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -4681,8 +4681,6 @@
       "subAreaId": 780,
       "subAreaName": "暗黑破坏神Ⅳ",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         0,
@@ -4690,7 +4688,9 @@
         0,
         0,
         0,
-        0
+        0,
+        1,
+        1
       ]
     },
     {
@@ -5078,8 +5078,8 @@
         0,
         0,
         0,
-        0,
-        0,
+        1,
+        1,
         1
       ]
     },
