@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697228939977",
+  "lastUpdated": "1697232543580",
   "data": [
     {
       "areaId": 1,
@@ -348,7 +348,7 @@
       "subAreaId": 91,
       "subAreaName": "炉石传说",
       "flvAvailabilities": [
-        0,
+        1,
         1,
         1,
         1,
@@ -1051,7 +1051,7 @@
       "flvAvailabilities": [
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1176,10 +1176,10 @@
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
         1,
-        1,
-        1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1376,8 +1376,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0
       ]
@@ -2666,6 +2666,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3080,7 +3081,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -4420,12 +4421,12 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
         0,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -4814,9 +4815,9 @@
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -4831,6 +4832,7 @@
       "subAreaId": 791,
       "subAreaName": "太空行动",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
