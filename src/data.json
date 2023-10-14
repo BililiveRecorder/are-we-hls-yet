@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697318941261",
+  "lastUpdated": "1697322543409",
   "data": [
     {
       "areaId": 1,
@@ -294,7 +294,7 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1050,14 +1050,14 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         0,
         0,
         1,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -1176,12 +1176,12 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        0,
         1,
         0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1378,12 +1378,12 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -2876,6 +2876,7 @@
       "subAreaName": "游戏赛事",
       "flvAvailabilities": [
         0,
+        1,
         1,
         1,
         1,
@@ -4443,15 +4444,15 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         0,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -4983,6 +4984,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -5101,7 +5103,7 @@
       "subAreaName": "收获日3",
       "flvAvailabilities": [
         0,
-        0,
+        1,
         1,
         1,
         1,
