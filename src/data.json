@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697322543409",
+  "lastUpdated": "1697326147651",
   "data": [
     {
       "areaId": 1,
@@ -1050,12 +1050,12 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         0,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1180,7 +1180,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -2673,6 +2673,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2875,7 +2876,7 @@
       "subAreaId": 561,
       "subAreaName": "游戏赛事",
       "flvAvailabilities": [
-        0,
+        1,
         1,
         1,
         1,
@@ -4814,6 +4815,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4891,6 +4893,7 @@
       "subAreaId": 793,
       "subAreaName": "银河境界线",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -5102,7 +5105,7 @@
       "subAreaId": 811,
       "subAreaName": "收获日3",
       "flvAvailabilities": [
-        0,
+        1,
         1,
         1,
         1,
@@ -5502,6 +5505,7 @@
       "subAreaId": 836,
       "subAreaName": "the front",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
