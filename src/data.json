@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697239744065",
+  "lastUpdated": "1697243341198",
   "data": [
     {
       "areaId": 1,
@@ -672,6 +672,7 @@
       "subAreaId": 178,
       "subAreaName": "梦幻模拟战",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
