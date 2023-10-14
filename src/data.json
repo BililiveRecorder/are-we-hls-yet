@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697264941486",
+  "lastUpdated": "1697268544541",
   "data": [
     {
       "areaId": 1,
@@ -249,7 +249,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -301,9 +301,9 @@
         0,
         0,
         0,
-        0,
-        0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1050,8 +1050,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         0,
@@ -1059,7 +1057,9 @@
         0,
         0,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1185,7 +1185,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1266,6 +1266,7 @@
       "subAreaId": 265,
       "subAreaName": "跑跑卡丁车手游",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -1372,8 +1373,8 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1734,14 +1735,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         0,
         1,
         1,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -3024,6 +3025,7 @@
       "subAreaId": 579,
       "subAreaName": "战神",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4831,7 +4833,7 @@
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
         1,
-        1,
+        0,
         0,
         0,
         0,
