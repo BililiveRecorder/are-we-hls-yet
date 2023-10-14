@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697297340090",
+  "lastUpdated": "1697300943772",
   "data": [
     {
       "areaId": 1,
@@ -240,7 +240,7 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -294,15 +294,15 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         1
       ]
     },
@@ -339,7 +339,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1052,14 +1052,14 @@
       "flvAvailabilities": [
         1,
         0,
-        1,
-        0,
         0,
         0,
         1,
         1,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1176,10 +1176,10 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
         0,
         1,
         0,
@@ -1735,10 +1735,10 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         1,
-        1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -2359,6 +2359,7 @@
       "subAreaId": 448,
       "subAreaName": "天地劫：幽城再临",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4443,9 +4444,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0
       ]
