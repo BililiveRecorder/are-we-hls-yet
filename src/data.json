@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697315339885",
+  "lastUpdated": "1697318941261",
   "data": [
     {
       "areaId": 1,
@@ -295,7 +295,7 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -331,7 +331,7 @@
       "subAreaName": "CS:GO",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1050,7 +1050,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
         0,
         0,
         1,
@@ -1059,6 +1058,7 @@
         0,
         1,
         1,
+        0,
         0
       ]
     },
@@ -1183,7 +1183,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0
       ]
@@ -1734,7 +1734,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -2876,6 +2876,7 @@
       "subAreaName": "游戏赛事",
       "flvAvailabilities": [
         0,
+        1,
         1,
         1,
         1,
@@ -4444,13 +4445,13 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
