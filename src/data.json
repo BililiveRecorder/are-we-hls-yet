@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697383733858",
+  "lastUpdated": "1697387338867",
   "data": [
     {
       "areaId": 1,
@@ -241,11 +241,11 @@
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
         1,
-        1,
         0,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -295,14 +295,14 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
+        0,
+        0,
+        0,
+        0,
         1,
         0,
-        0,
-        0,
-        0,
-        0,
         1,
-        0,
+        1,
         1
       ]
     },
@@ -336,10 +336,10 @@
         0,
         0,
         0,
-        0,
         1,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -645,7 +645,7 @@
         1,
         1,
         1,
-        1
+        0
       ]
     },
     {
@@ -1053,11 +1053,11 @@
         0,
         1,
         0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
         0,
         1
       ]
@@ -1178,10 +1178,10 @@
       "flvAvailabilities": [
         0,
         0,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -1915,7 +1915,7 @@
       "subAreaName": "NBA2K",
       "flvAvailabilities": [
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -3546,6 +3546,15 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 643,
+      "subAreaName": "时空猎人3",
+      "flvAvailabilities": [
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 645,
       "subAreaName": "猫之城",
       "flvAvailabilities": [
@@ -4006,7 +4015,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -4467,13 +4476,13 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
         0,
+        0,
+        1,
         0,
         1
       ]
@@ -4875,9 +4884,9 @@
         0,
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0
       ]
     },
@@ -5007,6 +5016,7 @@
       "subAreaId": 801,
       "subAreaName": "绝世好武功",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
