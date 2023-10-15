@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697365740153",
+  "lastUpdated": "1697369340427",
   "data": [
     {
       "areaId": 1,
@@ -243,13 +243,13 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
         0,
         1,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -295,15 +295,15 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         1,
         0,
         0,
         0,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1050,16 +1050,16 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
+        0,
+        0,
+        1,
+        0,
         1,
         0,
         0,
         0,
-        1,
         0,
-        1,
-        0,
-        0,
-        0
+        1
       ]
     },
     {
@@ -1185,7 +1185,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1374,7 +1374,7 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1734,7 +1734,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -2328,6 +2328,7 @@
       "subAreaId": 442,
       "subAreaName": "坎公骑冠剑",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4468,10 +4469,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0,
         0
       ]
