@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697362142613",
+  "lastUpdated": "1697365740153",
   "data": [
     {
       "areaId": 1,
@@ -245,10 +245,10 @@
         0,
         0,
         0,
-        0,
         1,
         1,
         0,
+        1,
         1
       ]
     },
@@ -294,8 +294,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         0,
@@ -303,6 +301,8 @@
         1,
         0,
         0,
+        0,
+        1,
         0
       ]
     },
@@ -1050,7 +1050,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
         1,
         0,
         0,
@@ -1058,6 +1057,7 @@
         1,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -1734,9 +1734,9 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -2332,6 +2332,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -2673,6 +2674,7 @@
       "subAreaId": 511,
       "subAreaName": "漫威对决",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3591,6 +3593,7 @@
       "flvAvailabilities": [
         1,
         1,
+        1,
         1
       ]
     },
@@ -3692,7 +3695,7 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -4461,7 +4464,6 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
         0,
         0,
         0,
@@ -4470,6 +4472,7 @@
         0,
         1,
         1,
+        0,
         0
       ]
     },
@@ -4542,6 +4545,7 @@
       "subAreaId": 756,
       "subAreaName": "三国志战棋版",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4870,9 +4874,9 @@
         0,
         0,
         0,
-        0,
         1,
-        1
+        1,
+        0
       ]
     },
     {
