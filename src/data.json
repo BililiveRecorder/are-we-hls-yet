@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697329743063",
+  "lastUpdated": "1697333339668",
   "data": [
     {
       "areaId": 1,
@@ -302,7 +302,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ]
     },
@@ -1051,7 +1051,7 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -1176,8 +1176,8 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -3129,7 +3129,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         1,
         1
@@ -3690,7 +3690,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -3947,6 +3947,7 @@
       "subAreaId": 684,
       "subAreaName": "永恒之塔",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4445,14 +4446,14 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         0,
         0,
         0,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -4524,6 +4525,7 @@
       "subAreaId": 756,
       "subAreaName": "三国志战棋版",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
