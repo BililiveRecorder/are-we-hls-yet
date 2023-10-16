@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697416136697",
+  "lastUpdated": "1697419739182",
   "data": [
     {
       "areaId": 1,
@@ -1176,8 +1176,8 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
-        1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1734,9 +1734,9 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
+        1,
         0,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -3045,6 +3045,7 @@
       "subAreaId": 579,
       "subAreaName": "战神",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4479,7 +4480,7 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -4579,7 +4580,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -4671,6 +4672,7 @@
       "subAreaId": 774,
       "subAreaName": "幕后高手",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
