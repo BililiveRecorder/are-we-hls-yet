@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697419739182",
+  "lastUpdated": "1697423336879",
   "data": [
     {
       "areaId": 1,
@@ -1734,7 +1734,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -4519,6 +4519,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4750,7 +4751,7 @@
       "subAreaId": 780,
       "subAreaName": "暗黑破坏神Ⅳ",
       "flvAvailabilities": [
-        0,
+        1,
         1,
         1,
         1,
