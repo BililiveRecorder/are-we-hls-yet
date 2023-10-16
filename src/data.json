@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697491736888",
+  "lastUpdated": "1697495337017",
   "data": [
     {
       "areaId": 1,
@@ -330,14 +330,14 @@
       "subAreaId": 89,
       "subAreaName": "CS:GO",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         0,
         1
       ]
@@ -1051,13 +1051,13 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         1,
-        0,
-        1,
         1,
         0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -1178,11 +1178,11 @@
       "flvAvailabilities": [
         0,
         0,
+        1,
+        1,
+        1,
         0,
         0,
-        1,
-        1,
-        1,
         0,
         0,
         0
@@ -1734,7 +1734,6 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
         0,
         1,
         0,
@@ -1743,6 +1742,7 @@
         1,
         0,
         1,
+        0,
         0
       ]
     },
@@ -5570,6 +5570,15 @@
         1,
         1,
         1,
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 837,
+      "subAreaName": "绯色回响",
+      "flvAvailabilities": [
         1
       ]
     }
