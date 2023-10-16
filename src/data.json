@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697426936390",
+  "lastUpdated": "1697430542616",
   "data": [
     {
       "areaId": 1,
@@ -301,9 +301,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -3709,7 +3709,7 @@
       "subAreaId": 658,
       "subAreaName": "星际公民",
       "flvAvailabilities": [
-        0,
+        1,
         1,
         1,
         1,
