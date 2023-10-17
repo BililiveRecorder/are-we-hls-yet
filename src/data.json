@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697581740829",
+  "lastUpdated": "1697585341069",
   "data": [
     {
       "areaId": 1,
@@ -242,8 +242,8 @@
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1051,7 +1051,7 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1376,14 +1376,14 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
         0,
         1,
+        0,
+        0,
         0
       ]
     },
