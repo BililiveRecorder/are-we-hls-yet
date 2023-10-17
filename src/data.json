@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697509737692",
+  "lastUpdated": "1697513338138",
   "data": [
     {
       "areaId": 1,
@@ -331,10 +331,10 @@
       "subAreaName": "CS:GO",
       "flvAvailabilities": [
         0,
+        0,
         1,
         0,
         0,
-        1,
         0,
         0,
         0,
@@ -1054,9 +1054,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -1735,7 +1735,7 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -3034,6 +3034,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3712,7 +3713,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -4498,13 +4499,13 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
         0,
         0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0
@@ -4678,6 +4679,7 @@
       "subAreaId": 773,
       "subAreaName": "Wayfinder寻路者",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -5589,6 +5591,8 @@
       "subAreaId": 837,
       "subAreaName": "绯色回响",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
