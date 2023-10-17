@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697498939912",
+  "lastUpdated": "1697502538345",
   "data": [
     {
       "areaId": 1,
@@ -294,10 +294,10 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -333,12 +333,12 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
+        0,
+        1,
         0
       ]
     },
@@ -1053,7 +1053,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1176,10 +1176,10 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -1374,8 +1374,8 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1734,12 +1734,12 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
         1,
         0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -3704,7 +3704,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -4897,7 +4897,7 @@
       "subAreaId": 789,
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
