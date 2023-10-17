@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697506144037",
+  "lastUpdated": "1697509737692",
   "data": [
     {
       "areaId": 1,
@@ -294,7 +294,7 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -333,10 +333,10 @@
         0,
         1,
         0,
+        0,
         1,
         0,
         0,
-        1,
         0,
         0,
         0
@@ -1056,9 +1056,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1176,7 +1176,7 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1374,7 +1374,7 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1737,7 +1737,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -5589,6 +5589,8 @@
       "subAreaId": 837,
       "subAreaName": "绯色回响",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1
       ]
