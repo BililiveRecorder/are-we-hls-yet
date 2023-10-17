@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697513338138",
+  "lastUpdated": "1697516938207",
   "data": [
     {
       "areaId": 1,
@@ -330,9 +330,9 @@
       "subAreaId": 89,
       "subAreaName": "CS:GO",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1052,13 +1052,13 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         0,
+        0,
+        1,
         0
       ]
     },
@@ -1742,7 +1742,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ]
     },
@@ -3152,7 +3152,7 @@
       "subAreaId": 591,
       "subAreaName": "Dread Hunger",
       "flvAvailabilities": [
-        0,
+        1,
         1,
         1,
         1,
@@ -4500,11 +4500,11 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -5591,6 +5591,8 @@
       "subAreaId": 837,
       "subAreaName": "绯色回响",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
