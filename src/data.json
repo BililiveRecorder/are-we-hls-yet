@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697549340300",
+  "lastUpdated": "1697552942845",
   "data": [
     {
       "areaId": 1,
@@ -298,9 +298,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1051,7 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
         1,
         1,
         0,
@@ -1060,7 +1059,8 @@
         1,
         1,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1736,10 +1736,10 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
+        0,
         1,
         0,
         0,
-        1,
         0,
         0,
         0,
@@ -1897,7 +1897,7 @@
       "subAreaId": 357,
       "subAreaName": "糖豆人",
       "flvAvailabilities": [
-        0,
+        1,
         1,
         1,
         1,
@@ -4509,15 +4509,15 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         0,
         1,
-        0
+        0,
+        1,
+        1
       ]
     },
     {
@@ -4926,8 +4926,8 @@
         0,
         0,
         0,
-        0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -4954,6 +4954,7 @@
       "subAreaId": 792,
       "subAreaName": "桃源深处有人家",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
