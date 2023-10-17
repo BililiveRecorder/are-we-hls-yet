@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697516938207",
+  "lastUpdated": "1697520539296",
   "data": [
     {
       "areaId": 1,
@@ -330,7 +330,7 @@
       "subAreaId": 89,
       "subAreaName": "CS:GO",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1050,8 +1050,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         0,
@@ -1059,7 +1057,9 @@
         0,
         0,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1383,7 +1383,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1740,7 +1740,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1,
         0
@@ -4499,11 +4499,11 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -5591,6 +5591,7 @@
       "subAreaId": 837,
       "subAreaName": "绯色回响",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
