@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697542143010",
+  "lastUpdated": "1697545741948",
   "data": [
     {
       "areaId": 1,
@@ -302,9 +302,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -1051,8 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         0,
@@ -1060,7 +1058,9 @@
         1,
         0,
         1,
-        0
+        0,
+        1,
+        1
       ]
     },
     {
@@ -1376,12 +1376,12 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         0,
+        0,
+        0,
+        0,
         1,
         0,
         0,
-        0,
-        0,
-        1,
         0,
         0,
         0
@@ -1740,10 +1740,10 @@
         0,
         1,
         0,
+        0,
         1,
         0,
         0,
-        1,
         0
       ]
     },
@@ -2432,6 +2432,7 @@
       "subAreaId": 470,
       "subAreaName": "鬼泣-巅峰之战",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -2744,6 +2745,7 @@
       "subAreaId": 525,
       "subAreaName": "少女前线：云图计划",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -3574,6 +3576,7 @@
       "subAreaId": 643,
       "subAreaName": "时空猎人3",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
@@ -4508,11 +4511,11 @@
         0,
         1,
         0,
+        0,
+        0,
         1,
         0,
         0,
-        0,
-        1,
         0,
         0
       ]
@@ -4605,7 +4608,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -5021,6 +5024,7 @@
       "subAreaId": 798,
       "subAreaName": "苍翼：混沌效应",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
