@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697527741989",
+  "lastUpdated": "1697531338814",
   "data": [
     {
       "areaId": 1,
@@ -79,6 +79,7 @@
       "subAreaId": 39,
       "subAreaName": "少女前线",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -245,9 +246,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -1050,8 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         0,
@@ -1059,7 +1058,9 @@
         0,
         0,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1734,7 +1735,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
+        1,
         0,
         1,
         0,
@@ -3506,6 +3507,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -3712,7 +3714,7 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -3971,6 +3973,7 @@
       "subAreaId": 680,
       "subAreaName": "超击突破",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4506,10 +4509,10 @@
         0,
         0,
         0,
+        1,
         0,
         0,
         1,
-        0,
         0,
         1
       ]
@@ -4682,6 +4685,7 @@
       "subAreaId": 773,
       "subAreaName": "Wayfinder寻路者",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
