@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697560132664",
+  "lastUpdated": "1697563735150",
   "data": [
     {
       "areaId": 1,
@@ -249,8 +249,8 @@
         0,
         0,
         0,
-        0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -299,9 +299,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        1,
+        0,
         1,
         0,
         1
@@ -1051,14 +1051,14 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
         0,
         0,
         1,
+        1,
+        0,
         1,
         0
       ]
@@ -4508,8 +4508,6 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
@@ -4517,6 +4515,8 @@
         1,
         0,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -4544,6 +4544,7 @@
       "subAreaId": 751,
       "subAreaName": "森林之子",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -5454,6 +5455,7 @@
       "subAreaId": 826,
       "subAreaName": "宿命回响：弦上的叹息",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
