@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697635744772",
+  "lastUpdated": "1697639339677",
   "data": [
     {
       "areaId": 1,
@@ -295,8 +295,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         1,
@@ -304,7 +302,9 @@
         0,
         1,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1053,11 +1053,11 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -1735,11 +1735,11 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
+        0,
+        0,
         1,
         0,
         0,
-        0,
-        1,
         0,
         0,
         0,
