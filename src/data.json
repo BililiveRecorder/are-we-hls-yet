@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697610538404",
+  "lastUpdated": "1697614142533",
   "data": [
     {
       "areaId": 1,
@@ -296,14 +296,14 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         1,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1052,15 +1052,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
+        0,
+        0,
+        0,
+        0,
         1,
         0,
         0,
         0,
-        0,
-        0,
-        1,
-        0,
-        0
+        1
       ]
     },
     {
@@ -1178,8 +1178,8 @@
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4460,6 +4460,7 @@
       "subAreaName": "长安幻想",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -4938,9 +4939,9 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
