@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697596136994",
+  "lastUpdated": "1697599740616",
   "data": [
     {
       "areaId": 1,
@@ -295,16 +295,16 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         1,
-        0
+        1
       ]
     },
     {
@@ -1058,9 +1058,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -1375,13 +1375,13 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        0,
         1,
         0,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0
@@ -3984,6 +3984,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4342,6 +4343,15 @@
     {
       "areaId": 3,
       "areaName": "手游",
+      "subAreaId": 718,
+      "subAreaName": "空之要塞：启航",
+      "flvAvailabilities": [
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
       "subAreaId": 719,
       "subAreaName": "欢乐斗地主",
       "flvAvailabilities": [
@@ -4399,6 +4409,7 @@
       "subAreaId": 724,
       "subAreaName": "JJ斗地主",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -4511,7 +4522,7 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -4926,8 +4937,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -5458,6 +5469,8 @@
       "subAreaId": 826,
       "subAreaName": "宿命回响：弦上的叹息",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1
