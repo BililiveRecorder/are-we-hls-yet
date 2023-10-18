@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697639339677",
+  "lastUpdated": "1697642934957",
   "data": [
     {
       "areaId": 1,
@@ -297,13 +297,13 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
-        1,
         0,
         1,
         0,
         0,
         0,
+        1,
+        1,
         1
       ]
     },
@@ -1051,8 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
@@ -1060,6 +1058,8 @@
         0,
         0,
         0,
+        0,
+        1,
         0
       ]
     },
@@ -1735,9 +1735,9 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -5604,9 +5604,9 @@
         1,
         1,
         1,
+        0,
+        0,
         1,
-        0,
-        0,
         1
       ]
     },
@@ -5674,6 +5674,7 @@
       "subAreaId": 841,
       "subAreaName": "棋牌玩法",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
