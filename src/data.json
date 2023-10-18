@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697617742773",
+  "lastUpdated": "1697621344186",
   "data": [
     {
       "areaId": 1,
@@ -295,11 +295,11 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -641,8 +641,8 @@
         1,
         1,
         1,
-        1,
         0,
+        1,
         1,
         1,
         1,
@@ -1052,14 +1052,14 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -1743,7 +1743,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ]
     },
@@ -4938,7 +4938,7 @@
       "subAreaId": 789,
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -5653,6 +5653,15 @@
         1,
         1,
         1,
+        1
+      ]
+    },
+    {
+      "areaId": 15,
+      "areaName": "互动玩法",
+      "subAreaId": 839,
+      "subAreaName": "汉堡宝大战",
+      "flvAvailabilities": [
         1
       ]
     },
