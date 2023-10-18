@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697642934957",
+  "lastUpdated": "1697646533751",
   "data": [
     {
       "areaId": 1,
@@ -295,13 +295,13 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
         0,
         0,
         0,
+        1,
+        1,
         1,
         1,
         1
@@ -1053,11 +1053,11 @@
       "flvAvailabilities": [
         1,
         0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
         0,
         1,
         0
@@ -1186,7 +1186,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1735,7 +1735,7 @@
       "subAreaId": 329,
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -5664,6 +5664,15 @@
       "areaName": "互动玩法",
       "subAreaId": 839,
       "subAreaName": "汉堡宝大战",
+      "flvAvailabilities": [
+        1
+      ]
+    },
+    {
+      "areaId": 15,
+      "areaName": "互动玩法",
+      "subAreaId": 840,
+      "subAreaName": "养成玩法",
       "flvAvailabilities": [
         1
       ]
