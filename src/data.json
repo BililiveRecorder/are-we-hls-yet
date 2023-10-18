@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697606940427",
+  "lastUpdated": "1697610538404",
   "data": [
     {
       "areaId": 1,
@@ -298,13 +298,13 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
         1,
         1,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1052,15 +1052,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         0,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1179,8 +1179,8 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1376,8 +1376,8 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -5472,6 +5472,7 @@
       "subAreaId": 826,
       "subAreaName": "宿命回响：弦上的叹息",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
