@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697588939860",
+  "lastUpdated": "1697592540352",
   "data": [
     {
       "areaId": 1,
@@ -296,10 +296,10 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -1183,9 +1183,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -4510,10 +4510,10 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -5458,6 +5458,7 @@
       "subAreaId": 826,
       "subAreaName": "宿命回响：弦上的叹息",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
