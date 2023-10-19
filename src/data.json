@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697682537440",
+  "lastUpdated": "1697686139285",
   "data": [
     {
       "areaId": 1,
@@ -296,8 +296,8 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
-        1,
-        1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1054,13 +1054,13 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1179,7 +1179,7 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -1377,14 +1377,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         1,
         0,
         1,
         1,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -2432,6 +2432,7 @@
       "subAreaId": 470,
       "subAreaName": "鬼泣-巅峰之战",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
@@ -4529,7 +4530,7 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -5656,6 +5657,16 @@
         1,
         1,
         1,
+        1,
+        1
+      ]
+    },
+    {
+      "areaId": 3,
+      "areaName": "手游",
+      "subAreaId": 838,
+      "subAreaName": "依露希尔：星晓",
+      "flvAvailabilities": [
         1,
         1
       ]
