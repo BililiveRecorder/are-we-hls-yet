@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697693341367",
+  "lastUpdated": "1697696942884",
   "data": [
     {
       "areaId": 1,
@@ -1054,13 +1054,13 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1177,7 +1177,7 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -5669,6 +5669,8 @@
       "subAreaId": 838,
       "subAreaName": "依露希尔：星晓",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
