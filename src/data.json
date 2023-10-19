@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697696942884",
+  "lastUpdated": "1697700539229",
   "data": [
     {
       "areaId": 1,
@@ -1052,14 +1052,14 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         0,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -4420,6 +4420,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -5669,6 +5670,8 @@
       "subAreaId": 838,
       "subAreaName": "依露希尔：星晓",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
