@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697714941379",
+  "lastUpdated": "1697718541158",
   "data": [
     {
       "areaId": 1,
@@ -300,11 +300,11 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1055,12 +1055,12 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
         1,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1375,7 +1375,7 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -4947,14 +4947,14 @@
       "subAreaId": 789,
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         0,
         0,
         1,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -5717,6 +5717,7 @@
       "subAreaId": 841,
       "subAreaName": "棋牌玩法",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
