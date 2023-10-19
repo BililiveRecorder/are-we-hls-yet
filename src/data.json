@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697686139285",
+  "lastUpdated": "1697689739490",
   "data": [
     {
       "areaId": 1,
@@ -295,7 +295,7 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1052,13 +1052,13 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         0,
+        0,
+        1,
         0,
         1
       ]
@@ -1375,14 +1375,14 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         0,
         1,
         1,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -4529,7 +4529,7 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -4948,11 +4948,11 @@
         0,
         0,
         0,
-        0,
         1,
         1,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -5667,6 +5667,8 @@
       "subAreaId": 838,
       "subAreaName": "依露希尔：星晓",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1
       ]
