@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697722146594",
+  "lastUpdated": "1697725743073",
   "data": [
     {
       "areaId": 1,
@@ -296,15 +296,15 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         1,
         1,
         0,
         0,
         1,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1051,8 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
@@ -1060,7 +1058,9 @@
         1,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -4539,9 +4539,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -5056,6 +5056,7 @@
       "subAreaId": 798,
       "subAreaName": "苍翼：混沌效应",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
