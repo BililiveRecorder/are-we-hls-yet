@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697689739490",
+  "lastUpdated": "1697693341367",
   "data": [
     {
       "areaId": 1,
@@ -1052,11 +1052,11 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
         0,
         1,
         0,
@@ -1178,7 +1178,7 @@
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
         1,
-        1,
+        0,
         0,
         0,
         0,
@@ -1375,12 +1375,12 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -4419,6 +4419,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4614,6 +4615,7 @@
       "subAreaId": 756,
       "subAreaName": "三国志战棋版",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4947,11 +4949,11 @@
         0,
         0,
         0,
-        0,
         1,
         1,
         0,
         0,
+        1,
         1
       ]
     },
@@ -5667,6 +5669,8 @@
       "subAreaId": 838,
       "subAreaName": "依露希尔：星晓",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
