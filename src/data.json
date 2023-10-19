@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697750938223",
+  "lastUpdated": "1697754542437",
   "data": [
     {
       "areaId": 1,
@@ -1051,8 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         0,
@@ -1060,7 +1058,9 @@
         0,
         1,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -2432,6 +2432,7 @@
       "subAreaId": 470,
       "subAreaName": "鬼泣-巅峰之战",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -4535,12 +4536,12 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        0,
         1,
         1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0
