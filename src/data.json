@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697711339877",
+  "lastUpdated": "1697714941379",
   "data": [
     {
       "areaId": 1,
@@ -302,8 +302,8 @@
         0,
         0,
         0,
-        0,
-        0,
+        1,
+        1,
         1
       ]
     },
@@ -1051,7 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
         0,
         0,
         0,
@@ -1060,6 +1059,7 @@
         0,
         1,
         0,
+        1,
         1
       ]
     },
@@ -1376,7 +1376,7 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         1,
-        1,
+        0,
         0,
         0,
         0,
