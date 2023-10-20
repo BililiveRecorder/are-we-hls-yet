@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697801339846",
+  "lastUpdated": "1697804941256",
   "data": [
     {
       "areaId": 1,
@@ -295,8 +295,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         0,
         0,
@@ -304,6 +302,8 @@
         0,
         0,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -637,8 +637,8 @@
       "subAreaId": 173,
       "subAreaName": "古剑奇谭OL",
       "flvAvailabilities": [
-        1,
         0,
+        1,
         1,
         1,
         1,
@@ -1053,9 +1053,9 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -3515,6 +3515,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -4954,9 +4955,9 @@
       "subAreaId": 789,
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -5023,9 +5024,9 @@
         0,
         0,
         0,
-        0,
         1,
-        1
+        1,
+        0
       ]
     },
     {
