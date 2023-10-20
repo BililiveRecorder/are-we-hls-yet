@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697822940168",
+  "lastUpdated": "1697826537080",
   "data": [
     {
       "areaId": 1,
@@ -299,8 +299,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1053,13 +1053,13 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         1,
         0,
         0,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -1183,9 +1183,9 @@
         0,
         0,
         0,
-        0,
         1,
         0,
+        1,
         1
       ]
     },
@@ -3255,8 +3255,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0
       ]
@@ -4548,7 +4548,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -4959,7 +4959,7 @@
       "subAreaId": 789,
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -5021,9 +5021,9 @@
       "subAreaId": 795,
       "subAreaName": "Dark and Darker",
       "flvAvailabilities": [
+        1,
         0,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -5755,6 +5755,7 @@
       "subAreaId": 842,
       "subAreaName": "搞笑整蛊",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
