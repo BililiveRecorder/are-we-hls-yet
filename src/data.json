@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697783337134",
+  "lastUpdated": "1697786942738",
   "data": [
     {
       "areaId": 1,
@@ -301,8 +301,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0
       ]
@@ -639,8 +639,8 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
         0,
+        1,
         1,
         1,
         1,
@@ -1051,7 +1051,7 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1376,8 +1376,8 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -4720,6 +4720,7 @@
       "subAreaId": 773,
       "subAreaName": "Wayfinder寻路者",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
