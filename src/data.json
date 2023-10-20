@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697779742177",
+  "lastUpdated": "1697783337134",
   "data": [
     {
       "areaId": 1,
@@ -295,16 +295,16 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -1051,9 +1051,9 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1377,8 +1377,8 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -5080,6 +5080,7 @@
       "subAreaId": 799,
       "subAreaName": "星之破晓",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
