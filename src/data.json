@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697765341951",
+  "lastUpdated": "1697768943310",
   "data": [
     {
       "areaId": 1,
@@ -1052,14 +1052,14 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         0,
         0,
+        0,
+        1,
         0
       ]
     },
@@ -1381,8 +1381,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0
       ]
@@ -4536,10 +4536,10 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         1,
-        1,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -4951,11 +4951,11 @@
       "subAreaId": 789,
       "subAreaName": "虚拟APEX",
       "flvAvailabilities": [
-        1,
         0,
         0,
         1,
         1,
+        0,
         0,
         0,
         0,
@@ -5049,6 +5049,7 @@
       "subAreaId": 797,
       "subAreaName": "斯露德",
       "flvAvailabilities": [
+        1,
         1,
         1
       ]
