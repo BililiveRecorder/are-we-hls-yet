@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697891343627",
+  "lastUpdated": "1697894938819",
   "data": [
     {
       "areaId": 1,
@@ -297,12 +297,12 @@
       "flvAvailabilities": [
         1,
         0,
-        1,
-        0,
         0,
         1,
         0,
         0,
+        1,
+        1,
         1,
         1
       ]
@@ -1051,8 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         1,
@@ -1060,6 +1058,8 @@
         1,
         1,
         1,
+        1,
+        0,
         1
       ]
     },
@@ -2695,6 +2695,7 @@
       "subAreaId": 511,
       "subAreaName": "漫威对决",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -4541,9 +4542,9 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -5564,6 +5565,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -5667,7 +5669,8 @@
         0,
         0,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -5730,6 +5733,7 @@
       "subAreaId": 839,
       "subAreaName": "汉堡宝大战",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
