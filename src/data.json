@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697858943149",
+  "lastUpdated": "1697862542401",
   "data": [
     {
       "areaId": 1,
@@ -334,9 +334,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1177,9 +1177,9 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0,
         0,
@@ -4540,7 +4540,7 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -4575,6 +4575,7 @@
       "subAreaId": 751,
       "subAreaName": "森林之子",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -5089,6 +5090,7 @@
       "subAreaId": 799,
       "subAreaName": "星之破晓",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
@@ -5762,6 +5764,7 @@
       "subAreaId": 842,
       "subAreaName": "搞笑整蛊",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
