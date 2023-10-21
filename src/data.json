@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697855340995",
+  "lastUpdated": "1697858943149",
   "data": [
     {
       "areaId": 1,
@@ -332,13 +332,13 @@
       "subAreaName": "CS:GO",
       "flvAvailabilities": [
         0,
+        0,
+        0,
+        0,
+        0,
         1,
         0,
         0,
-        0,
-        0,
-        0,
-        1,
         0,
         0
       ]
@@ -1179,9 +1179,9 @@
       "flvAvailabilities": [
         0,
         1,
+        1,
         0,
-        1,
-        1,
+        0,
         0,
         0,
         0,
@@ -3250,7 +3250,7 @@
       "subAreaName": "战地风云",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -4997,6 +4997,7 @@
       "subAreaId": 792,
       "subAreaName": "桃源深处有人家",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
