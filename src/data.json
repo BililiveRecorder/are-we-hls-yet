@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697862542401",
+  "lastUpdated": "1697866140114",
   "data": [
     {
       "areaId": 1,
@@ -303,7 +303,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ]
     },
@@ -333,8 +333,8 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1060,7 +1060,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -1177,8 +1177,8 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
-        1,
+        0,
+        0,
         0,
         0,
         0,
@@ -5090,6 +5090,7 @@
       "subAreaId": 799,
       "subAreaName": "星之破晓",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
