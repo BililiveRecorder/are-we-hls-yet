@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697844543915",
+  "lastUpdated": "1697848142266",
   "data": [
     {
       "areaId": 1,
@@ -241,9 +241,9 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -295,8 +295,8 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -336,9 +336,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -1056,7 +1056,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -4698,6 +4698,7 @@
       "subAreaName": "战火勋章",
       "flvAvailabilities": [
         1,
+        1,
         1
       ]
     },
@@ -5548,6 +5549,7 @@
       "subAreaId": 828,
       "subAreaName": "星球重启",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
