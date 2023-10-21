@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697876940436",
+  "lastUpdated": "1697880543982",
   "data": [
     {
       "areaId": 1,
@@ -296,7 +296,6 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        0,
         1,
         0,
         1,
@@ -304,7 +303,8 @@
         0,
         1,
         0,
-        1
+        1,
+        0
       ]
     },
     {
@@ -1053,14 +1053,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         0,
         1,
         1,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -2747,6 +2747,8 @@
       "subAreaId": 525,
       "subAreaName": "少女前线：云图计划",
       "flvAvailabilities": [
+        1,
+        1,
         1,
         1,
         1,
@@ -4547,7 +4549,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ]
     },
@@ -4628,6 +4630,7 @@
       "subAreaId": 756,
       "subAreaName": "三国志战棋版",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -5091,6 +5094,7 @@
       "subAreaId": 799,
       "subAreaName": "星之破晓",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -5726,6 +5730,7 @@
       "subAreaId": 839,
       "subAreaName": "汉堡宝大战",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
