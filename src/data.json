@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697912935876",
+  "lastUpdated": "1697916534610",
   "data": [
     {
       "areaId": 1,
@@ -245,10 +245,10 @@
         0,
         0,
         0,
-        0,
         1,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -297,14 +297,14 @@
       "flvAvailabilities": [
         1,
         1,
-        1,
         0,
         0,
         1,
         1,
         1,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -1051,8 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
         1,
@@ -1060,7 +1058,9 @@
         0,
         1,
         0,
-        0
+        0,
+        1,
+        1
       ]
     },
     {
@@ -5737,6 +5737,7 @@
       "subAreaId": 839,
       "subAreaName": "汉堡宝大战",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
