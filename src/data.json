@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697966940553",
+  "lastUpdated": "1697970540034",
   "data": [
     {
       "areaId": 1,
@@ -295,8 +295,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         0,
         0,
@@ -304,7 +302,9 @@
         1,
         1,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1052,13 +1052,13 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         1,
         0,
+        0,
+        1,
         0,
         1
       ]
@@ -4550,9 +4550,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -4922,6 +4922,7 @@
       "subAreaId": 785,
       "subAreaName": "Warlander",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
