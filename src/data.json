@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697938146873",
+  "lastUpdated": "1697941741865",
   "data": [
     {
       "areaId": 1,
@@ -335,10 +335,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -1052,15 +1052,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         0,
         0,
         0,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -1178,7 +1178,7 @@
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -3130,7 +3130,7 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -3380,6 +3380,7 @@
       "subAreaId": 613,
       "subAreaName": "重返帝国",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
