@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697934541959",
+  "lastUpdated": "1697938146873",
   "data": [
     {
       "areaId": 1,
@@ -241,7 +241,7 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -337,9 +337,9 @@
         0,
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0
       ]
     },
@@ -1052,15 +1052,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
+        0,
+        0,
         1,
         0,
         0,
         0,
-        1,
         0,
         0,
-        0,
-        0
+        1
       ]
     },
     {
@@ -1178,8 +1178,8 @@
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
         0,
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1375,7 +1375,7 @@
       "subAreaId": 277,
       "subAreaName": "命运2",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -5043,7 +5043,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
