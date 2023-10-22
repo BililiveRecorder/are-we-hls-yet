@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1697984942618",
+  "lastUpdated": "1697988536952",
   "data": [
     {
       "areaId": 1,
@@ -1053,12 +1053,12 @@
       "flvAvailabilities": [
         1,
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
         0,
         1
       ]
@@ -1520,7 +1520,7 @@
       "subAreaName": "新游前瞻",
       "flvAvailabilities": [
         0,
-        0,
+        1,
         1,
         1,
         1,
@@ -4555,7 +4555,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -5037,7 +5037,7 @@
       "subAreaId": 795,
       "subAreaName": "Dark and Darker",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
