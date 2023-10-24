@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698103737146",
+  "lastUpdated": "1698107340757",
   "data": [
     {
       "areaId": 1,
@@ -1051,11 +1051,11 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -5067,7 +5067,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1,
         1
       ]
@@ -5107,6 +5107,7 @@
       "subAreaId": 799,
       "subAreaName": "星之破晓",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
