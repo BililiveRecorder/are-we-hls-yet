@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698186538369",
+  "lastUpdated": "1698190142374",
   "data": [
     {
       "areaId": 1,
@@ -295,7 +295,7 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -530,7 +530,7 @@
       "subAreaName": "决战！平安京",
       "flvAvailabilities": [
         1,
-        0,
+        1,
         1,
         1,
         1,
@@ -1051,14 +1051,14 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         1,
         0,
         0,
         1,
+        0,
+        0,
         0,
         0
       ]
