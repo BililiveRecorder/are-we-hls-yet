@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698114536034",
+  "lastUpdated": "1698118141696",
   "data": [
     {
       "areaId": 1,
@@ -303,8 +303,8 @@
         0,
         0,
         0,
-        0,
-        0
+        1,
+        1
       ]
     },
     {
@@ -3605,6 +3605,7 @@
       "subAreaId": 645,
       "subAreaName": "猫之城",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
