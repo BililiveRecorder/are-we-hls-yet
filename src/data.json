@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698229740361",
+  "lastUpdated": "1698233343644",
   "data": [
     {
       "areaId": 1,
@@ -296,15 +296,15 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
         0,
         1,
         1,
         1,
         0,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -439,7 +439,7 @@
       "subAreaId": 107,
       "subAreaName": "其他网游",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1053,14 +1053,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
         1,
         0,
         1,
         0,
         1,
         0,
-        1
+        1,
+        0
       ]
     },
     {
