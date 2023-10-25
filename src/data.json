@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698233343644",
+  "lastUpdated": "1698236940492",
   "data": [
     {
       "areaId": 1,
@@ -297,12 +297,12 @@
       "flvAvailabilities": [
         0,
         1,
+        1,
+        1,
         0,
         1,
-        1,
-        1,
         0,
-        1,
+        0,
         0,
         0
       ]
@@ -1051,8 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         1,
@@ -1060,7 +1058,9 @@
         1,
         0,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -5832,6 +5832,7 @@
       "subAreaId": 843,
       "subAreaName": "幽灵行者2",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
