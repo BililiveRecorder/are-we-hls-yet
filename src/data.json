@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698200939980",
+  "lastUpdated": "1698204537448",
   "data": [
     {
       "areaId": 1,
@@ -1055,12 +1055,12 @@
         0,
         0,
         0,
+        1,
         0,
         0,
         1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -5827,6 +5827,7 @@
       "subAreaId": 843,
       "subAreaName": "幽灵行者2",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
