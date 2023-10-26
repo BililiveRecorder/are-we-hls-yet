@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698298145457",
+  "lastUpdated": "1698301742127",
   "data": [
     {
       "areaId": 1,
@@ -295,8 +295,8 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1058,7 +1058,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1
       ]
@@ -1740,9 +1740,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0
       ]
@@ -3599,6 +3599,7 @@
       "subAreaId": 643,
       "subAreaName": "时空猎人3",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1
