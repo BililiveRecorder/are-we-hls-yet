@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698287337739",
+  "lastUpdated": "1698290940380",
   "data": [
     {
       "areaId": 1,
@@ -300,8 +300,8 @@
         0,
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0
@@ -1051,8 +1051,8 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
@@ -1736,7 +1736,7 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -4557,7 +4557,7 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
