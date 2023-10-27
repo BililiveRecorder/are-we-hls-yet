@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698427728075",
+  "lastUpdated": "1698431331334",
   "data": [
     {
       "areaId": 1,
@@ -1051,13 +1051,13 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         0,
         1,
         0,
+        1,
+        1,
         1,
         1,
         1
@@ -1185,7 +1185,7 @@
         0,
         0,
         0,
-        0,
+        1,
         1
       ]
     },
@@ -1742,7 +1742,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1
       ]
@@ -5853,6 +5853,15 @@
         1,
         1,
         1,
+        1
+      ]
+    },
+    {
+      "areaId": 6,
+      "areaName": "单机游戏",
+      "subAreaId": 844,
+      "subAreaName": "索尼克SuperStar",
+      "flvAvailabilities": [
         1
       ]
     },
