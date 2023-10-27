@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698370140758",
+  "lastUpdated": "1698373741544",
   "data": [
     {
       "areaId": 1,
@@ -242,9 +242,9 @@
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -295,8 +295,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         1,
         1,
@@ -304,7 +302,9 @@
         0,
         1,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -1057,7 +1057,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0
@@ -1177,11 +1177,11 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
         0,
         0,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -1378,9 +1378,9 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -5840,6 +5840,7 @@
       "subAreaId": 843,
       "subAreaName": "幽灵行者2",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
