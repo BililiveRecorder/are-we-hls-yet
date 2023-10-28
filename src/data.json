@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698470939634",
+  "lastUpdated": "1698474538313",
   "data": [
     {
       "areaId": 1,
@@ -295,8 +295,6 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         1,
@@ -304,7 +302,9 @@
         0,
         0,
         0,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1058,9 +1058,9 @@
         0,
         0,
         0,
-        0,
-        0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -4573,7 +4573,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -5014,7 +5014,7 @@
       "areaId": 3,
       "areaName": "手游",
       "subAreaId": 791,
-      "subAreaName": "太空行动",
+      "subAreaName": "太空杀",
       "flvAvailabilities": [
         1,
         1,
@@ -5064,13 +5064,13 @@
       "subAreaName": "Dark and Darker",
       "flvAvailabilities": [
         0,
-        0,
         1,
         0,
         1,
         1,
         0,
         1,
+        0,
         0,
         0
       ]
@@ -5866,6 +5866,7 @@
       "subAreaId": 844,
       "subAreaName": "索尼克SuperStar",
       "flvAvailabilities": [
+        1,
         1
       ]
     },
