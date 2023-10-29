@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698618530743",
+  "lastUpdated": "1698622131995",
   "data": [
     {
       "areaId": 1,
@@ -1052,7 +1052,7 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1738,11 +1738,11 @@
         1,
         0,
         1,
+        1,
+        1,
+        1,
         0,
-        1,
-        1,
-        1,
-        1,
+        0,
         0,
         0
       ]
@@ -5879,12 +5879,12 @@
       "subAreaName": "The Finals",
       "flvAvailabilities": [
         0,
-        0,
         1,
         0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0
