@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698578946545",
+  "lastUpdated": "1698582538404",
   "data": [
     {
       "areaId": 1,
@@ -297,14 +297,14 @@
       "flvAvailabilities": [
         0,
         1,
-        0,
-        1,
         1,
         0,
         1,
         0,
         1,
-        0
+        0,
+        0,
+        1
       ]
     },
     {
@@ -1053,14 +1053,14 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
-        0,
         1,
         1,
         0,
         0,
         0,
-        1
+        1,
+        1,
+        0
       ]
     },
     {
@@ -3667,6 +3667,7 @@
         1,
         1,
         1,
+        1,
         1
       ]
     },
@@ -5063,11 +5064,11 @@
       "subAreaId": 795,
       "subAreaName": "Dark and Darker",
       "flvAvailabilities": [
-        0,
         1,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -5876,8 +5877,8 @@
       "subAreaId": 846,
       "subAreaName": "The Finals",
       "flvAvailabilities": [
-        0,
         1,
+        0,
         0,
         0,
         0,
