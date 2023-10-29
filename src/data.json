@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698539331678",
+  "lastUpdated": "1698542936974",
   "data": [
     {
       "areaId": 1,
@@ -296,14 +296,14 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
+        1,
+        1,
         0,
         1,
         1,
         1,
         0,
-        1,
-        1,
-        1,
+        0,
         0
       ]
     },
@@ -441,11 +441,11 @@
       "flvAvailabilities": [
         0,
         1,
-        0,
-        1,
         1,
         0,
         1,
+        1,
+        0,
         1,
         0,
         1
@@ -872,8 +872,8 @@
       "subAreaName": "饥荒",
       "flvAvailabilities": [
         1,
-        1,
         0,
+        1,
         1,
         1,
         1,
@@ -1054,7 +1054,7 @@
         0,
         1,
         0,
-        1,
+        0,
         0,
         0,
         0,
@@ -1177,7 +1177,7 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
@@ -1376,9 +1376,9 @@
       "subAreaName": "命运2",
       "flvAvailabilities": [
         0,
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -1736,11 +1736,11 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
+        0,
+        0,
         1,
         0,
         0,
-        0,
-        1,
         0,
         0,
         0,
@@ -4565,11 +4565,11 @@
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
         1,
-        1,
         0,
         1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -5876,14 +5876,14 @@
       "subAreaId": 846,
       "subAreaName": "The Finals",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         0,
         0,
         0,
         1,
         1,
+        0,
+        0,
         0,
         0
       ]
