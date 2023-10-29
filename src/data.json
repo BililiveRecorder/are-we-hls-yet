@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698582538404",
+  "lastUpdated": "1698586140583",
   "data": [
     {
       "areaId": 1,
@@ -295,14 +295,14 @@
       "subAreaId": 87,
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
-        0,
-        1,
         1,
         0,
         1,
         0,
         1,
         0,
+        0,
+        1,
         0,
         1
       ]
@@ -1051,8 +1051,6 @@
       "subAreaId": 240,
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
-        0,
-        0,
         1,
         1,
         0,
@@ -1060,6 +1058,8 @@
         0,
         1,
         1,
+        0,
+        0,
         0
       ]
     },
@@ -4574,7 +4574,7 @@
         0,
         0,
         0,
-        0
+        1
       ]
     },
     {
@@ -4775,6 +4775,7 @@
       "subAreaId": 774,
       "subAreaName": "幕后高手",
       "flvAvailabilities": [
+        1,
         1,
         1,
         1,
@@ -5065,9 +5066,9 @@
       "subAreaName": "Dark and Darker",
       "flvAvailabilities": [
         1,
-        1,
         0,
         1,
+        0,
         0,
         0,
         0,
@@ -5877,7 +5878,7 @@
       "subAreaId": 846,
       "subAreaName": "The Finals",
       "flvAvailabilities": [
-        1,
+        0,
         0,
         0,
         0,
