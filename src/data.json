@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698571740862",
+  "lastUpdated": "1698575341292",
   "data": [
     {
       "areaId": 1,
@@ -241,9 +241,9 @@
       "subAreaId": 83,
       "subAreaName": "魔兽世界",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -301,8 +301,8 @@
         1,
         0,
         1,
-        0,
         1,
+        0,
         1,
         0
       ]
@@ -1052,15 +1052,15 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         0,
         0,
         0,
         0,
         1,
-        1
+        1,
+        0,
+        0
       ]
     },
     {
@@ -5876,12 +5876,12 @@
       "subAreaId": 846,
       "subAreaName": "The Finals",
       "flvAvailabilities": [
-        1,
-        0,
         0,
         1,
         0,
         1,
+        0,
+        0,
         0,
         0,
         0,
