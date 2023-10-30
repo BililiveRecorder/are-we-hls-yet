@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698640132155",
+  "lastUpdated": "1698643737828",
   "data": [
     {
       "areaId": 1,
@@ -1054,10 +1054,10 @@
         0,
         0,
         0,
-        0,
-        0,
         1,
         0,
+        1,
+        1,
         1,
         1,
         1
@@ -4565,9 +4565,9 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
-        0,
-        0,
         1,
+        0,
+        0,
         0,
         0,
         0,
@@ -5880,14 +5880,14 @@
       "subAreaName": "The Finals",
       "flvAvailabilities": [
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
         1,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        1,
         0
       ]
     }
