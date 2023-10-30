@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698668943240",
+  "lastUpdated": "1698672543680",
   "data": [
     {
       "areaId": 1,
@@ -296,7 +296,6 @@
       "subAreaName": "守望先锋",
       "flvAvailabilities": [
         1,
-        1,
         0,
         0,
         0,
@@ -304,7 +303,8 @@
         1,
         0,
         1,
-        0
+        0,
+        1
       ]
     },
     {
@@ -1052,12 +1052,12 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         0,
+        0,
+        0,
         1,
         0,
         0,
-        0,
         1,
-        0,
         0,
         1,
         0
@@ -1177,8 +1177,6 @@
       "subAreaId": 252,
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
-        1,
-        1,
         0,
         0,
         0,
@@ -1186,7 +1184,9 @@
         0,
         0,
         1,
-        0
+        0,
+        1,
+        1
       ]
     },
     {
@@ -1391,7 +1391,7 @@
       "areaId": 6,
       "areaName": "单机游戏",
       "subAreaId": 282,
-      "subAreaName": "使命召唤",
+      "subAreaName": "使命召唤20",
       "flvAvailabilities": [
         0,
         0,
@@ -1742,9 +1742,9 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        1
+        0
       ]
     },
     {
@@ -5006,9 +5006,9 @@
         0,
         0,
         0,
+        1,
+        1,
         0,
-        1,
-        1,
         0,
         0
       ]
@@ -5882,7 +5882,7 @@
       "flvAvailabilities": [
         0,
         0,
-        0,
+        1,
         0,
         1,
         0,
