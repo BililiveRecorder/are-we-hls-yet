@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "1698715739586",
+  "lastUpdated": "1698719339314",
   "data": [
     {
       "areaId": 1,
@@ -1052,7 +1052,6 @@
       "subAreaName": "APEX英雄",
       "flvAvailabilities": [
         1,
-        1,
         0,
         0,
         0,
@@ -1060,7 +1059,8 @@
         0,
         0,
         0,
-        0
+        0,
+        1
       ]
     },
     {
@@ -1178,10 +1178,10 @@
       "subAreaName": "逃离塔科夫",
       "flvAvailabilities": [
         0,
+        0,
         1,
         0,
         0,
-        1,
         0,
         0,
         0,
@@ -1736,12 +1736,12 @@
       "subAreaName": "无畏契约",
       "flvAvailabilities": [
         0,
-        1,
-        0,
         0,
         1,
         1,
         1,
+        0,
+        0,
         0,
         0,
         0
@@ -4565,11 +4565,11 @@
       "subAreaId": 745,
       "subAreaName": "虚拟Gamer",
       "flvAvailabilities": [
+        1,
+        1,
+        1,
         0,
         0,
-        1,
-        1,
-        1,
         0,
         0,
         0,
@@ -5881,8 +5881,8 @@
       "subAreaName": "The Finals",
       "flvAvailabilities": [
         1,
-        1,
-        1,
+        0,
+        0,
         0,
         0,
         0,
